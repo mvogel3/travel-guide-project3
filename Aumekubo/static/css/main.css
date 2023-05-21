@@ -1,0 +1,16 @@
+body {
+    margin: center;
+    font-family: sans-serif;
+}
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
