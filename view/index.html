@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-push-2">
                 <div class="well">
                     <h5>Select Hotel:</h5>
                     <select id="selDataset" onchange="optionChanged(this.value)"></select>
@@ -33,11 +33,13 @@
                     <div id="sample-metadata" class="panel-body"></div>
                 </div>
             </div>
+            <div class="col-md-8">
+                <div id="map"></div>
+            </div>
         </div>
-        <div class="row">
-            <div id="map" class="panel-body"></div>
-        </div>
+
     </div>
+
     </div>
 
     <script src="https://d3js.org/d3.v5.min.js"></script>

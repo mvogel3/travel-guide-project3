@@ -8,8 +8,8 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 
 from flask import Flask, jsonify
 
-
-engine = create_engine('postgresql+psycopg2://postgres:postgress@127.0.0.1:5432/hotel_db') 
+ 
+engine = create_engine('postgresql+psycopg2://postgres:postgress@127.0.0.1:5432/hotel_db')
 Base = automap_base()
 Base.prepare(autoload_with=engine)
 HOTEL = Base.classes.hotel
@@ -30,15 +30,20 @@ def names():
 
     """Return a list of all hotel names and address"""
     # Query all passengers
-    results = session.query(HOTEL.hotel_name, func.max(HOTEL.address), func.max(HOTEL.latitude), func.max(HOTEL.longitude)).group_by(HOTEL.hotel_name).all()
+    results = session.query(HOTEL.hotel_name, func.max(HOTEL.address), func.max(HOTEL.rating), func.max(HOTEL.reviews), func.max(HOTEL.subway_name), func.max(HOTEL.entertainment), func.max(HOTEL.wheelchair), func.max(HOTEL.latitude), func.max(HOTEL.longitude)).group_by(HOTEL.hotel_name).all()
 
     session.close()
 
     all_hotels = []
-    for hotel_name, address, lat, long in results:
+    for hotel_name, address, rating, reviews, subway, entertainment, wheelchair, lat, long in results:
         hotel_info = {}
         hotel_info["name"] = hotel_name
         hotel_info["address"] = address
+        hotel_info["rating"] = rating
+        hotel_info["reviews"] = reviews
+        hotel_info["wheelchair"] = wheelchair
+        hotel_info["subway"] = subway
+        hotel_info["entertainment"] = entertainment
         hotel_info["location"] = [float(lat), float(long)]
         all_hotels.append(hotel_info)
     print(len(all_hotels))
