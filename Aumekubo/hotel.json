@@ -1291,7 +1291,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "W Downtown",
+                "address_line1": "The Washington New York City",
                 "address_line2": "8 Albany Street, New York, NY 10006, United States of America",
                 "categories": [
                     "accommodation",
@@ -1311,18 +1311,16 @@
                         "addr:housenumber": 8,
                         "addr:postcode": 10006,
                         "addr:street": "Albany Street",
-                        "brand": "W Hotels",
                         "brand:wikidata": "Q7958488",
                         "brand:wikipedia": "en:W Hotels",
                         "building": "yes",
-                        "name": "W Downtown",
+                        "check_date": "2023-02-23",
+                        "name": "The Washington New York City",
                         "official_name": "W New York - Downtown",
                         "osm_id": 278033597,
                         "osm_type": "w",
                         "short_name": "W",
-                        "start_date": 2010,
                         "tourism": "hotel",
-                        "website": "http://www.wnewyorkdowntown.com/",
                         "wikidata": "Q7958500",
                         "wikipedia": "en:W New York Downtown Hotel and Residences"
                     },
@@ -1331,17 +1329,16 @@
                 },
                 "details": [
                     "details",
-                    "details.building",
                     "details.wiki_and_media"
                 ],
                 "distance": 743,
                 "district": "Manhattan Community Board 1",
-                "formatted": "W Downtown, 8 Albany Street, New York, NY 10006, United States of America",
+                "formatted": "The Washington New York City, 8 Albany Street, New York, NY 10006, United States of America",
                 "housenumber": "8",
                 "lat": 40.70920805,
                 "lon": -74.0136683922442,
-                "name": "W Downtown",
-                "place_id": "51cf919f1be08052c059a2128c56c75a4440f00102f901bd7492100000000092030a5720446f776e746f776e",
+                "name": "The Washington New York City",
+                "place_id": "51cf919f1be08052c059a2128c56c75a4440f00102f901bd7492100000000092031c5468652057617368696e67746f6e204e657720596f726b2043697479",
                 "postcode": "10006",
                 "state": "New York",
                 "state_code": "NY",
@@ -1498,7 +1495,7 @@
                         "addr:postcode": 10006,
                         "addr:street": "West Street",
                         "brand": "Marriott",
-                        "brand:wikidata": "Q1141173",
+                        "brand:wikidata": "Q3918608",
                         "brand:wikipedia": "en:Marriott International",
                         "building": "yes",
                         "name": "Marriott Downtown",
@@ -1846,12 +1843,11 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area",
+                "address_line1": "Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area",
                 "address_line2": "100 Greenwich Street, New York, NY 10006, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
-                    "internet_access",
                     "wheelchair",
                     "wheelchair.yes"
                 ],
@@ -1868,19 +1864,15 @@
                         "addr:postcode": 10006,
                         "addr:state": "NY",
                         "addr:street": "Greenwich Street",
-                        "air_conditioning": "yes",
-                        "brand": "Fairfield Inn & Suites",
+                        "brand": "Courtyard",
                         "brand:wikidata": "Q5430314",
                         "brand:wikipedia": "en:Fairfield by Marriott",
-                        "fax": "+1 917-409-0801",
-                        "internet_access": "yes",
-                        "name": "Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area",
+                        "check_date": "2023-02-23",
+                        "name": "Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area",
+                        "official_name": "Fairfield Inn & Suites by Marriott",
                         "osm_id": 6309444106,
                         "osm_type": "n",
-                        "phone": "+1 917 409 0800",
-                        "smoking": "no",
                         "tourism": "hotel",
-                        "website": "https://www.marriott.com/hotels/travel/nycre-fairfield-inn-and-suites-new-york-downtown-manhattan-world-trade-center-area/",
                         "wheelchair": "yes"
                     },
                     "sourcename": "openstreetmap",
@@ -1888,17 +1880,16 @@
                 },
                 "details": [
                     "details",
-                    "details.contact",
                     "details.facilities"
                 ],
                 "distance": 817,
                 "district": "Manhattan Community Board 1",
-                "formatted": "Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area, 100 Greenwich Street, New York, NY 10006, United States of America",
+                "formatted": "Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area, 100 Greenwich Street, New York, NY 10006, United States of America",
                 "housenumber": "100",
                 "lat": 40.7082719,
                 "lon": -74.0136192,
-                "name": "Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area",
-                "place_id": "5140a61023df8052c059795b54a7a85a4440f00103f9010a7a127801000000920356466169726669656c6420496e6e202620537569746573206279204d617272696f7474204e657720596f726b20446f776e746f776e204d616e68617474616e2f576f726c642054726164652043656e7465722041726561",
+                "name": "Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area",
+                "place_id": "5140a61023df8052c059795b54a7a85a4440f00103f9010a7a127801000000920349436f75727479617264206279204d617272696f7474204e657720596f726b20446f776e746f776e204d616e68617474616e2f576f726c642054726164652043656e7465722041726561",
                 "postcode": "10006",
                 "state": "New York",
                 "state_code": "NY",
@@ -2995,6 +2986,8 @@
                         "addr:postcode": 10002,
                         "addr:state": "NY",
                         "addr:street": "Bowery",
+                        "brand": "Wyndham Garden",
+                        "brand:wikidata": "Q112144847",
                         "building": "hotel",
                         "business_centre": "yes",
                         "contact:facebook": "WyndhamNYCCT",
@@ -4365,7 +4358,7 @@
             },
             "properties": {
                 "address_line1": "The Dominick",
-                "address_line2": "Varick Street, New York, NY 10005, United States of America",
+                "address_line2": "Dominick Street, New York, NY 10005, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -4401,7 +4394,7 @@
                 ],
                 "distance": 1364,
                 "district": "Manhattan Community Board 2",
-                "formatted": "The Dominick, Varick Street, New York, NY 10005, United States of America",
+                "formatted": "The Dominick, Dominick Street, New York, NY 10005, United States of America",
                 "lat": 40.72532055,
                 "lon": -74.00549625,
                 "name": "The Dominick",
@@ -4409,7 +4402,7 @@
                 "postcode": "10005",
                 "state": "New York",
                 "state_code": "NY",
-                "street": "Varick Street",
+                "street": "Dominick Street",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -5221,10 +5214,11 @@
                         "addr:postcode": 10002,
                         "addr:state": "NY",
                         "addr:street": "Delancey Street",
+                        "branch": "Lower East Side",
                         "brand": "Holiday Inn",
                         "brand:wikidata": "Q2717882",
                         "brand:wikipedia": "en:Holiday Inn",
-                        "building": "yes",
+                        "building": "hotel",
                         "building:colour": "#A67B6A",
                         "building:levels": 8,
                         "building:material": "brick",
@@ -5704,6 +5698,68 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.99679148555899,
+                    40.73265463514025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "5 West 8th Street",
+                "address_line2": "New York, NY 10011, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel",
+                    "building",
+                    "building.accommodation"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:housenumber": 5,
+                        "addr:postcode": 10011,
+                        "addr:street": "West 8th Street",
+                        "building": "hotel",
+                        "fax": "+1-212-321-0400",
+                        "height": 29.5,
+                        "osm_id": 248754520,
+                        "osm_type": "w",
+                        "phone": "+1-212-321-0100",
+                        "tourism": "hotel",
+                        "website": "https://marltonhotel.com",
+                        "wikidata": "Q6772011"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.contact",
+                    "details.wiki_and_media"
+                ],
+                "distance": 2325,
+                "district": "Washington Square Village",
+                "formatted": "5 West 8th Street, New York, NY 10011, United States of America",
+                "housenumber": "5",
+                "lat": 40.73263715,
+                "lon": -73.99681319390135,
+                "place_id": "510eda836ecb7f52c059589888a0c75d4440f00102f90158b1d30e00000000",
+                "postcode": "10011",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West 8th Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.03384894368538,
                     40.71590439111291
                 ],
@@ -5880,8 +5936,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.98437880287305,
-                    40.69656641655102
+                    -73.98438666554443,
+                    40.69658199847905
                 ],
                 "type": "Point"
             },
@@ -5929,10 +5985,10 @@
                 "district": "DUMBO",
                 "formatted": "The Tillary Hotel, 85 Flatbush Avenue Extension, New York, NY 11201, United States of America",
                 "housenumber": "85",
-                "lat": 40.69646025,
-                "lon": -73.98434394081349,
+                "lat": 40.6964684,
+                "lon": -73.98435197508277,
                 "name": "The Tillary Hotel",
-                "place_id": "51c94df30f007f52c0590e4a9d1629594440f00102f9016d8b4917000000009203115468652054696c6c61727920486f74656c",
+                "place_id": "5170c8ed30007f52c0599439539929594440f00102f9016d8b4917000000009203115468652054696c6c61727920486f74656c",
                 "postcode": "11201",
                 "state": "New York",
                 "state_code": "NY",
@@ -5951,7 +6007,7 @@
             },
             "properties": {
                 "address_line1": "New York Marriott at the Brooklyn Bridge",
-                "address_line2": "Pearl Street, New York, NY 11201, United States of America",
+                "address_line2": "Adams Street, New York, NY 11201, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -5986,7 +6042,7 @@
                     "details.facilities"
                 ],
                 "distance": 2533,
-                "formatted": "New York Marriott at the Brooklyn Bridge, Pearl Street, New York, NY 11201, United States of America",
+                "formatted": "New York Marriott at the Brooklyn Bridge, Adams Street, New York, NY 11201, United States of America",
                 "lat": 40.693848349999996,
                 "lon": -73.98798893679572,
                 "name": "New York Marriott at the Brooklyn Bridge",
@@ -5994,7 +6050,7 @@
                 "postcode": "11201",
                 "state": "New York",
                 "state_code": "NY",
-                "street": "Pearl Street",
+                "street": "Adams Street",
                 "suburb": "Brooklyn"
             },
             "type": "Feature"
@@ -9089,7 +9145,9 @@
                     "building",
                     "building.accommodation",
                     "internet_access",
-                    "internet_access.free"
+                    "internet_access.free",
+                    "wheelchair",
+                    "wheelchair.yes"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -9104,7 +9162,7 @@
                         "addr:state": "NY",
                         "addr:street": "Seabring Street",
                         "building": "yes",
-                        "email": "info@lodgeredhook.com",
+                        "email": "localguides@lodgeredhook.com",
                         "height": 13.7,
                         "internet_access": "wlan",
                         "internet_access:fee": "no",
@@ -9112,15 +9170,18 @@
                         "osm_id": 278371860,
                         "osm_type": "w",
                         "phone": "+1 718-675-5200",
+                        "rooms": 81,
                         "smoking": "no",
                         "tourism": "hotel",
-                        "website": "https://www.lodgeredhook.com/en/"
+                        "website": "https://www.lodgeredhook.com/en/",
+                        "wheelchair": "yes"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
                     "details",
+                    "details.accommodation",
                     "details.building",
                     "details.contact",
                     "details.facilities"
@@ -9193,6 +9254,68 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "East 25th Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.99292024307792,
+                    40.74408776823641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Motto By Hilton",
+                "address_line2": "112 West 25th Street, New York, NY 10001, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel",
+                    "building",
+                    "building.accommodation"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 112,
+                        "addr:postcode": 10001,
+                        "addr:street": "West 25th Street",
+                        "brand": "Hilton",
+                        "brand:wikidata": "Q598884",
+                        "building": "yes",
+                        "height": 25.9,
+                        "name": "Motto By Hilton",
+                        "osm_id": 248144156,
+                        "osm_type": "w",
+                        "tourism": "hotel",
+                        "website": "https://www.hilton.com/en/hotels/nycdlua-motto-new-york-city-chelsea/"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.building"
+                ],
+                "distance": 3633,
+                "district": "Chelsea",
+                "formatted": "Motto By Hilton, 112 West 25th Street, New York, NY 10001, United States of America",
+                "housenumber": "112",
+                "lat": 40.7440878,
+                "lon": -73.99292024295008,
+                "name": "Motto By Hilton",
+                "place_id": "5196e358018c7f52c059eaf69a443e5f4440f00102f9011c61ca0e0000000092030f4d6f74746f2042792048696c746f6e",
+                "postcode": "10001",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West 25th Street",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -9367,6 +9490,69 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "West 23rd Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.99273742053143,
+                    40.74430958960986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Renaissance New York Chelsea Hotel",
+                "address_line2": "112 West 25th Street, New York, NY 10001, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel",
+                    "building",
+                    "building.accommodation"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 112,
+                        "addr:postcode": 10001,
+                        "addr:state": "NY",
+                        "addr:street": "West 25th Steet",
+                        "brand": "Renaissance",
+                        "brand:wikidata": "Q2143252",
+                        "building": "yes",
+                        "height": 25.9,
+                        "name": "Renaissance New York Chelsea Hotel",
+                        "osm_id": 1149260763,
+                        "osm_type": "w",
+                        "tourism": "hotel",
+                        "website": "https://www.marriott.com/en-us/hotels/nycmm-renaissance-new-york-chelsea-hotel/overview/"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.building"
+                ],
+                "distance": 3661,
+                "district": "Chelsea",
+                "formatted": "Renaissance New York Chelsea Hotel, 112 West 25th Street, New York, NY 10001, United States of America",
+                "housenumber": "112",
+                "lat": 40.744308849999996,
+                "lon": -73.99273754210674,
+                "name": "Renaissance New York Chelsea Hotel",
+                "place_id": "51aaac8802897f52c0599dbc6089455f4440f00102f901db5380440000000092032252656e61697373616e6365204e657720596f726b204368656c73656120486f74656c",
+                "postcode": "10001",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West 25th Street",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -13368,166 +13554,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.98440291268281,
-                    40.678209732878294
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Holiday Inn Express Brooklyn",
-                "address_line2": "625 Union Street, New York, NY 11215, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
-                    "building",
-                    "building.accommodation"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:city": "Brooklyn",
-                        "addr:housenumber": 625,
-                        "addr:postcode": 11215,
-                        "addr:state": "NY",
-                        "addr:street": "Union Street",
-                        "brand": "Holiday Inn Express",
-                        "brand:wikidata": "Q5880423",
-                        "brand:wikipedia": "en:Holiday Inn Express",
-                        "building": "hotel",
-                        "email": "info@expressbrooklyn.com",
-                        "height": 25.8,
-                        "name": "Holiday Inn Express Brooklyn",
-                        "operator": "IHG",
-                        "osm_id": 241845964,
-                        "osm_type": "w",
-                        "payment:bitcoin": "yes",
-                        "phone": "+1 718 797 1133",
-                        "tourism": "hotel",
-                        "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/brooklyn/bxyln/hoteldetail"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.building",
-                    "details.contact",
-                    "details.payment"
-                ],
-                "distance": 4238,
-                "district": "Gowanus",
-                "formatted": "Holiday Inn Express Brooklyn, 625 Union Street, New York, NY 11215, United States of America",
-                "housenumber": "625",
-                "lat": 40.6782097,
-                "lon": -73.98440290299999,
-                "name": "Holiday Inn Express Brooklyn",
-                "place_id": "51d4031375007f52c05945459793cf564440f00102f901cc466a0e0000000092031c486f6c6964617920496e6e20457870726573732042726f6f6b6c796e",
-                "postcode": "11215",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Union Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.99052487049622,
-                    40.74967505006171
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Hotel Pennsylvania",
-                "address_line2": "401 7th Avenue, New York, NY 10001, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
-                    "building",
-                    "building.accommodation",
-                    "dogs",
-                    "dogs.yes",
-                    "internet_access",
-                    "wheelchair",
-                    "wheelchair.yes"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:city": "New York",
-                        "addr:housename": "Pennsylvania Hotel",
-                        "addr:housenumber": 401,
-                        "addr:postcode": "10001-2062",
-                        "addr:street": "7th Avenue",
-                        "architect": "McKim, Meade & White",
-                        "architect:wikidata": "Q1915267",
-                        "architect:wikipedia": "en:McKim, Meade & White",
-                        "breakfast": "yes",
-                        "building": "hotel",
-                        "building:architecture": "beaux-arts",
-                        "cat": "yes",
-                        "contact:facebook": "https://www.facebook.com/nyhotelpenn",
-                        "contact:twitter": "https://twitter.com/NYHotelPenn",
-                        "dog": "yes",
-                        "email": "info@hotelpenn.com",
-                        "fax": "+1 212-502-8712",
-                        "fitness_centre": "yes",
-                        "height": 92.6,
-                        "image": "https://commons.wikimedia.org/wiki/File:BigAppleCon11.14.08ByLuigiNovi3.jpg",
-                        "internet_access": "wlan",
-                        "name": "Hotel Pennsylvania",
-                        "osm_id": 264685192,
-                        "osm_type": "w",
-                        "phone": "+1 212-736-5000",
-                        "rooms": 1704,
-                        "smoking": "dedicated",
-                        "start_date": 1919,
-                        "tourism": "hotel",
-                        "website": "https://www.hotelpenn.com",
-                        "wheelchair": "yes",
-                        "wikidata": "Q1631006",
-                        "wikipedia": "en:Hotel Pennsylvania"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.accommodation",
-                    "details.building",
-                    "details.contact",
-                    "details.facilities",
-                    "details.wiki_and_media"
-                ],
-                "distance": 4257,
-                "district": "Chelsea District",
-                "formatted": "Hotel Pennsylvania, 401 7th Avenue, New York, NY 10001, United States of America",
-                "housenumber": "401",
-                "lat": 40.749675100000005,
-                "lon": -73.99052472856631,
-                "name": "Hotel Pennsylvania",
-                "place_id": "51fa296dc2647f52c05934521f5af55f4440f00102f90188c6c60f00000000920312486f74656c2050656e6e73796c76616e6961",
-                "postcode": "10001",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "7th Avenue",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -73.982336,
                     40.74681370036289
                 ],
@@ -15418,7 +15444,7 @@
             },
             "properties": {
                 "address_line1": "35 Hudson Yards",
-                "address_line2": "35 Hudson Boulevard West, New York, NY 10001, United States of America",
+                "address_line2": "35 11th Avenue, New York, NY 10001, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.apartment",
@@ -15458,7 +15484,7 @@
                 ],
                 "distance": 4622,
                 "district": "Hudson Yards",
-                "formatted": "35 Hudson Yards, 35 Hudson Boulevard West, New York, NY 10001, United States of America",
+                "formatted": "35 Hudson Yards, 35 11th Avenue, New York, NY 10001, United States of America",
                 "housenumber": "35",
                 "lat": 40.754673749999995,
                 "lon": -74.002222085563,
@@ -15467,7 +15493,7 @@
                 "postcode": "10001",
                 "state": "New York",
                 "state_code": "NY",
-                "street": "Hudson Boulevard West",
+                "street": "11th Avenue",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -16109,6 +16135,66 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.95080232270443,
+                    40.71657997970119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Hotel Le Jolie",
+                "address_line2": "235 Meeker Avenue, New York, NY 11211, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel",
+                    "building",
+                    "building.accommodation"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:housenumber": 235,
+                        "addr:postcode": 11211,
+                        "addr:street": "Meeker Avenue",
+                        "building": "hotel",
+                        "height": 28.6,
+                        "name": "Hotel Le Jolie",
+                        "osm_id": 280075318,
+                        "osm_type": "w",
+                        "phone": "+1-718-625-2100",
+                        "tourism": "hotel",
+                        "website": "https://www.hotellejolie.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.contact"
+                ],
+                "distance": 4675,
+                "formatted": "Hotel Le Jolie, 235 Meeker Avenue, New York, NY 11211, United States of America",
+                "housenumber": "235",
+                "lat": 40.71659495,
+                "lon": -73.95080479633074,
+                "name": "Hotel Le Jolie",
+                "place_id": "517d3efcf1d97c52c05979e48ce4b85b4440f00102f901369cb1100000000092030e486f74656c204c65204a6f6c6965",
+                "postcode": "11211",
+                "quarter": "Williamsburg",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Meeker Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.98168919238397,
                     40.750925845384806
                 ],
@@ -16232,7 +16318,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "Radisson Hotel",
+                "address_line1": "DoubleTree by Hilton",
                 "address_line2": "525 8th Avenue, New York, NY 10018, United States of America",
                 "categories": [
                     "accommodation",
@@ -16250,25 +16336,25 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "addr:city": "New York",
                         "addr:housenumber": 525,
                         "addr:postcode": 10018,
+                        "addr:state": "NY",
                         "addr:street": "8th Avenue",
-                        "branch": "Times Square",
-                        "brand": "Radisson",
-                        "brand:wikidata": "Q1751979",
-                        "brand:wikipedia": "en:Radisson Hotels",
+                        "branch": "Times Square South",
+                        "brand": "DoubleTree",
+                        "brand:wikidata": "Q2504643",
                         "building": "hotel",
-                        "email": "rhi_mnny@radissonamericas.com",
                         "internet_access": "wlan",
                         "internet_access:fee": "no",
-                        "name": "Radisson Hotel",
-                        "operator": "Radisson Hospitality, Inc.",
+                        "name": "DoubleTree by Hilton",
+                        "official_name": "DoubleTree by Hilton",
                         "osm_id": 785585477,
                         "osm_type": "w",
                         "payment:cash": "no",
-                        "phone": "+1 646-502-9945",
+                        "phone": "+1 212-255-9000",
                         "tourism": "hotel",
-                        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-new-york-times-square",
+                        "website": "https://www.hilton.com/en/hotels/nycsodt-doubletree-new-york-times-square-south/",
                         "wheelchair": "designated"
                     },
                     "sourcename": "openstreetmap",
@@ -16282,12 +16368,12 @@
                 ],
                 "distance": 4680,
                 "district": "Manhattan Community Board 4",
-                "formatted": "Radisson Hotel, 525 8th Avenue, New York, NY 10018, United States of America",
+                "formatted": "DoubleTree by Hilton, 525 8th Avenue, New York, NY 10018, United States of America",
                 "housenumber": "525",
                 "lat": 40.753820899999994,
                 "lon": -73.99271123420739,
-                "name": "Radisson Hotel",
-                "place_id": "5174858621887f52c059c2d103c07d604440f00102f9014515d32e0000000092030e5261646973736f6e20486f74656c",
+                "name": "DoubleTree by Hilton",
+                "place_id": "5174858621887f52c059c2d103c07d604440f00102f9014515d32e00000000920314446f75626c65547265652062792048696c746f6e",
                 "postcode": "10018",
                 "state": "New York",
                 "state_code": "NY",
@@ -16331,10 +16417,11 @@
                         "air_conditioning": "yes",
                         "bar": "yes",
                         "branch": "70 Park Avenue",
-                        "brand": "IBEROSTAR Hotels & Resorts",
+                        "brand": "Iberostar Hotels & Resorts",
+                        "brand:wikidata": "Q2035939",
                         "description": "Close to the Empire State Building and Grand Central Terminal, the Iberostar 70 Park Avenue is a 4-star city hotel in New York. The hotel has free Wi-Fi, self parking, fitness center, e-concierge, comfort rooms, accommodation for dogs and business center.",
                         "email": "nypdir@iberostar.com",
-                        "image": "https://apiimg.iberostar.com/uploads/image/30209/crops/1920:797/1920/image.jpeg",
+                        "image": "https://apiimg.iberostar.com/uploads/image/30209/image.jpeg",
                         "internet_access": "yes",
                         "internet_access:fee": "customers",
                         "name": "Iberostar",
@@ -19744,7 +19831,7 @@
             },
             "properties": {
                 "address_line1": "Grand Hyatt New York",
-                "address_line2": "109 Lexington Avenue, New York, NY 10017, United States of America",
+                "address_line2": "109 Park Avenue, New York, NY 10017, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -19791,7 +19878,7 @@
                 ],
                 "distance": 4995,
                 "district": "Manhattan Community Board 5",
-                "formatted": "Grand Hyatt New York, 109 Lexington Avenue, New York, NY 10017, United States of America",
+                "formatted": "Grand Hyatt New York, 109 Park Avenue, New York, NY 10017, United States of America",
                 "housenumber": "109",
                 "lat": 40.7520431,
                 "lon": -73.97632438188816,
@@ -19800,7 +19887,7 @@
                 "postcode": "10017",
                 "state": "New York",
                 "state_code": "NY",
-                "street": "Lexington Avenue",
+                "street": "Park Avenue",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -21285,12 +21372,13 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "Yotel New York",
+                "address_line1": "YOTEL",
                 "address_line2": "570 10th Avenue, New York, NY 10036, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
-                    "internet_access"
+                    "internet_access",
+                    "internet_access.for_customers"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -21312,8 +21400,8 @@
                         "brand:wikipedia": "en:Yotel",
                         "email": "newyork.contact@yotel.com",
                         "internet_access": "wlan",
-                        "name": "Yotel New York",
-                        "name:ru": "\u043e\u0442\u0435\u043b\u044c yotel",
+                        "internet_access:fee": "customers",
+                        "name": "YOTEL",
                         "osm_id": 1821451551,
                         "osm_type": "n",
                         "phone": "+1 646-449-7700",
@@ -21330,12 +21418,12 @@
                 ],
                 "distance": 5217,
                 "district": "Manhattan Community Board 4",
-                "formatted": "Yotel New York, 570 10th Avenue, New York, NY 10036, United States of America",
+                "formatted": "YOTEL, 570 10th Avenue, New York, NY 10036, United States of America",
                 "housenumber": "570",
                 "lat": 40.7590853,
                 "lon": -73.995439,
-                "name": "Yotel New York",
-                "place_id": "516d8ac745b57f52c05937f805b529614440f00103f9011f25916c0000000092030e596f74656c204e657720596f726b",
+                "name": "YOTEL",
+                "place_id": "516d8ac745b57f52c05937f805b529614440f00103f9011f25916c00000000920305594f54454c",
                 "postcode": "10036",
                 "state": "New York",
                 "state_code": "NY",
@@ -22059,13 +22147,15 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "Cambria Hotel",
+                "address_line1": "Hilton Garden Inn",
                 "address_line2": "30 West 46th Street, New York, NY 10036, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
                     "building",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "internet_access",
+                    "internet_access.free"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -22075,23 +22165,27 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "accessibility": "yes",
                         "addr:city": "New York",
                         "addr:housenumber": 30,
                         "addr:postcode": 10036,
                         "addr:state": "NY",
                         "addr:street": "West 46th Street",
-                        "brand": "Cambria Hotel",
-                        "brand:wikidata": "Q1075788",
-                        "brand:wikipedia": "en:Choice Hotels International",
+                        "branch": "Times Square North",
+                        "brand": "Hilton Garden Inn",
+                        "brand:wikidata": "Q1162859",
                         "building": "yes",
-                        "name": "Cambria Hotel",
-                        "official_name": "Cambria Hotel & Suite Times Square",
+                        "internet_access": "wlan",
+                        "internet_access:fee": "no",
+                        "name": "Hilton Garden Inn",
                         "osm_id": 282065776,
                         "osm_type": "w",
+                        "pets_allowed": "yes",
+                        "phone": "+1 646 569 6740",
                         "smoking": "outside",
                         "start_date": 2015,
                         "tourism": "hotel",
-                        "website": "http://www.cambriatimessquare.com/"
+                        "website": "https://www.hilton.com/en/hotels/nycargi-hilton-garden-inn-new-york-times-square-north/"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
@@ -22099,16 +22193,17 @@
                 "details": [
                     "details",
                     "details.building",
+                    "details.contact",
                     "details.facilities"
                 ],
                 "distance": 5284,
                 "district": "Manhattan Community Board 5",
-                "formatted": "Cambria Hotel, 30 West 46th Street, New York, NY 10036, United States of America",
+                "formatted": "Hilton Garden Inn, 30 West 46th Street, New York, NY 10036, United States of America",
                 "housenumber": "30",
                 "lat": 40.75646535,
                 "lon": -73.98063878060343,
-                "name": "Cambria Hotel",
-                "place_id": "515c702edec27e52c05951edcda2d3604440f00102f90170fbcf100000000092030d43616d6272696120486f74656c",
+                "name": "Hilton Garden Inn",
+                "place_id": "515c702edec27e52c05951edcda2d3604440f00102f90170fbcf100000000092031148696c746f6e2047617264656e20496e6e",
                 "postcode": "10036",
                 "state": "New York",
                 "state_code": "NY",
@@ -23677,13 +23772,14 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "Hyatt",
+                "address_line1": "Hotel 48LEX",
                 "address_line2": "517 Lexington Avenue, New York, NY 10017, United States of America",
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
                     "building",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "internet_access"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -23697,34 +23793,38 @@
                         "addr:housenumber": 517,
                         "addr:postcode": 10017,
                         "addr:street": "Lexington Avenue",
-                        "brand": "Hyatt",
-                        "brand:wikidata": "Q1425063",
-                        "brand:wikipedia": "en:Hyatt",
                         "building": "yes",
-                        "name": "Hyatt",
-                        "official_name": "Hyatt 48 Lex",
-                        "operator": "Hyatt",
+                        "contact:email": "info@hotel48lex.com",
+                        "contact:facebook": "Hotel48LEXNewYork",
+                        "contact:instagram": "hotel48lexnyc",
+                        "contact:twitter": "hotel48lex",
+                        "dog": "fee",
+                        "fitness_centre": "24/7",
+                        "internet_access": "wlan",
+                        "name": "Hotel 48LEX",
                         "osm_id": 265884389,
                         "osm_type": "w",
-                        "start_date": 2011,
+                        "phone": "+1 212-888-3500",
+                        "swimming_pool": "yes",
                         "tourism": "hotel",
-                        "website": "https://48lex.hyatt.com/"
+                        "website": "https://www.hotel48lexnewyork.com/"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
                     "details",
-                    "details.building"
+                    "details.contact",
+                    "details.facilities"
                 ],
                 "distance": 5474,
                 "district": "Manhattan Community Board 6",
-                "formatted": "Hyatt, 517 Lexington Avenue, New York, NY 10017, United States of America",
+                "formatted": "Hotel 48LEX, 517 Lexington Avenue, New York, NY 10017, United States of America",
                 "housenumber": "517",
                 "lat": 40.75532665,
                 "lon": -73.97291142988936,
-                "name": "Hyatt",
-                "place_id": "5196759754447e52c059e787d51eae604440f00102f901e512d90f000000009203054879617474",
+                "name": "Hotel 48LEX",
+                "place_id": "5196759754447e52c059e787d51eae604440f00102f901e512d90f0000000092030b486f74656c2034384c4558",
                 "postcode": "10017",
                 "state": "New York",
                 "state_code": "NY",
@@ -23934,6 +24034,69 @@
                 "state_code": "NY",
                 "street": "West 47th Street",
                 "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.99611052267424,
+                    40.663656696680995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Comfort Inn",
+                "address_line2": "150 20th Street, New York, NY 11232, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel",
+                    "building",
+                    "building.accommodation"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "Brooklyn",
+                        "addr:housenumber": 150,
+                        "addr:postcode": 11232,
+                        "addr:state": "NY",
+                        "addr:street": "20th Street",
+                        "branch": "Prospect Park Brooklyn",
+                        "building": "yes",
+                        "height": 5.3,
+                        "name": "Comfort Inn",
+                        "osm_id": 248241016,
+                        "osm_type": "w",
+                        "phone": "+1-718-571-9800",
+                        "tourism": "hotel",
+                        "website": "https://www.choicehotels.com/new-york/brooklyn/comfort-inn-hotels/ny700"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.contact"
+                ],
+                "distance": 5506,
+                "district": "South Slope",
+                "formatted": "Comfort Inn, 150 20th Street, New York, NY 11232, United States of America",
+                "housenumber": "150",
+                "lat": 40.6636455,
+                "lon": -73.99610651937499,
+                "name": "Comfort Inn",
+                "place_id": "5197855946c07f52c0591502e0b3f2544440f00102f90178dbcb0e0000000092030b436f6d666f727420496e6e",
+                "postcode": "11232",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "20th Street",
+                "suburb": "Brooklyn"
             },
             "type": "Feature"
         },
@@ -25358,21 +25521,25 @@
                         "addr:housenumber": 152,
                         "addr:street": "West 51st Street",
                         "building": "yes",
+                        "building:levels": 22,
                         "height": 72.3,
                         "name": "The Michelangelo",
                         "osm_id": 266170798,
                         "osm_type": "w",
+                        "rooms": 178,
                         "toilets:wheelchair": "yes",
                         "tourism": "hotel",
                         "website": "http://www.michelangelohotel.com/",
                         "wheelchair": "yes",
-                        "wikidata": "Q7751246"
+                        "wikidata": "Q7751246",
+                        "wikipedia": "en:The Michelangelo"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
                     "details",
+                    "details.accommodation",
                     "details.building",
                     "details.facilities",
                     "details.wiki_and_media"
@@ -25807,7 +25974,8 @@
                 "address_line2": "653 11th Avenue, New York, NY 10036, United States of America",
                 "categories": [
                     "accommodation",
-                    "accommodation.hotel"
+                    "accommodation.hotel",
+                    "internet_access"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -25823,13 +25991,18 @@
                         "addr:postcode": 10036,
                         "addr:state": "NY",
                         "addr:street": "11th Avenue",
+                        "air_conditioning": "yes",
+                        "bar": "yes",
+                        "brand": "MCR Hotels",
+                        "fax": "+1 212 757 2088",
+                        "internet_access": "wlan",
                         "name": "Ink 48 Hotel",
-                        "operator": "MCR Hotels",
                         "osm_id": 1873813874,
                         "osm_type": "n",
                         "phone": "+1 212 757 0088",
+                        "rooms": 222,
                         "smoking": "no",
-                        "stars": 4,
+                        "stars": 4.5,
                         "tourism": "hotel",
                         "website": "https://www.ink48.com/"
                     },
@@ -26808,8 +26981,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.98047063890633,
-                    40.76346520587017
+                    -73.98050699418393,
+                    40.763454834786536
                 ],
                 "type": "Point"
             },
@@ -26838,22 +27011,34 @@
                         "addr:postcode": 10019,
                         "addr:state": "NY",
                         "addr:street": "West 54th Street",
+                        "architect": "Frank Williams & Associates",
+                        "architect:wikidata": "Q1444464",
                         "brand": "Conrad",
                         "brand:wikidata": "Q855525",
                         "brand:wikipedia": "en:Conrad Hotels",
                         "building": "yes",
+                        "building:levels": 54,
+                        "contact:facebook": "https://www.facebook.com/ConradNYMidtown",
+                        "contact:instagram": "https://www.instagram.com/conradnymidtown/",
+                        "contact:twitter": "https://twitter.com/ConradMidtown",
+                        "contact:yelp": "https://www.yelp.com/biz/conrad-new-york-midtown-new-york-2",
                         "email": "NYCCN.Hotel@conradhotels.com",
                         "fax": "212-765-6530",
+                        "height": 179.8,
                         "internet_access": "yes",
                         "name": "Conrad New York Midtown",
+                        "old_name:-2006": "RIHGA Royal New York",
+                        "old_name:2006-2019": "The London NYC",
                         "osm_id": 265150609,
                         "osm_type": "w",
                         "phone": "212-307-5000",
                         "rooms": 562,
                         "stars": 4,
                         "tourism": "hotel",
-                        "website": "https://www.conradnewyorkmidtown.com/",
-                        "wheelchair": "yes"
+                        "website": "https://www.hilton.com/en/hotels/nyccnci-conrad-new-york-midtown/",
+                        "wheelchair": "yes",
+                        "wikidata": "Q23907601",
+                        "wikimedia_commons": "File:The London NYC 8Av 54St sun jeh.jpg"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
@@ -26861,17 +27046,19 @@
                 "details": [
                     "details",
                     "details.accommodation",
+                    "details.building",
                     "details.contact",
-                    "details.facilities"
+                    "details.facilities",
+                    "details.wiki_and_media"
                 ],
                 "distance": 6004,
                 "district": "Manhattan Community Board 5",
                 "formatted": "Conrad New York Midtown, 151 West 54th Street, New York, NY 10019, United States of America",
                 "housenumber": "151",
-                "lat": 40.76348835,
-                "lon": -73.98055450948019,
+                "lat": 40.76345465,
+                "lon": -73.98050656899403,
                 "name": "Conrad New York Midtown",
-                "place_id": "519e32ec07c07e52c059536c553ab9614440f00102f90191e0cd0f00000000920317436f6e726164204e657720596f726b204d6964746f776e",
+                "place_id": "513b6168a0c07e52c059cdb055e3b8614440f00102f90191e0cd0f00000000920317436f6e726164204e657720596f726b204d6964746f776e",
                 "postcode": "10019",
                 "state": "New York",
                 "state_code": "NY",
@@ -29356,6 +29543,7 @@
                     "details.wiki_and_media"
                 ],
                 "distance": 6305,
+                "district": "Manhattan Community Board 5",
                 "formatted": "Park Lane Hotel, 36 Central Park South, New York, NY 10019, United States of America",
                 "housenumber": "36",
                 "lat": 40.7648557,
@@ -29363,7 +29551,6 @@
                 "name": "Park Lane Hotel",
                 "place_id": "518e6bb90a6c7e52c05975e13502e6614440f00102f9014ed5cd0f0000000092030f5061726b204c616e6520486f74656c",
                 "postcode": "10019",
-                "quarter": "Midtown",
                 "state": "New York",
                 "state_code": "NY",
                 "street": "Central Park South",
@@ -29765,7 +29952,9 @@
                 "address_line2": "44th Avenue, New York, NY 11101, United States of America",
                 "categories": [
                     "accommodation",
-                    "accommodation.hostel"
+                    "accommodation.hostel",
+                    "internet_access",
+                    "internet_access.free"
                 ],
                 "city": "New York",
                 "country": "United States",
@@ -29774,7 +29963,12 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "air_conditioning": "yes",
+                        "check_date": "2023-02-25",
+                        "internet_access": "wlan",
+                        "internet_access:fee": "no",
                         "name": "The Local NY",
+                        "opening_hours": "24/7",
                         "osm_id": 8789178103,
                         "osm_type": "n",
                         "tourism": "hostel",
@@ -29784,7 +29978,8 @@
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
-                    "details"
+                    "details",
+                    "details.facilities"
                 ],
                 "distance": 6387,
                 "district": "Court Square",
@@ -29835,6 +30030,7 @@
                         "building": "hotel",
                         "height": 39.4,
                         "name": "Fairfield Inn Long Island City/Manhattan View",
+                        "official_name": "Fairfield by Marriott",
                         "osm_id": 265159068,
                         "osm_type": "w",
                         "tourism": "hotel"
@@ -30163,6 +30359,63 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.96911019999999,
+                    40.764520500364995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Loews Regency New York",
+                "address_line2": "540 Park Avenue, New York, NY 10037, United States of America",
+                "categories": [
+                    "accommodation",
+                    "accommodation.hotel"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 540,
+                        "addr:street": "Park Avenue",
+                        "name": "Loews Regency New York",
+                        "osm_id": 10699464134,
+                        "osm_type": "n",
+                        "stars": 5,
+                        "tourism": "hotel",
+                        "wikidata": "Q7308005",
+                        "wikipedia": "en:Regency Hotel"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details.accommodation",
+                    "details.wiki_and_media"
+                ],
+                "distance": 6534,
+                "district": "Manhattan Community Board 8",
+                "formatted": "Loews Regency New York, 540 Park Avenue, New York, NY 10037, United States of America",
+                "housenumber": "540",
+                "lat": 40.7645205,
+                "lon": -73.9691102,
+                "name": "Loews Regency New York",
+                "place_id": "5114cec9e6057e52c0593818c9cedb614440f00103f901c6ddbc7d020000009203164c6f65777320526567656e6379204e657720596f726b",
+                "postcode": "10037",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Park Avenue",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.9897271,
                     40.77034880036569
                 ],
@@ -30248,7 +30501,6 @@
                         "bar": "yes",
                         "email": "MONYC-RESERVATIONS@MOHG.COM",
                         "name": "Mandarin Oriental",
-                        "opening_hours:covid19": "same",
                         "operator": "Mandarin Oriental",
                         "osm_id": 999526140,
                         "osm_type": "n",
@@ -31244,7 +31496,6 @@
                     "accommodation",
                     "accommodation.hotel",
                     "internet_access",
-                    "internet_access.free",
                     "wheelchair",
                     "wheelchair.yes"
                 ],
@@ -31262,12 +31513,12 @@
                         "addr:state": "NY",
                         "addr:street": "East 64th Street",
                         "air_conditioning": "yes",
-                        "brand": "Sonesta ES Suites",
-                        "brand:wikidata": "Q81007929",
-                        "email": "reservations@sonesta.com",
+                        "brand": "Affinia Hotels",
+                        "email": "AffiniaGardensReservations@affinia.com",
+                        "fax": "+1 212-758-7858",
                         "internet_access": "wlan",
-                        "internet_access:fee": "no",
-                        "name": "The Gardens Sonesta ES Suites New York",
+                        "name": "Gardens Suites Hotel by Affinia",
+                        "operator": "Denihan Hospitality Group",
                         "osm_id": 6150552527,
                         "osm_type": "n",
                         "payment:american_express": "yes",
@@ -31280,9 +31531,9 @@
                         "phone": "+1-212-355-1230",
                         "rooms": 132,
                         "smoking": "no",
-                        "stars": 3,
+                        "stars": 4,
                         "tourism": "hotel",
-                        "website": "https://www.sonesta.com/sonesta-es-suites/ny/new-york/gardens-sonesta-es-suites-new-york",
+                        "website": "https://www.affinia.com/gardens-suites-hotel/",
                         "wheelchair": "yes"
                     },
                     "sourcename": "openstreetmap",
@@ -31301,8 +31552,8 @@
                 "housenumber": "215",
                 "lat": 40.7643867,
                 "lon": -73.9631097,
-                "name": "The Gardens Sonesta ES Suites New York",
-                "place_id": "5176fddd96a37d52c05950c8636cd7614440f00103f901cffb996e010000009203265468652047617264656e7320536f6e6573746120455320537569746573204e657720596f726b",
+                "name": "Gardens Suites Hotel by Affinia",
+                "place_id": "5176fddd96a37d52c05950c8636cd7614440f00103f901cffb996e0100000092031f47617264656e732053756974657320486f74656c20627920416666696e6961",
                 "postcode": "10065",
                 "state": "New York",
                 "state_code": "NY",
@@ -31500,7 +31751,8 @@
                         "addr:postcode": 11101,
                         "addr:street": "Crescent Street",
                         "branch": "Long Island City",
-                        "brand": "Red Lion Inn",
+                        "brand": "Red Lion Hotels",
+                        "brand:wikidata": "Q25047720",
                         "email": "info@redlionlic.com",
                         "fitness_centre": "yes",
                         "internet_access": "wlan",
@@ -32106,236 +32358,6 @@
                 "state_code": "NY",
                 "street": "41st Avenue",
                 "suburb": "Queens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.93896715532883,
-                    40.752758840126496
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "40-30 Crescent Street",
-                "address_line2": "New York, NY 11101, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
-                    "building",
-                    "building.accommodation"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": "40-30",
-                        "addr:postcode": 11101,
-                        "addr:street": "Crescent Street",
-                        "building": "yes",
-                        "height": 33.9,
-                        "osm_id": 280645068,
-                        "osm_type": "w",
-                        "tourism": "hotel"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details.building"
-                ],
-                "distance": 7177,
-                "district": "Queensbridge",
-                "formatted": "40-30 Crescent Street, New York, NY 11101, United States of America",
-                "housenumber": "40-30",
-                "lat": 40.752753350000006,
-                "lon": -73.93896955473258,
-                "place_id": "51f309b209187c52c059210fd4665a604440f00102f901cc4dba1000000000",
-                "postcode": "11101",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Crescent Street",
-                "suburb": "Queens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.94264820584894,
-                    40.756597642188204
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Wingate by Wyndham Long Island City",
-                "address_line2": "12th Street, New York, NY 11101, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
-                    "building",
-                    "building.accommodation",
-                    "internet_access",
-                    "internet_access.free"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "brand": "Wingate",
-                        "brand:wikidata": "Q8025144",
-                        "brand:wikipedia": "en:Wingate by Wyndham",
-                        "building": "hotel",
-                        "building:colour": "black",
-                        "building:levels": 16,
-                        "contact:website": "https://www.wyndhamhotels.com/wingate/long-island-city-new-york/wingate-by-wyndham-long-island-city/overview",
-                        "internet_access": "wlan",
-                        "internet_access:fee": "no",
-                        "name": "Wingate by Wyndham Long Island City",
-                        "official_name": "Wingate by Wyndham",
-                        "osm_id": 727598203,
-                        "osm_type": "w",
-                        "roof:colour": "grey",
-                        "roof:shape": "flat",
-                        "tourism": "hotel"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.building",
-                    "details.facilities"
-                ],
-                "distance": 7215,
-                "formatted": "Wingate by Wyndham Long Island City, 12th Street, New York, NY 11101, United States of America",
-                "lat": 40.756594699999994,
-                "lon": -73.94264971539266,
-                "name": "Wingate by Wyndham Long Island City",
-                "place_id": "5146f02359547c52c059ebb60831d8604440f00102f9017b445e2b0000000092032357696e676174652062792057796e6468616d204c6f6e672049736c616e642043697479",
-                "postcode": "11101",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "12th Street",
-                "suburb": "Queens County"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9384883,
-                    40.753066800363634
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Country Inn & Suites by Carlson",
-                "address_line2": "40-34 Crescent Street, New York, NY 11101, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": "40-34",
-                        "addr:state": "NY",
-                        "addr:street": "Crescent Street",
-                        "brand": "Country Inn & Suites",
-                        "brand:wikidata": "Q5177332",
-                        "brand:wikipedia": "en:Country Inn & Suites by Radisson",
-                        "name": "Country Inn & Suites by Carlson",
-                        "osm_id": 622409660,
-                        "osm_type": "n",
-                        "stars": 2,
-                        "tourism": "hotel"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.accommodation"
-                ],
-                "distance": 7247,
-                "district": "Queensbridge",
-                "formatted": "Country Inn & Suites by Carlson, 40-34 Crescent Street, New York, NY 11101, United States of America",
-                "housenumber": "40-34",
-                "lat": 40.7530668,
-                "lon": -73.9384883,
-                "name": "Country Inn & Suites by Carlson",
-                "place_id": "516f0b3b31107c52c059f1a12f7e64604440f00103f901bc3719250000000092031f436f756e74727920496e6e202620537569746573206279204361726c736f6e",
-                "postcode": "11101",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Crescent Street",
-                "suburb": "Queens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.94206963651821,
-                    40.75653874104469
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Mayflower Howard Johnson Hotel",
-                "address_line2": "12th Street, New York, NY 11101, United States of America",
-                "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
-                    "building",
-                    "building.accommodation"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "building": "hotel",
-                        "building:levels": 12,
-                        "building:material": "brick",
-                        "name": "Mayflower Howard Johnson Hotel",
-                        "osm_id": 280642491,
-                        "osm_type": "w",
-                        "roof:colour": "grey",
-                        "roof:shape": "flat",
-                        "tourism": "hotel"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details.building"
-                ],
-                "distance": 7248,
-                "formatted": "Mayflower Howard Johnson Hotel, 12th Street, New York, NY 11101, United States of America",
-                "lat": 40.756538750000004,
-                "lon": -73.94206963241223,
-                "name": "Mayflower Howard Johnson Hotel",
-                "place_id": "519fd971de4a7c52c059d478ef42d6604440f00102f901bb43ba100000000092031e4d6179666c6f77657220486f77617264204a6f686e736f6e20486f74656c",
-                "postcode": "11101",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "12th Street",
-                "suburb": "Queens County"
             },
             "type": "Feature"
         }

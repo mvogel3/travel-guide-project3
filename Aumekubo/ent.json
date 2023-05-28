@@ -483,7 +483,6 @@
                         "email": "info@davidlewisgallery.com",
                         "name": "David Lewis Gallery",
                         "opening_hours": "Tu-Sa 10:00-18:00",
-                        "opening_hours:covid19": "open",
                         "operator": "David Lewis",
                         "osm_id": 9118807105,
                         "osm_type": "n",
@@ -543,7 +542,7 @@
                         "addr:postcode": 10038,
                         "addr:street": "Fulton Street",
                         "name": "South Street Seaport Museum",
-                        "opening_hours": "We-Su 11:00-16:00",
+                        "opening_hours": "We-Su 11:00-17:00",
                         "osm_id": 2898706753,
                         "osm_type": "n",
                         "phone": "+12127488600",
@@ -1768,6 +1767,66 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.00981589999999,
+                    40.72263660036001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Art Projects International",
+                "address_line2": "434 Greenwich Street, New York, NY 10013, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 434,
+                        "addr:postcode": 10013,
+                        "addr:state": "NY",
+                        "addr:street": "Greenwich Street",
+                        "email": "api@artprojects.com",
+                        "name": "Art Projects International",
+                        "opening_hours": "Th-Sa 11:00-18:00",
+                        "osm_id": 2565702271,
+                        "osm_type": "n",
+                        "phone": "212\u2011343\u20112599",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 1139,
+                "district": "Manhattan Community Board 1",
+                "formatted": "Art Projects International, 434 Greenwich Street, New York, NY 10013, United States of America",
+                "housenumber": "434",
+                "lat": 40.7226366,
+                "lon": -74.0098159,
+                "name": "Art Projects International",
+                "place_id": "51c55eded2a08052c0592db82a5b7f5c4440f00103f9017f82ed980000000092031a4172742050726f6a6563747320496e7465726e6174696f6e616c",
+                "postcode": "10013",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Greenwich Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.01135359999999,
                     40.7033867003577
                 ],
@@ -1991,7 +2050,7 @@
                         "ele": 3,
                         "name": "National Museum of the American Indian",
                         "name:es": "Museo Nacional de Indigena",
-                        "opening_hours": "Fr-We 10:00-17:00; Th 10:00-20:00",
+                        "opening_hours": "Mo-Su 10:00-17:00",
                         "osm_id": 368061337,
                         "osm_type": "n",
                         "phone": "+12125143700",
@@ -2221,7 +2280,7 @@
                         "addr:state": "NY",
                         "addr:street": "Battery Place",
                         "name": "Skyscraper Museum",
-                        "opening_hours": "We-Sa 12:00-18:00",
+                        "opening_hours": "Th-Sa 12:00-18:00",
                         "osm_id": 2808241058,
                         "osm_type": "n",
                         "tourism": "museum",
@@ -3117,7 +3176,7 @@
             },
             "properties": {
                 "address_line1": "Museum of Ice Cream",
-                "address_line2": "Broadway, New York, NY 10003, United States of America",
+                "address_line2": "558 Broadway, New York, NY 10003, United States of America",
                 "categories": [
                     "entertainment",
                     "entertainment.museum"
@@ -3130,7 +3189,10 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "addr:housenumber": 558,
+                        "addr:street": "Broadway",
                         "name": "Museum of Ice Cream",
+                        "opening_hours": "Mo, We, Th, Su 10:00-19:00; Fr, Sa 10:00-20:30",
                         "osm_id": 7152625885,
                         "osm_type": "n",
                         "tourism": "museum",
@@ -3144,7 +3206,8 @@
                 ],
                 "distance": 1406,
                 "district": "Manhattan Community Board 2",
-                "formatted": "Museum of Ice Cream, Broadway, New York, NY 10003, United States of America",
+                "formatted": "Museum of Ice Cream, 558 Broadway, New York, NY 10003, United States of America",
+                "housenumber": "558",
                 "lat": 40.7238654,
                 "lon": -73.9979055,
                 "name": "Museum of Ice Cream",
@@ -3713,6 +3776,58 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.0007365,
+                    40.72620000036042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "DTR Modern Galleries",
+                "address_line2": "456 West Broadway, New York, NY 10012, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:housenumber": 456,
+                        "addr:street": "West Broadway",
+                        "check_date": "2023-02-26",
+                        "name": "DTR Modern Galleries",
+                        "osm_id": 10695291116,
+                        "osm_type": "n",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [],
+                "distance": 1553,
+                "district": "Manhattan Community Board 2",
+                "formatted": "DTR Modern Galleries, 456 West Broadway, New York, NY 10012, United States of America",
+                "housenumber": "456",
+                "lat": 40.7262,
+                "lon": -74.0007365,
+                "name": "DTR Modern Galleries",
+                "place_id": "5177da1a110c8052c0599cf3211ff45c4440f00103f901ec307d7d02000000920314445452204d6f6465726e2047616c6c6572696573",
+                "postcode": "10012",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West Broadway",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.9888958,
                     40.71793030035944
                 ],
@@ -3927,6 +4042,113 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "Bowery",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9920403,
+                    40.722035700359925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Voltz Clarke Gallery",
+                "address_line2": "195 Chrystie Street, New York, NY 10002, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "name": "Voltz Clarke Gallery",
+                        "opening_hours": "Mo-Fr 10:00-18:00; Sa 12:00-17:00||Su \"by appointment\"",
+                        "osm_id": 4706140689,
+                        "osm_type": "n",
+                        "phone": "+1-917-292-6921",
+                        "tourism": "gallery",
+                        "website": "https://voltzclarke.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 1563,
+                "district": "Manhattan Community Board 3",
+                "formatted": "Voltz Clarke Gallery, 195 Chrystie Street, New York, NY 10002, United States of America",
+                "housenumber": "195",
+                "lat": 40.7220357,
+                "lon": -73.9920403,
+                "name": "Voltz Clarke Gallery",
+                "place_id": "51193499967d7f52c05990cb73aa6b5c4440f00103f9011102821801000000920314566f6c747a20436c61726b652047616c6c657279",
+                "postcode": "10002",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Chrystie Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.00066029999999,
+                    40.726327800360444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Georges Berg\u00e8s Gallery",
+                "address_line2": "462 West Broadway, New York, NY 10012, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:housenumber": 462,
+                        "addr:street": "West Broadway",
+                        "check_date": "2023-02-26",
+                        "name": "Georges Berg\u00e8s Gallery",
+                        "osm_id": 10695291115,
+                        "osm_type": "n",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [],
+                "distance": 1569,
+                "district": "Manhattan Community Board 2",
+                "formatted": "Georges Berg\u00e8s Gallery, 462 West Broadway, New York, NY 10012, United States of America",
+                "housenumber": "462",
+                "lat": 40.7263278,
+                "lon": -74.0006603,
+                "name": "Georges Berg\u00e8s Gallery",
+                "place_id": "51f4b97fd10a8052c059a35c324ff85c4440f00103f901eb307d7d0200000092031747656f726765732042657267c3a8732047616c6c657279",
+                "postcode": "10012",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West Broadway",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -4860,6 +5082,66 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.99748238852958,
+                    40.726533431057064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "African Grove Theatre",
+                "address_line2": "181 Mercer Street, New York, NY 10012, United States of America",
+                "categories": [
+                    "building",
+                    "building.entertainment",
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.theatre"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 181,
+                        "addr:postcode": 10012,
+                        "addr:state": "NY",
+                        "addr:street": "Mercer Street",
+                        "amenity": "theatre",
+                        "building": "yes",
+                        "name": "African Grove Theatre",
+                        "operator": "New York University",
+                        "osm_id": 1139026049,
+                        "osm_type": "w"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details"
+                ],
+                "distance": 1672,
+                "district": "Washington Square Village",
+                "formatted": "African Grove Theatre, 181 Mercer Street, New York, NY 10012, United States of America",
+                "housenumber": "181",
+                "lat": 40.72653385,
+                "lon": -73.99748102316882,
+                "name": "African Grove Theatre",
+                "place_id": "5183445fc0d67f52c0599eeb260cff5c4440f00102f9018128e443000000009203154166726963616e2047726f76652054686561747265",
+                "postcode": "10012",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Mercer Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.9893435,
                     40.704197000357794
                 ],
@@ -5725,6 +6007,58 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "LaGuardia Place",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9937224,
+                    40.72658150036048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Gene Frankel Theatre",
+                "address_line2": "24 Bond Street, New York, NY 10012, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.theatre"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "amenity": "theatre",
+                        "name": "Gene Frankel Theatre",
+                        "osm_id": 4555789693,
+                        "osm_type": "n",
+                        "phone": "+1-212-777-1767"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details.contact"
+                ],
+                "distance": 1849,
+                "district": "Manhattan Community Board 2",
+                "formatted": "Gene Frankel Theatre, 24 Bond Street, New York, NY 10012, United States of America",
+                "housenumber": "24",
+                "lat": 40.7265815,
+                "lon": -73.9937224,
+                "name": "Gene Frankel Theatre",
+                "place_id": "515e53d625997f52c059a4f6629f005d4440f00103f9017dd58b0f0100000092031447656e65204672616e6b656c2054686561747265",
+                "postcode": "10012",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Bond Street",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -8697,6 +9031,56 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.9984234,
+                    40.73329010036128
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Moshava Art",
+                "address_line2": "45 West 8th Street, New York, NY 10011, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "county": "New York County",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "contact:instagram": "@moshava.art",
+                        "name": "Moshava Art",
+                        "osm_id": 10717839795,
+                        "osm_type": "n",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [],
+                "distance": 2364,
+                "district": "Washington Square Village",
+                "formatted": "Moshava Art, 45 West 8th Street, New York, NY 10011, United States of America",
+                "housenumber": "45",
+                "lat": 40.7332901,
+                "lon": -73.9984234,
+                "name": "Moshava Art",
+                "place_id": "51e9a3422be67f52c05921c43373dc5d4440f00103f901b341d57e0200000092030b4d6f736861766120417274",
+                "postcode": "10011",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "West 8th Street",
+                "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.98586719999999,
                     40.7276111003606
                 ],
@@ -10779,6 +11163,55 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.00364143530676,
+                    40.685926683992314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Degraw Street",
+                "address_line2": "New York, NY 11231, United States of America",
+                "categories": [
+                    "access_limited",
+                    "access_limited.private",
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "access": "private",
+                        "osm_id": 1158300174,
+                        "osm_type": "w",
+                        "outdoor": "yes",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [],
+                "distance": 2979,
+                "district": "Columbia Street Waterfront District",
+                "formatted": "Degraw Street, New York, NY 11231, United States of America",
+                "lat": 40.6859273,
+                "lon": -74.0036414065543,
+                "place_id": "51656349a93b8052c059b1991172cc574440f00102f9010e420a4500000000",
+                "postcode": "11231",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Degraw Street",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.0028554,
                     40.73965910036204
                 ],
@@ -11592,57 +12025,6 @@
                 "state_code": "NY",
                 "street": "West 14th Street",
                 "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.987349,
-                    40.68808640035585
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Atlantic Bkln",
-                "address_line2": "333 Atlantic Avenue, New York, NY 11201, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.theatre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "amenity": "theatre",
-                        "name": "Atlantic Bkln",
-                        "osm_id": 9749399769,
-                        "osm_type": "n",
-                        "theatre:type": "music_venue",
-                        "website": "https://www.atlanticbkln.com"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details"
-                ],
-                "distance": 3165,
-                "formatted": "Atlantic Bkln, 333 Atlantic Avenue, New York, NY 11201, United States of America",
-                "housenumber": "333",
-                "lat": 40.6880864,
-                "lon": -73.987349,
-                "name": "Atlantic Bkln",
-                "place_id": "51402fdcb9307f52c059e52c153713584440f00103f901d9081c450200000092030d41746c616e74696320426b6c6e",
-                "postcode": "11201",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Atlantic Avenue",
-                "suburb": "Brooklyn"
             },
             "type": "Feature"
         },
@@ -13433,6 +13815,58 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.9820581,
+                    40.68567030035557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "490 Atlantic Avenue",
+                "address_line2": "New York, NY 11217, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "name": "490 Atlantic",
+                        "osm_id": 10710987382,
+                        "osm_type": "n",
+                        "phone": "+1-718-344-4856",
+                        "tourism": "gallery",
+                        "website": "https://490atlantic.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 3629,
+                "formatted": "490 Atlantic Avenue, New York, NY 11217, United States of America",
+                "housenumber": "490",
+                "lat": 40.6856703,
+                "lon": -73.9820581,
+                "name": "490 Atlantic",
+                "place_id": "516791370ada7e52c059ceee5d0bc4574440f00103f90176b26c7e0200000092030c3439302041746c616e746963",
+                "postcode": "11217",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Atlantic Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.97887510998328,
                     40.68726412101094
                 ],
@@ -13835,61 +14269,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.9965096,
-                    40.68074260035496
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Court Tree Collective",
-                "address_line2": "371 Court Street, New York, NY 11231, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.gallery"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "alt_name": "Court Tree Gallery",
-                        "amenity": "events_venue",
-                        "name": "Court Tree Collective",
-                        "osm_id": 5862070206,
-                        "osm_type": "n",
-                        "phone": "+1-718-422-7806",
-                        "tourism": "gallery",
-                        "website": "http://courttree.com"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact"
-                ],
-                "distance": 3649,
-                "district": "Carroll Gardens",
-                "formatted": "Court Tree Collective, 371 Court Street, New York, NY 11231, United States of America",
-                "housenumber": "371",
-                "lat": 40.6807426,
-                "lon": -73.9965096,
-                "name": "Court Tree Collective",
-                "place_id": "519a8933d0c67f52c05960c2d29222574440f00103f901be17685d01000000920315436f757274205472656520436f6c6c656374697665",
-                "postcode": "11231",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Court Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -73.9813748,
                     40.68574980035556
                 ],
@@ -14119,7 +14498,7 @@
                 "type": "Point"
             },
             "properties": {
-                "address_line1": "TW Fine Art",
+                "address_line1": "C & K Art Gallery",
                 "address_line2": "514 Atlantic Avenue, New York, NY 11217, United States of America",
                 "categories": [
                     "entertainment",
@@ -14133,28 +14512,25 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
-                        "name": "TW Fine Art",
-                        "opening_hours": "Tu-Sa 11:30-19:00",
+                        "name": "C & K Art Gallery",
                         "osm_id": 9032875158,
                         "osm_type": "n",
-                        "phone": "+1-929-298-2611",
-                        "tourism": "gallery",
-                        "website": "https://www.tw-fineart.com"
+                        "phone": "+1-917-536-3496",
+                        "tourism": "gallery"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
-                    "details",
                     "details.contact"
                 ],
                 "distance": 3707,
-                "formatted": "TW Fine Art, 514 Atlantic Avenue, New York, NY 11217, United States of America",
+                "formatted": "C & K Art Gallery, 514 Atlantic Avenue, New York, NY 11217, United States of America",
                 "housenumber": "514",
                 "lat": 40.6853064,
                 "lon": -73.9811203,
-                "name": "TW Fine Art",
-                "place_id": "51447cccacca7e52c0591aa2c01eb8574440f00103f90196bc661a0200000092030b54572046696e6520417274",
+                "name": "C & K Art Gallery",
+                "place_id": "51447cccacca7e52c0591aa2c01eb8574440f00103f90196bc661a02000000920311432026204b204172742047616c6c657279",
                 "postcode": "11217",
                 "state": "New York",
                 "state_code": "NY",
@@ -15202,61 +15578,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.99869202441947,
-                    40.74758032333644
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Penn South Playground",
-                "address_line2": "West 26th Street, New York, NY 10001, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.activity_park",
-                    "leisure",
-                    "leisure.playground"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "ele": 7,
-                        "leisure": "playground",
-                        "name": "Penn South Playground",
-                        "osm_id": 257671578,
-                        "osm_type": "w",
-                        "website": "https://www.nycgovparks.org/parks/penn-south-playground",
-                        "wikidata": "Q34855143"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.wiki_and_media"
-                ],
-                "distance": 3860,
-                "district": "Chelsea District",
-                "formatted": "Penn South Playground, West 26th Street, New York, NY 10001, United States of America",
-                "lat": 40.747493750000004,
-                "lon": -73.99854031359028,
-                "name": "Penn South Playground",
-                "place_id": "5117eaf391ea7f52c0597bee47b6b05f4440f00102f9019ac15b0f0000000092031550656e6e20536f75746820506c617967726f756e64",
-                "postcode": "10001",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "West 26th Street",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -74.00753909999999,
                     40.74754290036297
                 ],
@@ -15929,6 +16250,62 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.013032,
+                    40.677063100354516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Realty Collective",
+                "address_line2": "351 Van Brunt Street, New York, NY 11231, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery",
+                    "office",
+                    "office.estate_agent"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "name": "Realty Collective",
+                        "office": "estate_agent",
+                        "osm_id": 10730995945,
+                        "osm_type": "n",
+                        "phone": "+1-718-834-1440",
+                        "tourism": "gallery",
+                        "website": "https://realtycollective.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 4013,
+                "district": "Red Hook",
+                "formatted": "Realty Collective, 351 Van Brunt Street, New York, NY 11231, United States of America",
+                "housenumber": "351",
+                "lat": 40.6770631,
+                "lon": -74.013032,
+                "name": "Realty Collective",
+                "place_id": "514b732b84d58052c059eeacf000aa564440f00103f901e9009e7f020000009203115265616c747920436f6c6c656374697665",
+                "postcode": "11231",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Van Brunt Street",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.004588,
                     40.74897610036315
                 ],
@@ -16204,6 +16581,64 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "Hanson Place",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0131073,
+                    40.67667060035448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Golden Anvil",
+                "address_line2": "102 Dikeman Street, New York, NY 11231, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:housenumber": 102,
+                        "addr:postcode": 11231,
+                        "addr:street": "Dikeman Street",
+                        "craft": "blacksmith",
+                        "name": "Golden Anvil",
+                        "operator": "Tony Counzo",
+                        "osm_id": 10736173270,
+                        "osm_type": "n",
+                        "phone": "+1-718-964-7422",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.production"
+                ],
+                "distance": 4057,
+                "district": "Red Hook",
+                "formatted": "Golden Anvil, 102 Dikeman Street, New York, NY 11231, United States of America",
+                "housenumber": "102",
+                "lat": 40.6766706,
+                "lon": -74.0131073,
+                "name": "Golden Anvil",
+                "place_id": "51b03500c0d68052c059f55769249d564440f00103f901d600ed7f0200000092030c476f6c64656e20416e76696c",
+                "postcode": "11231",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Dikeman Street",
                 "suburb": "Brooklyn"
             },
             "type": "Feature"
@@ -17187,6 +17622,64 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.95655529999999,
+                    40.710759600358585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "AM:PM Gallery",
+                "address_line2": "108 Marcy Avenue, New York, NY 11211, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "Brooklyn",
+                        "addr:housenumber": 108,
+                        "addr:postcode": 11211,
+                        "addr:state": "NY",
+                        "addr:street": "Marcy Avenue",
+                        "email": "ampmgalleryny@gmail.com",
+                        "name": "AM:PM Gallery",
+                        "osm_id": 10716466801,
+                        "osm_type": "n",
+                        "tourism": "gallery",
+                        "website": "https://ampmgallery.com/"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 4184,
+                "formatted": "AM:PM Gallery, 108 Marcy Avenue, New York, NY 11211, United States of America",
+                "housenumber": "108",
+                "lat": 40.7107596,
+                "lon": -73.9565553,
+                "name": "AM:PM Gallery",
+                "place_id": "513094b833387d52c059d86dab2bfa5a4440f00103f901714ec07e0200000092030d414d3a504d2047616c6c657279",
+                "postcode": "11211",
+                "quarter": "Williamsburg",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Marcy Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.97091519999998,
                     40.68597130035558
                 ],
@@ -17580,7 +18073,7 @@
             },
             "properties": {
                 "address_line1": "The Waterfront Museum",
-                "address_line2": "Conover Street, New York, NY 11231, United States of America",
+                "address_line2": "290 Conover Street, New York, NY 11231, United States of America",
                 "categories": [
                     "building",
                     "building.tourism",
@@ -17594,22 +18087,29 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "addr:housenumber": 290,
+                        "addr:postcode": 11231,
+                        "addr:street": "Conover Street",
                         "building": "yes",
                         "name": "The Waterfront Museum",
                         "opening_hours": "Th 16:00-20:00; Sa 13:00-17:00",
                         "osm_id": 382183589,
                         "osm_type": "w",
-                        "tourism": "museum"
+                        "phone": "+1 718 6244719",
+                        "tourism": "museum",
+                        "website": "https://waterfrontmuseum.org"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
-                    "details"
+                    "details",
+                    "details.contact"
                 ],
                 "distance": 4287,
                 "district": "Red Hook",
-                "formatted": "The Waterfront Museum, Conover Street, New York, NY 11231, United States of America",
+                "formatted": "The Waterfront Museum, 290 Conover Street, New York, NY 11231, United States of America",
+                "housenumber": "290",
                 "lat": 40.6752578,
                 "lon": -74.01828820146281,
                 "name": "The Waterfront Museum",
@@ -18324,6 +18824,61 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.99341939077557,
+                    40.673414870250205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Gowanus Creative Studios",
+                "address_line2": "2nd Avenue, New York, NY 11231, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.arts_centre",
+                    "office",
+                    "office.coworking"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "amenity": "arts_centre",
+                        "name": "Gowanus Creative Studios",
+                        "office": "coworking",
+                        "osm_id": 1159044550,
+                        "osm_type": "w",
+                        "phone": "+1-917-826-6330",
+                        "website": "https://gowanuscreativestudios.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 4437,
+                "district": "Carroll Gardens",
+                "formatted": "Gowanus Creative Studios, 2nd Avenue, New York, NY 11231, United States of America",
+                "lat": 40.673409449999994,
+                "lon": -73.99352002419353,
+                "name": "Gowanus Creative Studios",
+                "place_id": "51f9a5ec2e947f52c059af2e5e7532564440f00102f901c69d154500000000920318476f77616e75732043726561746976652053747564696f73",
+                "postcode": "11231",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "2nd Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.00247640585498,
                     40.75320376982945
                 ],
@@ -18874,7 +19429,7 @@
             },
             "properties": {
                 "address_line1": "The Morgan Library & Museum",
-                "address_line2": "East 36th Street, New York, NY 10016, United States of America",
+                "address_line2": "225 Madison Avenue, New York, NY 10016, United States of America",
                 "categories": [
                     "entertainment",
                     "entertainment.museum"
@@ -18887,24 +19442,35 @@
                     "attribution": "\u00a9 OpenStreetMap contributors",
                     "license": "Open Database Licence",
                     "raw": {
+                        "addr:city": "New York",
+                        "addr:housenumber": 225,
+                        "addr:postcode": 10016,
+                        "addr:state": "NY",
+                        "addr:street": "Madison Avenue",
+                        "museum": "art",
                         "name": "The Morgan Library & Museum",
                         "name:en": "The Morgan Library & Museum",
+                        "opening_hours": "Tu-Su 10:00-17:30",
                         "osm_id": 4462440249,
                         "osm_type": "n",
+                        "phone": "+1-212-685-0008",
                         "tourism": "museum",
                         "website": "https://www.themorgan.org/",
-                        "wikidata": "Q1478423"
+                        "wikidata": "Q1478423",
+                        "wikipedia": "en:Morgan Library & Museum"
                     },
                     "sourcename": "openstreetmap",
                     "url": "https://www.openstreetmap.org/copyright"
                 },
                 "details": [
                     "details",
+                    "details.contact",
                     "details.wiki_and_media"
                 ],
                 "distance": 4541,
                 "district": "Manhattan Community Board 6",
-                "formatted": "The Morgan Library & Museum, East 36th Street, New York, NY 10016, United States of America",
+                "formatted": "The Morgan Library & Museum, 225 Madison Avenue, New York, NY 10016, United States of America",
+                "housenumber": "225",
                 "lat": 40.7491907,
                 "lon": -73.9814793,
                 "name": "The Morgan Library & Museum",
@@ -18912,7 +19478,7 @@
                 "postcode": "10016",
                 "state": "New York",
                 "state_code": "NY",
-                "street": "East 36th Street",
+                "street": "Madison Avenue",
                 "suburb": "Manhattan"
             },
             "type": "Feature"
@@ -20218,6 +20784,77 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.9537278,
+                    40.7292458003608
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Sunshine Laundromat & Pinball",
+                "address_line2": "860 Manhattan Avenue, New York, NY 11222, United States of America",
+                "categories": [
+                    "catering",
+                    "catering.bar",
+                    "commercial",
+                    "entertainment",
+                    "entertainment.amusement_arcade",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery",
+                    "service",
+                    "service.cleaning",
+                    "service.cleaning.laundry"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "addr:city": "Brooklyn",
+                        "addr:housenumber": 860,
+                        "addr:postcode": 11222,
+                        "addr:state": "NY",
+                        "addr:street": "Manhattan Avenue",
+                        "amenity": "bar",
+                        "email": "pinball@sunshinelaundromat.com",
+                        "leisure": "amusement_arcade",
+                        "name": "Sunshine Laundromat & Pinball",
+                        "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 07:00-19:00",
+                        "osm_id": 5057358326,
+                        "osm_type": "n",
+                        "phone": "+1-718-475-2055",
+                        "self_service": "yes",
+                        "shop": "laundry",
+                        "tourism": "gallery",
+                        "website": "https://sunshinelaundromat.com/"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 4779,
+                "district": "Greenpoint",
+                "formatted": "Sunshine Laundromat & Pinball, 860 Manhattan Avenue, New York, NY 11222, United States of America",
+                "housenumber": "860",
+                "lat": 40.7292458,
+                "lon": -73.9537278,
+                "name": "Sunshine Laundromat & Pinball",
+                "place_id": "514e9253e0097d52c059c2a527ed575d4440f00103f901f629712d0100000092031d53756e7368696e65204c61756e64726f6d617420262050696e62616c6c",
+                "postcode": "11222",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Manhattan Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.95752106635955,
                     40.68978104794941
                 ],
@@ -20452,6 +21089,56 @@
                 "state_code": "NY",
                 "street": "West 38th Street",
                 "suburb": "Manhattan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.97329529999999,
+                    40.677036900354516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "The Honey Badger Motel",
+                "address_line2": "145 Sterling Place, New York, NY 11217, United States of America",
+                "categories": [
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "name": "The Honey Badger Motel",
+                        "osm_id": 10624479997,
+                        "osm_type": "n",
+                        "phone": "+1-347-350-4257",
+                        "tourism": "gallery"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details.contact"
+                ],
+                "distance": 4839,
+                "formatted": "The Honey Badger Motel, 145 Sterling Place, New York, NY 11217, United States of America",
+                "housenumber": "145",
+                "lat": 40.6770369,
+                "lon": -73.9732953,
+                "name": "The Honey Badger Motel",
+                "place_id": "516eb65e784a7e52c0599b9a2825a9564440f00103f901fdb244790200000092031654686520486f6e657920426164676572204d6f74656c",
+                "postcode": "11217",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Sterling Place",
+                "suburb": "Brooklyn"
             },
             "type": "Feature"
         },
@@ -21134,7 +21821,7 @@
             },
             "properties": {
                 "address_line1": "BBFL Gallery",
-                "address_line2": "300-302 7th Street, New York, NY 11215, United States of America",
+                "address_line2": "300 7th Street, New York, NY 11215, United States of America",
                 "categories": [
                     "entertainment",
                     "entertainment.culture",
@@ -21160,8 +21847,8 @@
                     "details.contact"
                 ],
                 "distance": 4956,
-                "formatted": "BBFL Gallery, 300-302 7th Street, New York, NY 11215, United States of America",
-                "housenumber": "300-302",
+                "formatted": "BBFL Gallery, 300 7th Street, New York, NY 11215, United States of America",
+                "housenumber": "300",
                 "lat": 40.6707563,
                 "lon": -73.986344,
                 "name": "BBFL Gallery",
@@ -24308,7 +24995,7 @@
             },
             "properties": {
                 "address_line1": "Loew's Jersey Theatre",
-                "address_line2": "54 Journal Concourse Square West, Jersey City, NJ 07306, United States of America",
+                "address_line2": "54 Magnolia Avenue, Jersey City, NJ 07306, United States of America",
                 "categories": [
                     "building",
                     "building.entertainment",
@@ -24349,7 +25036,7 @@
                 ],
                 "distance": 5358,
                 "district": "Indian Square",
-                "formatted": "Loew's Jersey Theatre, 54 Journal Concourse Square West, Jersey City, NJ 07306, United States of America",
+                "formatted": "Loew's Jersey Theatre, 54 Magnolia Avenue, Jersey City, NJ 07306, United States of America",
                 "hamlet": "Bergen",
                 "housenumber": "54",
                 "lat": 40.73241495,
@@ -24359,7 +25046,7 @@
                 "postcode": "07306",
                 "state": "New Jersey",
                 "state_code": "NJ",
-                "street": "Journal Concourse Square West"
+                "street": "Magnolia Avenue"
             },
             "type": "Feature"
         },
@@ -25955,8 +26642,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.9461683982805,
-                    40.68991082059846
+                    -73.94616840095354,
+                    40.68991082130388
                 ],
                 "type": "Point"
             },
@@ -25964,6 +26651,8 @@
                 "address_line1": "Almira Kennedy Coursey Amphitheater",
                 "address_line2": "Lafayette Avenue, New York, NY 11221, United States of America",
                 "categories": [
+                    "building",
+                    "building.entertainment",
                     "entertainment",
                     "entertainment.culture",
                     "entertainment.culture.theatre"
@@ -25976,6 +26665,7 @@
                     "license": "Open Database Licence",
                     "raw": {
                         "amenity": "theatre",
+                        "building": "yes",
                         "description": "outdoor theater with a covered bandstand",
                         "name": "Almira Kennedy Coursey Amphitheater",
                         "operator": "NYC Parks",
@@ -25992,14 +26682,72 @@
                 ],
                 "distance": 5642,
                 "formatted": "Almira Kennedy Coursey Amphitheater, Lafayette Avenue, New York, NY 11221, United States of America",
-                "lat": 40.68994495,
-                "lon": -73.94614576541764,
+                "lat": 40.68993315,
+                "lon": -73.9461521837587,
                 "name": "Almira Kennedy Coursey Amphitheater",
-                "place_id": "51e7c7e5058e7c52c0593fd06dff4e584440f00102f901b122613e00000000920323416c6d697261204b656e6e65647920436f757273657920416d70686974686561746572",
+                "place_id": "51a9a6e8058e7c52c0590e546fff4e584440f00102f901b122613e00000000920323416c6d697261204b656e6e65647920436f757273657920416d70686974686561746572",
                 "postcode": "11221",
                 "state": "New York",
                 "state_code": "NY",
                 "street": "Lafayette Avenue",
+                "suburb": "Brooklyn"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.95332919999998,
+                    40.681584800355076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address_line1": "Seed Brklyn Garden",
+                "address_line2": "1221 Bedford Avenue, New York, NY 11216, United States of America",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes",
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.gallery"
+                ],
+                "city": "New York",
+                "country": "United States",
+                "country_code": "us",
+                "datasource": {
+                    "attribution": "\u00a9 OpenStreetMap contributors",
+                    "license": "Open Database Licence",
+                    "raw": {
+                        "alt_name": "Seed Brklyn Oasis",
+                        "name": "Seed Brklyn Garden",
+                        "opening_hours": "Mo-Su 11:00-19:00",
+                        "osm_id": 10642744090,
+                        "osm_type": "n",
+                        "phone": "+1-503-724-1440",
+                        "shop": "clothes",
+                        "tourism": "gallery",
+                        "website": "https://seedbrklyn.com"
+                    },
+                    "sourcename": "openstreetmap",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "distance": 5642,
+                "formatted": "Seed Brklyn Garden, 1221 Bedford Avenue, New York, NY 11216, United States of America",
+                "housenumber": "1221",
+                "lat": 40.6815848,
+                "lon": -73.9533292,
+                "name": "Seed Brklyn Garden",
+                "place_id": "5198147a58037d52c059e57cb52b3e574440f00103f9011a635b7a02000000920312536565642042726b6c796e2047617264656e",
+                "postcode": "11216",
+                "state": "New York",
+                "state_code": "NY",
+                "street": "Bedford Avenue",
                 "suburb": "Brooklyn"
             },
             "type": "Feature"
@@ -28417,74 +29165,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.98378242227956,
-                    40.764340983331
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Studio 54",
-                "address_line2": "254 West 54th Street, New York, NY 10019, United States of America",
-                "categories": [
-                    "building",
-                    "building.entertainment",
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.theatre",
-                    "wheelchair",
-                    "wheelchair.yes"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:city": "New York",
-                        "addr:housenumber": 254,
-                        "addr:postcode": 10019,
-                        "addr:state": "NY",
-                        "addr:street": "West 54th Street",
-                        "amenity": "theatre",
-                        "building": "yes",
-                        "check_date": "2022-08-12",
-                        "height": 62.6,
-                        "name": "Studio 54",
-                        "osm_id": 266155267,
-                        "osm_type": "w",
-                        "wheelchair": "yes",
-                        "wikidata": "Q607212",
-                        "wikipedia": "en:Studio 54"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details.building",
-                    "details.facilities",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6007,
-                "district": "Manhattan Community Board 5",
-                "formatted": "Studio 54, 254 West 54th Street, New York, NY 10019, United States of America",
-                "housenumber": "254",
-                "lat": 40.7643461,
-                "lon": -73.98377859278992,
-                "name": "Studio 54",
-                "place_id": "5181848c4af67e52c0591733e3ecd5614440f00102f9010335dd0f0000000092030953747564696f203534",
-                "postcode": "10019",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "West 54th Street",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -73.9819584,
                     40.661891600352675
                 ],
@@ -28528,687 +29208,6 @@
                 "state": "New York",
                 "state_code": "NY",
                 "street": "15th Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.93470319999999,
-                    40.714248000359
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "International Studio & Curatorial Program",
-                "address_line2": "1040 Metropolitan Avenue, New York, NY 11211, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.gallery"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": 1040,
-                        "addr:street": "Metropolitan Avenue",
-                        "email": "info@iscp-nyc.org",
-                        "name": "International Studio & Curatorial Program",
-                        "osm_id": 6343168219,
-                        "osm_type": "n",
-                        "phone": "(718)-387-2900",
-                        "tourism": "gallery",
-                        "website": "https://iscp-nyc.org"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact"
-                ],
-                "distance": 6027,
-                "formatted": "International Studio & Curatorial Program, 1040 Metropolitan Avenue, New York, NY 11211, United States of America",
-                "housenumber": "1040",
-                "lat": 40.714248,
-                "lon": -73.9347032,
-                "name": "International Studio & Curatorial Program",
-                "place_id": "51dbdd5e2dd27b52c0593d637d7a6c5b4440f00103f901db10157a01000000920329496e7465726e6174696f6e616c2053747564696f20262043757261746f7269616c2050726f6772616d",
-                "postcode": "11211",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Metropolitan Avenue",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.99333329999999,
-                    40.766388900365214
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Irish Arts Center",
-                "address_line2": "West 51st Street, New York, NY 10019, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.arts_centre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:state": "NY",
-                        "amenity": "arts_centre",
-                        "ele": 9,
-                        "name": "Irish Arts Center",
-                        "osm_id": 368045862,
-                        "osm_type": "n"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [],
-                "distance": 6046,
-                "district": "Manhattan Community Board 4",
-                "formatted": "Irish Arts Center, West 51st Street, New York, NY 10019, United States of America",
-                "lat": 40.7663889,
-                "lon": -73.9933333,
-                "name": "Irish Arts Center",
-                "place_id": "51c661d5c5927f52c059028b0f0819624440f00103f90126efef1500000000920311497269736820417274732043656e746572",
-                "postcode": "10019",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "West 51st Street",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.98032299999998,
-                    40.661915600352685
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Lesbian Herstory Archives",
-                "address_line2": "484 14th Street, New York, NY 11215, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.museum"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "fax": "+1-718-768-4663",
-                        "name": "Lesbian Herstory Archives",
-                        "opening_hours": "\"see website for schedule\"",
-                        "osm_id": 4975837317,
-                        "osm_type": "n",
-                        "phone": "+1-718-768-3953",
-                        "tourism": "museum",
-                        "website": "https://lesbianherstoryarchives.com",
-                        "wikidata": "Q6530249"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6053,
-                "formatted": "Lesbian Herstory Archives, 484 14th Street, New York, NY 11215, United States of America",
-                "housenumber": "484",
-                "lat": 40.6619156,
-                "lon": -73.980323,
-                "name": "Lesbian Herstory Archives",
-                "place_id": "510f21ae9cbd7e52c0590e1d80a6b9544440f00103f90185409528010000009203194c65736269616e2048657273746f7279204172636869766573",
-                "postcode": "11215",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "14th Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.97939889551107,
-                    40.76393235478771
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "New York City Center",
-                "address_line2": "6\u00bd Avenue, New York, NY 10105, United States of America",
-                "categories": [
-                    "building",
-                    "building.entertainment",
-                    "building.historic",
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.theatre",
-                    "heritage"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:state": "NY",
-                        "alt_name": "City Center 55 Street Theater",
-                        "amenity": "theatre",
-                        "building": "theatre",
-                        "height": 21,
-                        "heritage": "yes",
-                        "name": "New York City Center",
-                        "osm_id": 265150597,
-                        "osm_type": "w",
-                        "ref:nrhp": 84002788,
-                        "start_date": 1922,
-                        "website": "https://www.nycitycenter.org/",
-                        "wikidata": "Q535631",
-                        "wikipedia": "en:New York City Center"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.building",
-                    "details.heritage",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6077,
-                "district": "Manhattan Community Board 5",
-                "formatted": "New York City Center, 6\u00bd Avenue, New York, NY 10105, United States of America",
-                "lat": 40.7639353,
-                "lon": -73.97946023256337,
-                "name": "New York City Center",
-                "place_id": "51597db478ae7e52c059b2151089c8614440f00102f90185e0cd0f000000009203144e657720596f726b20436974792043656e746572",
-                "postcode": "10105",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "6\u00bd Avenue",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.94755701749517,
-                    40.745544611727645
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "MoMA PS1",
-                "address_line2": "46th Avenue, New York, NY 11101, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.arts_centre",
-                    "entertainment.museum"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:state": "NY",
-                        "amenity": "arts_centre",
-                        "ele": 4,
-                        "name": "MoMA PS1",
-                        "name:ko": "\ubaa8\ub9c8 PS1",
-                        "old_name": "Public School 1 Contemporary Arts Center",
-                        "osm_id": 370574294,
-                        "osm_type": "w",
-                        "tourism": "museum",
-                        "website": "https://momaps1.org/",
-                        "wikidata": "Q1139848",
-                        "wikipedia": "en:MoMA PS1"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6079,
-                "formatted": "MoMA PS1, 46th Avenue, New York, NY 11101, United States of America",
-                "lat": 40.74558225,
-                "lon": -73.94746675827491,
-                "name": "MoMA PS1",
-                "old_name": "Public School 1 Contemporary Arts Center",
-                "place_id": "512c4f30c6a47c52c059258a7e016e5f4440f00102f901d6831616000000009203084d6f4d4120505331",
-                "postcode": "11101",
-                "quarter": "Long Island City",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "46th Avenue",
-                "suburb": "Queens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9349344,
-                    40.703311300357676
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Eyebeam",
-                "address_line2": "199 Cook Street, New York, NY 11206, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.arts_centre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": 199,
-                        "addr:street": "Cook Street",
-                        "amenity": "arts_centre",
-                        "contact:facebook": "https://www.facebook.com/eyebeamnyc/",
-                        "contact:instagram": "https://www.instagram.com/eyebeamnyc/",
-                        "contact:twitter": "https://twitter.com/eyebeamnyc",
-                        "name": "Eyebeam",
-                        "osm_id": 5804360682,
-                        "osm_type": "n",
-                        "phone": "+1-347-378-9163",
-                        "website": "https://eyebeam.org/",
-                        "wikidata": "Q5422747",
-                        "wikipedia": "en:Eyebeam (organization)"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6097,
-                "formatted": "Eyebeam, 199 Cook Street, New York, NY 11206, United States of America",
-                "housenumber": "199",
-                "lat": 40.7033113,
-                "lon": -73.9349344,
-                "name": "Eyebeam",
-                "place_id": "51f2f917f7d57b52c059c3f8cc1a065a4440f00103f901ea83f759010000009203074579656265616d",
-                "postcode": "11206",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Cook Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.99403759999998,
-                    40.76702770036529
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "The Daily Show with Trevor Noah",
-                "address_line2": "727 11th Avenue, New York, NY 10019, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.theatre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "amenity": "theatre",
-                        "name": "The Daily Show with Trevor Noah",
-                        "osm_id": 5220507721,
-                        "osm_type": "n"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [],
-                "distance": 6106,
-                "district": "Manhattan Community Board 4",
-                "formatted": "The Daily Show with Trevor Noah, 727 11th Avenue, New York, NY 10019, United States of America",
-                "housenumber": "727",
-                "lat": 40.7670277,
-                "lon": -73.9940376,
-                "name": "The Daily Show with Trevor Noah",
-                "place_id": "51a2bfe14f9e7f52c059f618b4f62d624440f00103f90149a02a370100000092031f546865204461696c792053686f77207769746820547265766f72204e6f6168",
-                "postcode": "10019",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "11th Avenue",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9496044,
-                    40.74786080036303
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Dorsky Gallery",
-                "address_line2": "11-03 45th Avenue, New York, NY 11101, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.arts_centre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": "11-03",
-                        "addr:street": "45th Avenue",
-                        "amenity": "arts_centre",
-                        "name": "Dorsky Gallery",
-                        "osm_id": 4995839313,
-                        "osm_type": "n",
-                        "phone": "+1-718-937-6317",
-                        "website": "www.dorsky.org"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact"
-                ],
-                "distance": 6153,
-                "formatted": "Dorsky Gallery, 11-03 45th Avenue, New York, NY 11101, United States of America",
-                "housenumber": "11-03",
-                "lat": 40.7478608,
-                "lon": -73.9496044,
-                "name": "Dorsky Gallery",
-                "place_id": "51d0888851c67c52c05982c217e7b95f4440f00103f9015175c6290100000092030e446f72736b792047616c6c657279",
-                "postcode": "11101",
-                "quarter": "Long Island City",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "45th Avenue",
-                "suburb": "Queens"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.96500642500733,
-                    40.66524126420176
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Prospect Park Zoo",
-                "address_line2": "450 Flatbush Avenue, New York, NY 11225, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.zoo"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:city": "Brooklyn",
-                        "addr:housenumber": 450,
-                        "addr:postcode": 11225,
-                        "addr:street": "Flatbush Avenue",
-                        "barrier": "fence",
-                        "name": "Prospect Park Zoo",
-                        "operator": "Wildlife Conservation Society",
-                        "osm_id": 60861746,
-                        "osm_type": "w",
-                        "tourism": "zoo",
-                        "website": "https://prospectparkzoo.com/",
-                        "wikidata": "Q1058899",
-                        "wikipedia": "en:Prospect Park Zoo"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6180,
-                "district": "Prospect Heights",
-                "formatted": "Prospect Park Zoo, 450 Flatbush Avenue, New York, NY 11225, United States of America",
-                "housenumber": "450",
-                "lat": 40.665298050000004,
-                "lon": -73.96502254028664,
-                "name": "Prospect Park Zoo",
-                "place_id": "5187f54eaac27d52c0591fd930a026554440f00102f90132ada0030000000092031150726f7370656374205061726b205a6f6f",
-                "postcode": "11225",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Flatbush Avenue",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9801619,
-                    40.764941600365056
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Zankel Hall",
-                "address_line2": "West 56th Street, New York, NY 10019, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.theatre"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "county": "New York County",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "amenity": "theatre",
-                        "name": "Zankel Hall",
-                        "osm_id": 4406663999,
-                        "osm_type": "n",
-                        "theatre": "concert_hall"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [],
-                "distance": 6188,
-                "district": "Manhattan Community Board 5",
-                "formatted": "Zankel Hall, West 56th Street, New York, NY 10019, United States of America",
-                "lat": 40.7649416,
-                "lon": -73.9801619,
-                "name": "Zankel Hall",
-                "place_id": "514152faf8ba7e52c0597b753a9be9614440f00103f9013f5ba8060100000092030b5a616e6b656c2048616c6c",
-                "postcode": "10019",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "West 56th Street",
-                "suburb": "Manhattan"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9332632,
-                    40.705797800357985
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Amos Eno Gallery",
-                "address_line2": "56 Bogart Street, New York, NY 11206, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.culture",
-                    "entertainment.culture.gallery"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:housenumber": 56,
-                        "addr:street": "Bogart Street",
-                        "description": "Amos Eno provides a platform for emerging artists in all media, giving precedence to artistic expression freed from commercial restrain.",
-                        "email": "amosenogallery@gmail.com",
-                        "name": "Amos Eno Gallery",
-                        "opening_hours": "Th-Su 12:00-18:00",
-                        "osm_id": 6448226408,
-                        "osm_type": "n",
-                        "phone": "+1-718-237-3001",
-                        "start_date": 1974,
-                        "tourism": "gallery",
-                        "website": "https://www.amoseno.org"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact"
-                ],
-                "distance": 6196,
-                "formatted": "Amos Eno Gallery, 56 Bogart Street, New York, NY 11206, United States of America",
-                "housenumber": "56",
-                "lat": 40.7057978,
-                "lon": -73.9332632,
-                "name": "Amos Eno Gallery",
-                "place_id": "51dca39295ba7b52c0592a101395575a4440f00103f9016820588001000000920310416d6f7320456e6f2047616c6c657279",
-                "postcode": "11206",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Bogart Street",
-                "suburb": "Brooklyn"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.93308099999999,
-                    40.70498780035789
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address_line1": "Syndicated Bar Theater Kitchen",
-                "address_line2": "40 Bogart Street, New York, NY 11206, United States of America",
-                "categories": [
-                    "entertainment",
-                    "entertainment.cinema"
-                ],
-                "city": "New York",
-                "country": "United States",
-                "country_code": "us",
-                "datasource": {
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database Licence",
-                    "raw": {
-                        "addr:city": "Brooklyn",
-                        "addr:housenumber": 40,
-                        "addr:postcode": 11206,
-                        "addr:state": "NY",
-                        "addr:street": "Bogart Street",
-                        "amenity": "cinema",
-                        "amenity_1": "bar",
-                        "amenity_2": "restaurant",
-                        "contact:facebook": "https://www.facebook.com/syndicatedbk",
-                        "contact:instagram": "http://instagram.com/syndicatedbk/",
-                        "contact:twitter": "http://twitter.com/syndicatedbk",
-                        "name": "Syndicated Bar Theater Kitchen",
-                        "opening_hours": "Su 15:00-24:00; Mo-We 17:00-24:00; Th 17:00-27:00; Fr 17:00-26:00; Sa 15:00-26:00",
-                        "osm_id": 2838596374,
-                        "osm_type": "n",
-                        "phone": "+1-718-386-3399",
-                        "website": "https://syndicatedbk.com/",
-                        "wikidata": "Q45032934"
-                    },
-                    "sourcename": "openstreetmap",
-                    "url": "https://www.openstreetmap.org/copyright"
-                },
-                "details": [
-                    "details",
-                    "details.contact",
-                    "details.wiki_and_media"
-                ],
-                "distance": 6223,
-                "formatted": "Syndicated Bar Theater Kitchen, 40 Bogart Street, New York, NY 11206, United States of America",
-                "housenumber": "40",
-                "lat": 40.7049878,
-                "lon": -73.933081,
-                "name": "Syndicated Bar Theater Kitchen",
-                "place_id": "5136e15e99b77b52c059dd4e4d0a3d5a4440f00103f901168b31a90000000092031e53796e64696361746564204261722054686561746572204b69746368656e",
-                "postcode": "11206",
-                "state": "New York",
-                "state_code": "NY",
-                "street": "Bogart Street",
                 "suburb": "Brooklyn"
             },
             "type": "Feature"
