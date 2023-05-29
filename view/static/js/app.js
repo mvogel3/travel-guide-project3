@@ -1,7 +1,5 @@
 let url = "http://127.0.0.1:5000/api/v1.0/hotels";
-d3.json(url).then(function(hoteldata) {
-    console.log(hoteldata);
-});
+let rank_url = "http://127.0.0.1:5000/api/v1.0/hotels/ranking/";
 
 let myMap = L.map("map", {
     center: [40.7350, -74.0059],
@@ -32,8 +30,14 @@ function initialize() {
 
         buildMetadata(hotel_sel);
         buildMap(hotel_sel);
-
     });
+
+    let rankMenu = d3.select("#rankHotels");
+    rankMenu.append("option").text("Hotel Reviews").property("value", "reviews");
+    rankMenu.append("option").text("Hotel Ratings").property("value", "ratings");
+    rankMenu.append("option").text("Average Price").property("value", "price");
+    let rank_sel = "reviews";
+    showRanking(rank_sel);
 };
 
 function buildMap(hotel_sel) {
@@ -84,6 +88,32 @@ function buildMetadata(hotel_sel) {
     }
 };
 
+function showRanking(rank_sel) {
+    console.log(`selected rank by: ${rank_sel}`);
+    d3.select("#hotel-ranking").html("");
+    d3.json(rank_url + rank_sel).then((hotelNumber) => {
+        let trace = {
+            x: hotelNumber.hotel_numbers,
+            y: hotelNumber.hotel_names,
+            text: hotelNumber.hotel_names,
+            type: "bar",
+            orientation: "h"
+        };
+
+        let layout = {
+            title: `Top 10 hotels by ${hotelNumber.x_label}`,
+            margin: {
+                l: 300,
+                r: 50,
+                b: 50,
+                t: 50,
+                pad: 4
+            }
+        };
+
+        Plotly.newPlot("hotel-ranking", [trace], layout)
+    });
+};
 
 function optionChanged(hotel_sel) {
     console.log(`selected sample: ${hotel_sel}`);
