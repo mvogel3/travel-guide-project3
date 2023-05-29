@@ -1,0 +1,16 @@
+/* Custom styling for the jumbotron */
+.custom-jumbotron {
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  .custom-jumbotron::before {
+    content: "";
+    display: inline-block;
+    background-image: url("https://www.statueofliberty.org/wp-content/uploads/2020/07/Statue-of-liberty.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+  }
+  

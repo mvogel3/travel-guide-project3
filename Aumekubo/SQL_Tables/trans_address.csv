@@ -1,0 +1,500 @@
+city,postcode,street,address2,longitude,latitude
+New York,10000,Centre Street,"Centre Street, New York, NY 10000, United States of America",-74.0050702,40.71235
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.006978,40.713282
+New York,10007,Park Row,"Park Row, New York, NY 10007, United States of America",-74.0066059,40.7119779
+New York,10000,Park Row,"Park Row, New York, NY 10000, United States of America",-74.0061603,40.7118408
+New York,10000,Chambers Street,"Chambers Street, New York, NY 10000, United States of America",-74.0059659,40.7139131
+New York,10007,Park Row,"Park Row, New York, NY 10007, United States of America",-74.0069035,40.7118883
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0075138,40.7128763
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0067437,40.7138107
+New York,10000,Park Row,"Park Row, New York, NY 10000, United States of America",-74.0066373,40.7117237
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0066843,40.7138623
+New York,10007,Park Place,"Park Place, New York, NY 10007, United States of America",-74.0076372,40.7127482
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0066029,40.7139622
+New York,10000,Park Row,"Park Row, New York, NY 10000, United States of America",-74.0097157700624,40.71266655
+New York,10000,Chambers Street,"Chambers Street, New York, NY 10000, United States of America",-74.0061225,40.7141343
+New York,10279,Broadway,"Broadway, New York, NY 10279, United States of America",-74.0079842,40.712324
+New York,10000,Chambers Street,"New York, NY 10000, United States of America",-74.0038204,40.7129921
+New York,10279,Broadway,"Broadway, New York, NY 10279, United States of America",-74.0081064,40.7121847
+New York,10038,Dutch Street,"Dutch Street, New York, NY 10038, United States of America",-74.00700865114402,40.709853800000005
+New York,10279,Broadway,"Broadway, New York, NY 10279, United States of America",-74.0083724,40.7118756
+New York,10007,Warren Street,"Warren Street, New York, NY 10007, United States of America",-74.0080578,40.7141622
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0058386,40.7148957
+New York,10007,Chambers Street,"Chambers Street, New York, NY 10007, United States of America",-74.007623,40.714719
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0083846,40.7141894
+New York,10007,Park Place,"New York, NY 10007, United States of America",-74.0091645,40.7132181
+New York,10007,Chambers Street,"Chambers Street, New York, NY 10007, United States of America",-74.0077211,40.7148762
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0079676,40.7149161
+New York,10279,Broadway,"Broadway, New York, NY 10279, United States of America",-74.0088302,40.7113345
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0076738,40.7151241
+New York,10007,Murray Street,"Murray Street, New York, NY 10007, United States of America",-74.0091388,40.7139888
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0053388,40.7155015
+New York,10038,Nassau Street,"Nassau Street, New York, NY 10038, United States of America",-74.0076322,40.7103294
+New York,10038,Fulton Street,"New York, NY 10038, United States of America",-74.0076638,40.7101857
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0098598,40.7122992
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.010017,40.7122023
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0049861,40.7159081
+New York,10007,Chambers Street,"Chambers Street, New York, NY 10007, United States of America",-74.0088639,40.7153239
+New York,10038,William Street,"William Street, New York, NY 10038, United States of America",-74.0065858,40.709426
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0047514,40.7161368
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0095697,40.7103638
+New York,10012,West Broadway,"West Broadway, New York, NY 10012, United States of America",-74.0092451,40.7155081
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0063065,40.7168339
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0099905,40.7099095
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0108385,40.7107861
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0110289,40.710668
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0008362,40.7107961
+New York,10013,Church Street,"Church Street, New York, NY 10013, United States of America",-74.0110225,40.7105053
+New York,10038,Frankfort Street,"Frankfort Street, New York, NY 10038, United States of America",-74.0018906,40.7095711
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0021657,40.7092359
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0007635,40.7104836
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0029118,40.7086554
+New York,10007,Chambers Street,"Chambers Street, New York, NY 10007, United States of America",-74.0106049,40.7160715
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0020727,40.7090353
+New York,10006,Church Street,"Church Street, New York, NY 10006, United States of America",-74.0113003,40.7100988
+New York,10006,Church Street,"Church Street, New York, NY 10006, United States of America",-74.0113816,40.7099415
+New York,10007,Greenwich Street,"180 Greenwich Street, New York, NY 10007, United States of America",-74.012527,40.7119004
+New York,10048,Greenwich Street,"Greenwich Street, New York, NY 10048, United States of America",-74.0122698,40.7111153
+New York,10038,Madison Street,"Madison Street, New York, NY 10038, United States of America",-73.9994034,40.7118912
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0037378,40.7079435
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0035031,40.7176275
+New York,10038,Pearl Street,"Pearl Street, New York, NY 10038, United States of America",-74.0035241,40.7078104
+New York,10007,Park Row,"Park Row, New York, NY 10007, United States of America",-73.9986904,40.7133183
+New York,10282,Chambers Street,"Chambers Street, New York, NY 10282, United States of America",-74.0114279,40.7166019
+New York,10006,Thames Street,"Thames Street, New York, NY 10006, United States of America",-74.0110824,40.7086881
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0030433,40.7181885
+New York,10038,Madison Street,"Madison Street, New York, NY 10038, United States of America",-73.9979427,40.711898
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0027133,40.7185463
+New York,10014,Varick Street,"Varick Street, New York, NY 10014, United States of America",-74.0069428,40.7191096
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0114693,40.7079284
+New York,10002,East Broadway,"East Broadway, New York, NY 10002, United States of America",-73.9975748,40.7135098
+New York,10006,Trinity Place,"Trinity Place, New York, NY 10006, United States of America",-74.0124025,40.7084747
+New York,10038,William Street,"William Street, New York, NY 10038, United States of America",-74.0091832,40.7067241
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0025095,40.7188025
+New York,10278,Catherine Street,"Catherine Street, New York, NY 10278, United States of America",-73.9974054,40.7133786
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9973248,40.7121023
+New York,10014,Varick Street,"Varick Street, New York, NY 10014, United States of America",-74.0069797,40.7195148
+New York,10282,West Street,"West Street, New York, NY 10282, United States of America",-74.0125425,40.7173697
+New York,10038,Madison Street,"Madison Street, New York, NY 10038, United States of America",-73.9971549,40.7119603
+New York,10006,Trinity Place,"Trinity Place, New York, NY 10006, United States of America",-74.012582,40.7082196
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0119528,40.7075497
+New York,10002,Division Street,"Division Street, New York, NY 10002, United States of America",-73.9969264,40.7141434
+New York,10006,Trinity Place,"Trinity Place, New York, NY 10006, United States of America",-74.0127315,40.7079741
+New York,10013,Centre Street,"Centre Street, New York, NY 10013, United States of America",-73.999892,40.718092
+New York,10013,Canal Street,"New York, NY 10013, United States of America",-74.0007681,40.7186195
+New York,10013,Lafayette Street,"Lafayette Street, New York, NY 10013, United States of America",-74.0004678,40.7184961
+New York,10013,Walker Street,"New York, NY 10013, United States of America",-74.0055688,40.7200047
+New York,10013,Harrison Street,"Harrison Street, New York, NY 10013, United States of America",-74.011363,40.718817
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.0084953,40.7198505
+New York,10004,Broad Street,"New York, NY 10004, United States of America",-74.0110604,40.7064906
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0121754,40.7070773
+New York,10004,Water Street,"Water Street, New York, NY 10004, United States of America",-74.0068615,40.705422
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.001775,40.719527
+New York,10282,Murray Street,"Murray Street, New York, NY 10282, United States of America",-74.0150924,40.7157702
+New York,10006,Trinity Place,"Trinity Place, New York, NY 10006, United States of America",-74.0130541,40.7074981
+New York,10004,Water Street,"Water Street, New York, NY 10004, United States of America",-74.0077758,40.7050694
+New York,10280,South End Avenue,"South End Avenue, New York, NY 10280, United States of America",-74.0159795,40.7106634
+New York,10006,Trinity Place,"Trinity Place, New York, NY 10006, United States of America",-74.013342,40.70722
+New York,10006,Greenwich Street,"Greenwich Street, New York, NY 10006, United States of America",-74.01385,40.7073629
+New York,10280,South End Avenue,"South End Avenue, New York, NY 10280, United States of America",-74.0162606,40.7107105
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-74.0050941,40.7211253
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.994868,40.7123215
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0010096,40.7205415
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0010102,40.7205751
+New York,10004,Water Street,"Water Street, New York, NY 10004, United States of America",-74.0085012,40.7043145
+New York,10005,Canal Street,"New York, NY 10005, United States of America",-74.0052989,40.7218493
+New York,10002,Chrystie Street,"Chrystie Street, New York, NY 10002, United States of America",-73.9949517,40.7162023
+New York,11201,Manhattan Bridge,"Manhattan Bridge, New York, NY 11201, United States of America",-73.9940579,40.7136152
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9939417,40.7122965
+New York,10285,Battery Park City Greenway,"Battery Park City Greenway, New York, NY 10285, United States of America",-74.0177709,40.7150016
+New York,10002,Bowery,"87 Bowery, New York, NY 10002, United States of America",-73.9950691,40.7168224
+New York,10004,Water Street,"Water Street, New York, NY 10004, United States of America",-74.0094172,40.7039222
+New York,10041,Pier 11,"Pier 11, New York, NY 10041, United States of America",-74.0061757,40.7035094
+New York,10013,Centre Street,"Centre Street, New York, NY 10013, United States of America",-73.9982673,40.7200138
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.995258,40.7174636
+New York,10280,West Thames Street,"West Thames Street, New York, NY 10280, United States of America",-74.0171071,40.7084505
+New York,10280,West Thames Street,"West Thames Street, New York, NY 10280, United States of America",-74.0170381,40.7081938
+New York,10280,Battery Place,"Battery Place, New York, NY 10280, United States of America",-74.01682,40.7076684
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-74.0050971,40.7224815
+New York,10005,Canal Street,"New York, NY 10005, United States of America",-74.0062894,40.7225571
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9950902,40.7181304
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-74.0001096,40.7216454
+New York,10275,Broadway,"Broadway, New York, NY 10275, United States of America",-74.0141139,40.7049011
+New York,10002,Pike Street,"Pike Street, New York, NY 10002, United States of America",-73.9926849,40.7127316
+New York,10280,Battery Place,"Battery Place, New York, NY 10280, United States of America",-74.0173494,40.7073004
+New York,10275,Battery Place,"Battery Place, New York, NY 10275, United States of America",-74.0147827,40.7049524
+New York,10275,Battery Place,"Battery Place, New York, NY 10275, United States of America",-74.0140946,40.7045091
+New York,10041,Pier 11,"Pier 11, New York, NY 10041, United States of America",-74.0055003,40.7024303
+New York,10002,Pike Street,"Pike Street, New York, NY 10002, United States of America",-73.9924556,40.714292
+New York,10002,Pike Street,"5 Pike Street, New York, NY 10002, United States of America",-73.9923707,40.7140311
+New York,10002,East Broadway,"East Broadway, New York, NY 10002, United States of America",-73.9923568,40.7139649
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-74.0047813,40.7232474
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9945839,40.7186815
+New York,10004,Water Street,"Water Street, New York, NY 10004, United States of America",-74.0110364,40.7029911
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9921108,40.7125651
+New York,10005,Varick Street,"Varick Street, New York, NY 10005, United States of America",-74.0063252,40.7233967
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9919308,40.7124131
+New York,10002,Grand Street,"New York, NY 10002, United States of America",-73.9937839,40.7181616
+New York,10002,East Broadway,"East Broadway, New York, NY 10002, United States of America",-73.9919045,40.713828
+New York,10280,Battery Place,"Battery Place, New York, NY 10280, United States of America",-74.01598,40.7050219
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9919789,40.7156519
+New York,10004,Whitehall Street,"Whitehall Street, New York, NY 10004, United States of America",-74.012994,40.7030869
+New York,10004,Broad Street,"Broad Street, New York, NY 10004, United States of America",-74.0114869,40.7024141
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.992053,40.7164057
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9991105,40.7227645
+New York,10004,State Street,"State Street, New York, NY 10004, United States of America",-74.0145434,40.7033643
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9943007,40.7200372
+New York,10012,Lafayette Street,"Lafayette Street, New York, NY 10012, United States of America",-73.9971855,40.7223025
+New York,10280,Battery Place,"Battery Place, New York, NY 10280, United States of America",-74.0176055,40.705203
+New York,10002,East Broadway,"East Broadway, New York, NY 10002, United States of America",-73.9907397,40.7140988
+New York,10005,6th Avenue,"6th Avenue, New York, NY 10005, United States of America",-74.0042985,40.7244711
+New York,10280,Battery Park City Greenway,"Battery Park City Greenway, New York, NY 10280, United States of America",-74.0175292,40.7049282
+New York,11201,Brooklyn Bridge Park Greenway,"Brooklyn Bridge Park Greenway, New York, NY 11201, United States of America",-73.9958496,40.703735
+New York,10002,Delancey Street,"Delancey Street, New York, NY 10002, United States of America",-73.99372,40.7202174
+New York,10002,Rutgers Street,"Rutgers Street, New York, NY 10002, United States of America",-73.9902952,40.7141543
+New York,10038,South Street,"South Street, New York, NY 10038, United States of America",-74.0120843,40.7016459
+New York,10002,Rutgers Street,"Rutgers Street, New York, NY 10002, United States of America",-73.990173,40.713715
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9911872,40.7171791
+New York,10004,Peter Minuit Plaza,"Peter Minuit Plaza, New York, NY 10004, United States of America",-74.0136924,40.7021052
+New York,10002,Essex Street,"Essex Street, New York, NY 10002, United States of America",-73.9901174,40.7146755
+New York,10038,South Street,"South Street, New York, NY 10038, United States of America",-74.0124253,40.7015792
+New York,10004,Peter Minuit Plaza,"Peter Minuit Plaza, New York, NY 10004, United States of America",-74.0131489,40.7017103
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.990959,40.7176001
+New York,10004,South Street,"4 South Street, New York, NY 10004, United States of America",-74.01305535394461,40.70096425
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9980765,40.7240075
+New York,10004,East River Greenway,"East River Greenway, New York, NY 10004, United States of America",-74.0116105,40.7008035
+New York,10004,Battery Park Underpass,"Battery Park Underpass, New York, NY 10004, United States of America",-74.01736392652043,40.7032354
+New York,10004,Peter Minuit Plaza,"Peter Minuit Plaza, New York, NY 10004, United States of America",-74.0138756,40.7015255
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-74.0040137,40.7255399
+New York,10013,Spring Street,"New York, NY 10013, United States of America",-74.0070789,40.7257352
+New York,10012,6th Avenue,"6th Avenue, New York, NY 10012, United States of America",-74.0038242,40.7256902
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9888826,40.7128186
+New York,10004,Battery Park Underpass,"New York, NY 10004, United States of America",-74.0174644,40.7031131
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.997702,40.724329
+New York,10013,Spring Street,"Spring Street, New York, NY 10013, United States of America",-74.0087025,40.725891
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9935164,40.7221236
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.0074173,40.7260955
+New York,10004,Battery Park Underpass,"Battery Park Underpass, New York, NY 10004, United States of America",-74.013026,40.7005491
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9883535,40.7127387
+New York,10002,Grand Street,"Grand Street, New York, NY 10002, United States of America",-73.9891885,40.7168872
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9904801,40.7194588
+New York,10002,Grand Street,"Grand Street, New York, NY 10002, United States of America",-73.9887263,40.7164539
+New York,10002,Essex Street,"Essex Street, New York, NY 10002, United States of America",-73.9888974,40.7169841
+New York,11201,Old Fulton Street,"Old Fulton Street, New York, NY 11201, United States of America",-73.9939594,40.7026065
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9971484,40.7251336
+New York,10014,Varick Street,"Varick Street, New York, NY 10014, United States of America",-74.005719,40.7268914
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9898545,40.7198157
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.987336,40.7129513
+New York,10014,West Houston Street,"West Houston Street, New York, NY 10014, United States of America",-73.9981053,40.7258677
+New York,10012,East Houston Street,"East Houston Street, New York, NY 10012, United States of America",-73.9963397,40.7251814
+New York,10002,Delancey Street,"Delancey Street, New York, NY 10002, United States of America",-73.9888299,40.7189098
+New York,10002,Delancey Street,"Delancey Street, New York, NY 10002, United States of America",-73.9885294,40.7184727
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-74.0032191,40.7271874
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.996204,40.725297
+New York,10014,West Houston Street,"West Houston Street, New York, NY 10014, United States of America",-73.9969673,40.7256327
+New York,10012,Mulberry Street,"Mulberry Street, New York, NY 10012, United States of America",-73.9951162,40.7248658
+New York,10012,MacDougal Street,"New York, NY 10012, United States of America",-74.0027173,40.72724
+New York,10002,Delancey Street,"New York, NY 10002, United States of America",-73.9881811,40.718428
+New York,10014,West Houston Street,"West Houston Street, New York, NY 10014, United States of America",-73.9997495,40.7267181
+New York,10012,East Houston Street,"East Houston Street, New York, NY 10012, United States of America",-73.9960889,40.7254345
+New York,10012,East Houston Street,"East Houston Street, New York, NY 10012, United States of America",-73.9939659,40.724467
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9864975,40.7128619
+New York,10014,West Houston Street,"West Houston Street, New York, NY 10014, United States of America",-73.9996907,40.7269673
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9944162,40.7249095
+New York,10002,Delancey Street,"Delancey Street, New York, NY 10002, United States of America",-73.9874236,40.7183982
+New York,10012,East Houston Street,"East Houston Street, New York, NY 10012, United States of America",-73.9922863,40.7238693
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9929879,40.7244218
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9961882,40.726275
+New York,10012,West Houston Street,"West Houston Street, New York, NY 10012, United States of America",-74.0023531,40.7279984
+New York,10002,Essex Street,"Essex Street, New York, NY 10002, United States of America",-73.9877744,40.7196378
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9855192,40.7131084
+New York,10012,Bleecker Street,"New York, NY 10012, United States of America",-73.9946797,40.7259471
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9907123,40.7233924
+New York,10014,Varick Street,"Varick Street, New York, NY 10014, United States of America",-74.0053077,40.7285993
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9888443,40.7218224
+New York,10014,West Houston Street,"West Houston Street, New York, NY 10014, United States of America",-74.0068585,40.7288066
+New York,10014,6th Avenue,"6th Avenue, New York, NY 10014, United States of America",-74.002565,40.7286421
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.989938,40.723402
+New York,10014,Varick Street,"Varick Street, New York, NY 10014, United States of America",-74.005375,40.7290101
+New York,10002,Allen Street,"Allen Street, New York, NY 10002, United States of America",-73.9890059,40.7226138
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.984633,40.7130373
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.0069306,40.729123
+New York,11201,Old Fulton Street,"Old Fulton Street, New York, NY 11201, United States of America",-73.9910123,40.7010038
+New York,10002,Grand Street,"Grand Street, New York, NY 10002, United States of America",-73.9845608,40.7151965
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9842764,40.7132379
+New York,10002,East Houston Street,"New York, NY 10002, United States of America",-73.9891233,40.7232242
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9919427,40.7254898
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9921616,40.7258588
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9951542,40.727459
+New York,10002,Essex Street,"Essex Street, New York, NY 10002, United States of America",-73.9867426,40.7216159
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9834922,40.7131863
+New York,11201,Cadman Plaza West,"Cadman Plaza West, New York, NY 11201, United States of America",-73.9912785,40.699656
+New York,10002,1st Avenue,"1st Avenue, New York, NY 10002, United States of America",-73.9881611,40.7234922
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.9901735,40.725393
+New York,11201,Cadman Plaza West,"Cadman Plaza West, New York, NY 11201, United States of America",-73.9914349,40.6992975
+New York,10002,Grand Street,"Grand Street, New York, NY 10002, United States of America",-73.9829288,40.7149265
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9915324,40.7267131
+New York,11201,Cadman Plaza West,"Cadman Plaza West, New York, NY 11201, United States of America",-73.9911832,40.6991028
+New York,10012,Bowery,"Bowery, New York, NY 10012, United States of America",-73.9917874,40.7269174
+New York,10014,7th Avenue South,"New York, NY 10014, United States of America",-74.0046638,40.7306008
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9823491,40.7134571
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9859476,40.722647
+New York,11201,Clark Street,"New York, NY 11201, United States of America",-73.9930222,40.6974653
+New York,10009,1st Avenue,"1st Avenue, New York, NY 10009, United States of America",-73.9874634,40.7243938
+New York,10002,Madison Street,"Madison Street, New York, NY 10002, United States of America",-73.9818857,40.7133758
+New York,10014,6th Avenue,"6th Avenue, New York, NY 10014, United States of America",-74.0013897,40.7308271
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.986751,40.701397
+New York,10002,Grand Street,"Grand Street, New York, NY 10002, United States of America",-73.9814699,40.7145111
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9855504,40.7234635
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9841125,40.7217479
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9836882,40.7212687
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9935603,40.7293656
+New York,11201,Sands Street,"Sands Street, New York, NY 11201, United States of America",-73.9873744,40.699907
+New York,10002,Jackson Street,"Jackson Street, New York, NY 10002, United States of America",-73.9807612,40.7134366
+New York,10014,West 4th Street,"West 4th Street, New York, NY 10014, United States of America",-74.0009941,40.731643
+New York,10002,Manhattan Bridge Pedestrian Path,"New York, NY 10002, United States of America",-73.9868772,40.700162
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.988893,40.7271156
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9850633,40.7238319
+New York,10009,1st Avenue,"1st Avenue, New York, NY 10009, United States of America",-73.9866614,40.7255129
+New York,10012,Washington Square East,"Washington Square East, New York, NY 10012, United States of America",-73.9956415,40.7305783
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9932451,40.7297457
+New York,11201,Cadman Plaza West,"Cadman Plaza West, New York, NY 11201, United States of America",-73.9911624,40.6966963
+New York,10014,7th Avenue South,"7th Avenue South, New York, NY 10014, United States of America",-74.0035717,40.7325494
+New York,10009,Columbia Street,"Columbia Street, New York, NY 10009, United States of America",-73.980304,40.7164997
+Jersey City,07311,Paulus Hook Pier,"Paulus Hook Pier, Jersey City, NJ 07311, United States of America",-74.0321327,40.7138158
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9847299,40.724565
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.0089848,40.7326946
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9818344,40.7207312
+New York,11201,Bridge Park Drive,"Bridge Park Drive, New York, NY 11201, United States of America",-74.0008129,40.6931101
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.0078115,40.7328737
+New York,10003,Lafayette Street,"Lafayette Street, New York, NY 10003, United States of America",-73.9915037,40.7297087
+New York,10014,Christopher Street,"New York, NY 10014, United States of America",-74.0069062,40.7329877
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9926289,40.730328
+Jersey City,07311,Paulus Hook Pier,"Jersey City, NJ 07311, United States of America",-74.0327801467434,40.71364225
+New York,10003,Lafayette Street,"Lafayette Street, New York, NY 10003, United States of America",-73.991398,40.7298513
+New York,11251,FDR Drive,"New York, NY 11251, United States of America",-73.9792325480706,40.7101751
+New York,11201,Cadman Plaza West,"Cadman Plaza West, New York, NY 11201, United States of America",-73.9908963,40.6958855
+Jersey City,07311,Hudson River Waterfront Walkway,"Hudson River Waterfront Walkway, Jersey City, NJ 07311, United States of America",-74.0324551,40.7167341
+New York,10003,East 8th Street,"East 8th Street, New York, NY 10003, United States of America",-73.992926,40.7307457
+New York,11251,FDR Drive,"FDR Drive, New York, NY 11251, United States of America",-73.9792319,40.7101297
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.006243,40.7333689
+New York,10003,East 8th Street,"East 8th Street, New York, NY 10003, United States of America",-73.9913887,40.7301208
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.0047605,40.7333663
+New York,11201,Brooklyn Bridge Park Greenway,"Brooklyn Bridge Park Greenway, New York, NY 11201, United States of America",-74.0020061,40.6924305
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9841665,40.7249779
+New York,10014,West 10th Street,"West 10th Street, New York, NY 10014, United States of America",-74.0087128,40.7333136
+New York,10003,East 8th Street,"East 8th Street, New York, NY 10003, United States of America",-73.995945,40.732023
+New York,10014,West 10th Street,"West 10th Street, New York, NY 10014, United States of America",-74.0075111,40.7335067
+New York,10004,Carder Road,"Carder Road, New York, NY 10004, United States of America",-74.0150361,40.6932017
+New York,10011,West 8th Street,"West 8th Street, New York, NY 10011, United States of America",-73.9965554,40.7322906
+New York,10004,Carder Road,"Carder Road, New York, NY 10004, United States of America",-74.0152945,40.6932682
+Jersey City,07311,Hoboken Newport Walkway,"Hoboken Newport Walkway, Jersey City, NJ 07311, United States of America",-74.0321472,40.7188701
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-73.9997962,40.7331031
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.003263,40.7335852
+New York,10003,Saint Mark's Place,"Saint Mark's Place, New York, NY 10003, United States of America",-73.9879396,40.7285967
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.0028294,40.7336088
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.9871457,40.697514
+New York,11201,Concord Street,"Concord Street, New York, NY 11201, United States of America",-73.986951,40.6976146
+New York,11201,Gold Street,"New York, NY 11201, United States of America",-73.9830115,40.7011651
+New York,10004,Carder Road,"Carder Road, New York, NY 10004, United States of America",-74.015306,40.6930135
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9808329,40.7214941
+New York,10003,4th Avenue,"4th Avenue, New York, NY 10003, United States of America",-73.9904924,40.7303551
+New York,11251,York Street,"New York, NY 11251, United States of America",-73.9826212,40.7012821
+New York,10011,West 8th Street,"West 8th Street, New York, NY 10011, United States of America",-73.9991692,40.7333804
+New York,10003,East 9th Street,"East 9th Street, New York, NY 10003, United States of America",-73.9923393,40.7314134
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.9876078,40.7288868
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-74.0015029,40.7338658
+New York,10014,7th Avenue South,"7th Avenue South, New York, NY 10014, United States of America",-74.0027043,40.7340254
+New York,10003,East 9th Street,"East 9th Street, New York, NY 10003, United States of America",-73.9903652,40.730569
+New York,11251,Grand Street,"Grand Street, New York, NY 11251, United States of America",-73.9778607,40.7132399
+New York,10003,East 9th Street,"East 9th Street, New York, NY 10003, United States of America",-73.9892658,40.7301127
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9803463,40.7218715
+New York,11251,Sands Street,"Sands Street, New York, NY 11251, United States of America",-73.983342,40.6998835
+New York,11201,Tillary Street,"Tillary Street, New York, NY 11201, United States of America",-73.9881778,40.6960094
+New York,10014,West 10th Street,"West 10th Street, New York, NY 10014, United States of America",-74.0027227,40.7342445
+New York,10011,West 9th Street,"West 9th Street, New York, NY 10011, United States of America",-73.996336,40.7331038
+New York,11201,Montague Street,"Montague Street, New York, NY 11201, United States of America",-73.991777,40.6941
+Jersey City,07311,Hudson Street,"Hudson Street, Jersey City, NJ 07311, United States of America",-74.0341139,40.7160215
+New York,10003,Saint Mark's Place,"Saint Mark's Place, New York, NY 10003, United States of America",-73.9849703,40.7273924
+New York,10002,Columbia Street,"Columbia Street, New York, NY 10002, United States of America",-73.9788443,40.7195427
+New York,10003,East 9th Street,"East 9th Street, New York, NY 10003, United States of America",-73.9875178,40.7293754
+New York,11251,Sands Street,"Sands Street, New York, NY 11251, United States of America",-73.9832159,40.6996863
+New York,11251,Gold Street,"Gold Street, New York, NY 11251, United States of America",-73.9828505,40.7000091
+New York,10011,Christopher Street,"Christopher Street, New York, NY 10011, United States of America",-73.9996395,40.7340749
+Jersey City,07311,Christopher Columbus Drive,"Christopher Columbus Drive, Jersey City, NJ 07311, United States of America",-74.0341695,40.7170014
+New York,10035,5th Avenue,"5th Avenue, New York, NY 10035, United States of America",-73.9957571,40.7332391
+New York,10014,Christopher Street,"Christopher Street, New York, NY 10014, United States of America",-73.9997852,40.7341714
+New York,10035,3rd Avenue,"3rd Avenue, New York, NY 10035, United States of America",-73.989061,40.7305305
+New York,11201,Gold Street,"Gold Street, New York, NY 11201, United States of America",-73.9830332,40.699434
+New York,10002,East Houston Street,"East Houston Street, New York, NY 10002, United States of America",-73.9784972,40.7196452
+New York,10011,West 9th Street,"West 9th Street, New York, NY 10011, United States of America",-73.9988966,40.7341609
+New York,10009,1st Avenue,"1st Avenue, New York, NY 10009, United States of America",-73.9848639,40.7280362
+New York,10009,Saint Mark's Place,"Saint Mark's Place, New York, NY 10009, United States of America",-73.9832875,40.7266773
+New York,10009,Avenue D,"Avenue D, New York, NY 10009, United States of America",-73.9784304,40.7201904
+Jersey City,07311,Hudson River Waterfront Walkway,"Hudson River Waterfront Walkway, Jersey City, NJ 07311, United States of America",-74.0344078,40.7075327
+New York,11201,Adams Street,"Adams Street, New York, NY 11201, United States of America",-73.9890754,40.6945766
+Jersey City,07311,Hudson Street,"Hudson Street, Jersey City, NJ 07311, United States of America",-74.0339995,40.7194979
+New York,10035,3rd Avenue,"3rd Avenue, New York, NY 10035, United States of America",-73.9889988,40.731009
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.0059326,40.7353404
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9828312,40.7268878
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9828928,40.72707
+Jersey City,07311,Montgomery Street,"Montgomery Street, Jersey City, NJ 07311, United States of America",-74.0353351,40.7166742
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9794705,40.7231029
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.9903404,40.6934991
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9795406,40.7233071
+New York,10009,Avenue D,"Avenue D, New York, NY 10009, United States of America",-73.978068,40.7209984
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.9904135,40.693347
+New York,10014,7th Avenue South,"7th Avenue South, New York, NY 10014, United States of America",-74.00195,40.735379
+Jersey City,07302,Essex Street,"Jersey City, NJ 07302, United States of America",-74.0359523,40.7128648
+New York,10003,East 9th Street,"East 9th Street, New York, NY 10003, United States of America",-73.9829363,40.7274336
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-73.9984515,40.734947
+New York,10035,3rd Avenue,"3rd Avenue, New York, NY 10035, United States of America",-73.9882032,40.7316889
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.9960804,40.6908154
+New York,10035,5th Avenue,"5th Avenue, New York, NY 10035, United States of America",-73.9948531,40.7344538
+New York,11201,Joralemon Street,"Joralemon Street, New York, NY 11201, United States of America",-73.9897911,40.6930294
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9819733,40.727664
+New York,11251,Navy Street,"Navy Street, New York, NY 11251, United States of America",-73.9803594,40.6995469
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9820406,40.7278257
+New York,11201,Adams Street,"Adams Street, New York, NY 11201, United States of America",-73.9891727,40.6929241
+New York,11231,Columbia Street Greenway,"Columbia Street Greenway, New York, NY 11231, United States of America",-74.0006589,40.6894654
+New York,11201,Joralemon Street,"Joralemon Street, New York, NY 11201, United States of America",-73.9900634,40.6924142
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.978597,40.7242666
+New York,10009,Avenue D,"Avenue D, New York, NY 10009, United States of America",-73.9771432,40.7219942
+New York,11251,Gold Street,"Gold Street, New York, NY 11251, United States of America",-73.9830869,40.6965774
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9786732,40.7244956
+New York,11201,Adams Street,"Adams Street, New York, NY 11201, United States of America",-73.9891478,40.6926491
+New York,11251,Gold Street,"Gold Street, New York, NY 11251, United States of America",-73.9832893,40.6963024
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9820429,40.7282553
+New York,10009,1st Avenue,"1st Avenue, New York, NY 10009, United States of America",-73.9836857,40.7296206
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.994588,40.6904061
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0374728,40.7153548
+New York,11217,Livingston Street,"Livingston Street, New York, NY 11217, United States of America",-73.9911541,40.6914176
+New York,10014,Bethune Street,"Bethune Street, New York, NY 10014, United States of America",-74.0063279,40.7369939
+New York,11231,Columbia Street,"Columbia Street, New York, NY 11231, United States of America",-74.0007107,40.688936
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.9917723,40.6911426
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9802066,40.7270581
+New York,10014,8th Avenue,"8th Avenue, New York, NY 10014, United States of America",-74.005225,40.7370738
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-73.997517,40.7362481
+Jersey City,07311,Washington Street,"Washington Street, Jersey City, NJ 07311, United States of America",-74.0372938,40.7179132
+Jersey City,07306,Montgomery Street,"Montgomery Street, Jersey City, NJ 07306, United States of America",-74.0375919,40.7167163
+New York,10001,7th Avenue,"7th Avenue, New York, NY 10001, United States of America",-74.0010693,40.7368694
+New York,10003,4th Avenue,"New York, NY 10003, United States of America",-73.9897328,40.733822
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9795847,40.7266566
+Jersey City,07311,Montgomery Street,"Montgomery Street, Jersey City, NJ 07311, United States of America",-74.0376742,40.7169512
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9814856,40.7286881
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9909411,40.7344668
+New York,11237,Flushing Avenue,"Flushing Avenue, New York, NY 11237, United States of America",-73.9801059,40.6981724
+New York,10003,4th Avenue,"4th Avenue, New York, NY 10003, United States of America",-73.9899821,40.7341217
+New York,11201,Boerum Place,"Boerum Place, New York, NY 11201, United States of America",-73.9893584,40.6917517
+New York,10035,3rd Avenue,"3rd Avenue, New York, NY 10035, United States of America",-73.9875313,40.7329746
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.9854377,40.7318624
+New York,10003,Broadway,"Broadway, New York, NY 10003, United States of America",-73.9909083,40.7346297
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9889896,40.7339518
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9903599,40.734603
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.9873838,40.6923509
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9931113,40.7356887
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.987342,40.692338
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9867269,40.7329904
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.9852252,40.7321471
+New York,10014,8th Avenue,"8th Avenue, New York, NY 10014, United States of America",-74.0044411,40.7377583
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9919969,40.7354172
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9777786,40.7256779
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.986821,40.7331529
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9875592,40.7335552
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.9926756,40.6898763
+New York,10003,Union Square East,"Union Square East, New York, NY 10003, United States of America",-73.9899805,40.7347942
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9779084,40.7260779
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.992354,40.6898726
+Jersey City,07311,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07311, United States of America",-74.0363892,40.7227657
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-73.9970695,40.7370478
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.9872551,40.6920075
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.9846215,40.7320956
+New York,10003,East 14th Street,"East 14th Street, New York, NY 10003, United States of America",-73.985292,40.7325964
+New York,10035,3rd Avenue,"3rd Avenue, New York, NY 10035, United States of America",-73.986849,40.7335592
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-73.9964914,40.7371174
+Jersey City,07311,Hoboken Newport Walkway- Hudson River Waterfront Walkway,"Jersey City, NJ 07311, United States of America",-74.0344862,40.726036
+New York,10009,East 10th Street,"402 East 10th Street, New York, NY 10009, United States of America",-73.9771755,40.7256075
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0391986,40.7155241
+New York,11201,Boerum Place,"Boerum Place, New York, NY 11201, United States of America",-73.9891894,40.6908066
+New York,11201,Jay Street,"Jay Street, New York, NY 11201, United States of America",-73.9873868,40.6916624
+New York,11201,Fulton Mall,"Fulton Mall, New York, NY 11201, United States of America",-73.9876059,40.6915138
+New York,10001,7th Avenue,"7th Avenue, New York, NY 10001, United States of America",-74.0001587,40.7379008
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-73.997068,40.7374588
+New York,10014,Hudson Street,"Hudson Street, New York, NY 10014, United States of America",-74.0056631,40.7384069
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.9920555,40.6894931
+New York,10014,8th Avenue,"8th Avenue, New York, NY 10014, United States of America",-74.0037556,40.7383653
+Jersey City,07306,Montgomery Street,"Montgomery Street, Jersey City, NJ 07306, United States of America",-74.0392539,40.716902
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0395198,40.7154437
+Jersey City,07311,Metro Plaza Drive,"Metro Plaza Drive, Jersey City, NJ 07311, United States of America",-74.0371987,40.722516
+New York,11201,Willoughby Street,"Willoughby Street, New York, NY 11201, United States of America",-73.985942,40.69218
+New York,10009,East 14th Street,"East 14th Street, New York, NY 10009, United States of America",-73.9823163,40.7311389
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-73.9972499,40.7376456
+New York,11201,Fulton Mall,"Fulton Mall, New York, NY 11201, United States of America",-73.9871478,40.6914282
+New York,10003,East 15th Street,"East 15th Street, New York, NY 10003, United States of America",-73.9906491,40.7357611
+New York,10009,Avenue A,"Avenue A, New York, NY 10009, United States of America",-73.9806222,40.7299042
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9770922,40.7262933
+Jersey City,07310,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.0344536,40.7269637
+New York,10011,8th Avenue,"8th Avenue, New York, NY 10011, United States of America",-74.0034355,40.738642
+New York,10001,7th Avenue,"7th Avenue, New York, NY 10001, United States of America",-74.0000106,40.7383353
+Jersey City,07310,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.0347553,40.7267989
+New York,10011,14th Street/6th Avenue-7th Subway transfer,"14th Street/6th Avenue-7th Subway transfer, New York, NY 10011, United States of America",-73.9992199,40.7382635
+New York,11231,Smith Street,"Smith Street, New York, NY 11231, United States of America",-73.9875555,40.6909239
+New York,10009,East 14th Street,"East 14th Street, New York, NY 10009, United States of America",-73.9814231,40.7308653
+Jersey City,07302,Hudson River Waterfront Walkway,"Hudson River Waterfront Walkway, Jersey City, NJ 07302, United States of America",-74.0399336,40.7096231
+New York,10014,Greenwich Street,"Greenwich Street, New York, NY 10014, United States of America",-74.0063977,40.7388494
+Jersey City,07302,Hudson River Waterfront Walkway,"Hudson River Waterfront Walkway, Jersey City, NJ 07302, United States of America",-74.0402156,40.7110052
+New York,11231,Smith Street,"Smith Street, New York, NY 11231, United States of America",-73.9878988,40.6906343
+Jersey City,07310,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.0351295,40.7266181
+New York,10003,Union Square East,"Union Square East, New York, NY 10003, United States of America",-73.9894355,40.7356909
+New York,10019,6th Avenue,"6th Avenue, New York, NY 10019, United States of America",-73.9963057,40.7378835
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9769646,40.7268519
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.975642,40.7251766
+New York,10003,Union Square East,"Union Square East, New York, NY 10003, United States of America",-73.989394,40.7357648
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9753771,40.7248953
+New York,10011,West 15th Street,"West 15th Street, New York, NY 10011, United States of America",-73.9963408,40.7380466
+New York,10009,1st Avenue service road,"1st Avenue service road, New York, NY 10009, United States of America",-73.9820505,40.7318647
+New York,11217,Livingston Street,"Livingston Street, New York, NY 11217, United States of America",-73.9875919,40.6904489
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-73.9999913,40.7387902
+New York,10009,East 14th Street,"East 14th Street, New York, NY 10009, United States of America",-73.9801788,40.7304331
+New York,11251,Flushing Avenue,"Flushing Avenue, New York, NY 11251, United States of America",-73.9771086,40.6981794
+New York,10009,East 10th Street,"East 10th Street, New York, NY 10009, United States of America",-73.9749744,40.7248343
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.993215,40.6880793
+New York,11217,Livingston Street,"Livingston Street, New York, NY 11217, United States of America",-73.9875126,40.6902266
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0408622,40.715731
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9763607,40.727276
+New York,10035,2nd Avenue,"2nd Avenue, New York, NY 10035, United States of America",-73.9840195,40.7337897
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-74.0022105,40.7395074
+New York,11237,Flushing Avenue,"Flushing Avenue, New York, NY 11237, United States of America",-73.9764621,40.6979984
+New York,10035,5th Avenue,"5th Avenue, New York, NY 10035, United States of America",-73.9925121,40.7377025
+Jersey City,07310,Mall Drive East,"Mall Drive East, Jersey City, NJ 07310, United States of America",-74.0360637,40.727029
+New York,11251,5th Street,"5th Street, New York, NY 11251, United States of America",-73.9735899,40.7018174
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.9894756,40.6888117
+New York,10009,Avenue B,"Avenue B, New York, NY 10009, United States of America",-73.9778674,40.7294626
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-74.0027381,40.7398753
+New York,10011,8th Avenue,"8th Avenue, New York, NY 10011, United States of America",-74.0022991,40.7398474
+New York,10004,Craig Road South,"Craig Road South, New York, NY 10004, United States of America",-74.0165035,40.6867676
+New York,11231,Smith Street,"Smith Street, New York, NY 11231, United States of America",-73.9889288,40.6888103
+Jersey City,07310,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.0349424,40.7289093
+New York,10011,West 14th Street,"West 14th Street, New York, NY 10011, United States of America",-74.0029242,40.7400232
+Jersey City,07310,Washington Boulevard,"Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.0343603,40.7296886
+New York,11201,Fulton Mall,"Fulton Mall, New York, NY 11201, United States of America",-73.9849862,40.6905128
+New York,11217,Livingston Street,"Livingston Street, New York, NY 11217, United States of America",-73.9861393,40.6898832
+Hoboken,07030,Warrington Plaza,"Warrington Plaza, Hoboken, NJ 07030, United States of America",-74.0273829,40.7349447
+Hoboken,07030,Hoboken Newport Walkway- Hudson River Waterfront Walkway,"Hoboken Newport Walkway- Hudson River Waterfront Walkway, Hoboken, NJ 07030, United States of America",-74.02979681191528,40.733914549999994
+New York,11201,Fulton Mall,"Fulton Mall, New York, NY 11201, United States of America",-73.9848954,40.6904983
+New York,11211,Kent Avenue,"New York, NY 11211, United States of America",-73.9702653,40.7087612
+New York,10016,Park Avenue South,"Park Avenue South, New York, NY 10016, United States of America",-73.9885376,40.7369949
+New York,10009,East 14th Street,"East 14th Street, New York, NY 10009, United States of America",-73.9760172,40.7284611
+New York,11208,Atlantic Avenue,"Atlantic Avenue, New York, NY 11208, United States of America",-73.9888161,40.6883833
+New York,10009,East 14th Street Service Road,"East 14th Street Service Road, New York, NY 10009, United States of America",-73.9760065,40.728688
+New York,11231,Court Street,"Court Street, New York, NY 11231, United States of America",-73.9939799,40.6865157
+New York,10011,West 15th Street,"West 15th Street, New York, NY 10011, United States of America",-74.0019976,40.7404638
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0424915,40.7159122
+Jersey City,07302,Christopher Columbus Drive,"Christopher Columbus Drive, Jersey City, NJ 07302, United States of America",-74.0418012,40.7190399
+New York,10009,Avenue C,"Avenue C, New York, NY 10009, United States of America",-73.9756569,40.7286767
+New York,11251,Flushing Avenue,"Flushing Avenue, New York, NY 11251, United States of America",-73.974572,40.6980452
+New York,10011,West 18th Street,"West 18th Street, New York, NY 10011, United States of America",-73.9949695,40.7396937
+Jersey City,07304,Grand Street,"Grand Street, Jersey City, NJ 07304, United States of America",-74.0428688,40.7158153
+Jersey City,07302,Christopher Columbus Drive,"Christopher Columbus Drive, Jersey City, NJ 07302, United States of America",-74.0421003,40.7192583
+New York,11237,Flushing Avenue,"Flushing Avenue, New York, NY 11237, United States of America",-73.9743717,40.6979155
+Jersey City,07310,Mall Drive West,"Mall Drive West, Jersey City, NJ 07310, United States of America",-74.0387652,40.7262407

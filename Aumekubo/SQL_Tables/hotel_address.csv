@@ -1,0 +1,501 @@
+city,postcode,housenumber,street,state,address2,longitude,latitude
+New York,10038,123,Nassau Street,New York,"123 Nassau Street, New York, NY 10038, United States of America",-74.0069365,40.7110329
+New York,10038,49,Ann Street,New York,"49 Ann Street, New York, NY 10038, United States of America",-74.00665263173605,40.71041475
+New York,10013,182,Duane Street,New York,"182 Duane Street, New York, NY 10013, United States of America",-74.0073387,40.7159879
+New York,10013,55,Church Street,New York,"55 Church Street, New York, NY 10013, United States of America",-74.01018694654692,40.7111143
+New York,10007,,Chambers Street,New York,"Chambers Street, New York, NY 10007, United States of America",-74.008857,40.715575
+New York,10038,51,Nassau Street,New York,"51 Nassau Street, New York, NY 10038, United States of America",-74.00923874929356,40.70908045
+New York,10038,320,Pearl Street,New York,"320 Pearl Street, New York, NY 10038, United States of America",-74.0020306569709,40.708879249999995
+New York,10038,6,Platt Street,New York,"6 Platt Street, New York, NY 10038, United States of America",-74.00645254437188,40.70736265
+New York,10038,6,Platt Street,New York,"6 Platt Street, New York, NY 10038, United States of America",-74.0064548,40.7074576
+New York,10038,215,Pearl Street,New York,"215 Pearl Street, New York, NY 10038, United States of America",-74.00632946466536,40.7072263
+New York,10013,52,Mulberry Street,New York,"52 Mulberry Street, New York, NY 10013, United States of America",-73.9993876164483,40.7152263
+New York,10038,33,Peck Slip,New York,"33 Peck Slip, New York, NY 10038, United States of America",-74.0014252,40.708
+New York,10006,133,Greenwich Street,New York,"New York, NY 10006, United States of America",-74.01270124532356,40.709355349999996
+New York,10013,77,Walker Street,New York,"77 Walker Street, New York, NY 10013, United States of America",-74.00214,40.718348
+New York,10013,2,6th Avenue,New York,"2 6th Avenue, New York, NY 10013, United States of America",-74.00483672339703,40.7193082
+New York,10005,52,William Street,New York,"52 William Street, New York, NY 10005, United States of America",-74.00893763308403,40.706791100000004
+New York,10005,70,Pine Street,New York,"70 Pine Street, New York, NY 10005, United States of America",-74.007718,40.706479
+New York,10012,,Mulberry Street,New York,"Mulberry Street, New York, NY 10012, United States of America",-73.9988982,40.7163942
+New York,10006,140,Washington Street,New York,"140 Washington Street, New York, NY 10006, United States of America",-74.01400006704606,40.7098257
+New York,10006,120,Cedar Street,New York,"120 Cedar Street, New York, NY 10006, United States of America",-74.0139564,40.7100733
+New York,10006,8,Albany Street,New York,"8 Albany Street, New York, NY 10006, United States of America",-74.0136683922442,40.70920805
+New York,10005,60,Wall Street,New York,"New York, NY 10005, United States of America",-74.0088962,40.7064129
+New York,10038,161,Front Street,New York,"161 Front Street, New York, NY 10038, United States of America",-74.0050486,40.70598
+New York,10006,85,West Street,New York,"85 West Street, New York, NY 10006, United States of America",-74.01434310493437,40.709426750000006
+New York,10013,276,Canal Street,New York,"276 Canal Street, New York, NY 10013, United States of America",-74.0016678,40.7190209
+New York,10038,151,Maiden Lane,New York,"151 Maiden Lane, New York, NY 10038, United States of America",-74.0051334,40.7057586
+New York,10005,126,Water Street,New York,"126 Water Street, New York, NY 10005, United States of America",-74.00722701863468,40.7055848
+New York,10005,120,Water Street,New York,"120 Water Street, New York, NY 10005, United States of America",-74.00735505359896,40.705529150000004
+New York,10013,120,Lafayette Street,New York,"120 Lafayette Street, New York, NY 10013, United States of America",-74.0004138,40.7187827
+New York,10006,100,Greenwich Street,New York,"100 Greenwich Street, New York, NY 10006, United States of America",-74.0136192,40.7082719
+New York,10006,50,Trinity Place,New York,"New York, NY 10006, United States of America",-74.01329520296784,40.707756700000004
+New York,10005,88,Wall Street,New York,"88 Wall Street, New York, NY 10005, United States of America",-74.0075737,40.7054827
+New York,10013,50,Bowery,New York,"50 Bowery, New York, NY 10013, United States of America",-73.9967426686911,40.71595255
+New York,10006,99,Washington Street,New York,"99 Washington Street, New York, NY 10006, United States of America",-74.01411229273532,40.708272199999996
+New York,10005,129,Front Street,New York,"129 Front Street, New York, NY 10005, United States of America",-74.0061997,40.7051879
+New York,10282,102,North End Avenue,New York,"102 North End Avenue, New York, NY 10282, United States of America",-74.015694,40.7149558
+New York,10005,75,Wall Street,New York,"75 Wall Street, New York, NY 10005, United States of America",-74.0077459,40.7052048
+New York,10013,39,6th Avenue,New York,"39 6th Avenue, New York, NY 10013, United States of America",-74.00554113141332,40.7208125
+New York,10005,110,Wall Street,New York,"110 Wall Street, New York, NY 10005, United States of America",-74.0064134,40.7047594
+New York,10013,,Canal Street,New York,"Canal Street, New York, NY 10013, United States of America",-74.0042677,40.7208594
+New York,10013,9,Crosby Street,New York,"9 Crosby Street, New York, NY 10013, United States of America",-73.99979875378094,40.7197524
+New York,10004,9,South William Street,New York,"9 South William Street, New York, NY 10004, United States of America",-74.0102722960055,40.7045847
+New York,10002,456,Water Street,New York,"456 Water Street, New York, NY 10002, United States of America",-73.9950484,40.7099419
+New York,10002,125,Canal Street,New York,"125 Canal Street, New York, NY 10002, United States of America",-73.9952223,40.7160404
+New York,10013,159,Grand Street,New York,"159 Grand Street, New York, NY 10013, United States of America",-73.9989361,40.7198267
+New York,10002,81,Bowery,New York,"81 Bowery, New York, NY 10002, United States of America",-73.9953975,40.716686
+New York,10002,,Chrystie Street,New York,"Chrystie Street, New York, NY 10002, United States of America",-73.99494432755421,40.716679150000004
+New York,10002,93,Bowery,New York,"93 Bowery, New York, NY 10002, United States of America",-73.99516318110909,40.71704325
+New York,10013,310,West Broadway,New York,"310 West Broadway, New York, NY 10013, United States of America",-74.0043561,40.7220039
+New York,10280,99,Battery Place,New York,"99 Battery Place, New York, NY 10280, United States of America",-74.01660671651096,40.707673650000004
+New York,10002,94,Canal Street,New York,"94 Canal Street, New York, NY 10002, United States of America",-73.99378700279746,40.7152705
+New York,10002,91,East Broadway,New York,"91 East Broadway, New York, NY 10002, United States of America",-73.9936267,40.713636
+New York,10013,196,Grand Street,New York,"196 Grand Street, New York, NY 10013, United States of America",-73.9968082,40.7192831
+New York,10012,101,Bowery,New York,"101 Bowery, New York, NY 10012, United States of America",-73.9949761,40.7174701
+New York,10013,106,Bowery,New York,"106 Bowery, New York, NY 10013, United States of America",-73.9952665,40.7179221
+New York,10002,95,Henry Street,New York,"95 Henry Street, New York, NY 10002, United States of America",-73.99292029579384,40.71348155
+New York,10002,5,Allen Street,New York,"5 Allen Street, New York, NY 10002, United States of America",-73.99307807202132,40.7147385
+New York,10013,27,Grand Street,New York,"27 Grand Street, New York, NY 10013, United States of America",-74.0048801,40.7227218
+New York,10004,8,Stone Street,New York,"8 Stone Street, New York, NY 10004, United States of America",-74.01228315645415,40.70383305
+New York,10002,154,Madison Street,New York,"154 Madison Street, New York, NY 10002, United States of America",-73.9926814,40.7123546
+New York,10004,32,Pearl Street,New York,"32 Pearl Street, New York, NY 10004, United States of America",-74.01226378524953,40.703039649999994
+New York,10013,341,Broome Street,New York,"341 Broome Street, New York, NY 10013, United States of America",-73.9947365,40.7195213
+New York,10005,,Watts Street,New York,"Watts Street, New York, NY 10005, United States of America",-74.0052592,40.7238201
+New York,10012,49,Crosby Street,New York,"New York, NY 10012, United States of America",-73.9982475,40.7221806
+New York,10012,60,Thompson Street,New York,"60 Thompson Street, New York, NY 10012, United States of America",-74.00307180000001,40.7239398
+New York,10012,30,Kenmare Street,New York,"30 Kenmare Street, New York, NY 10012, United States of America",-73.9953147,40.7206039
+New York,10004,10,Little West Street,New York,"10 Little West Street, New York, NY 10004, United States of America",-74.0172945,40.705449
+New York,10013,231,Hudson Street,New York,"231 Hudson Street, New York, NY 10013, United States of America",-74.00842301375218,40.724445700000004
+New York,10002,189,Bowery,New York,"189 Bowery, New York, NY 10002, United States of America",-73.99348398844182,40.72058935
+New York,10005,,Dominick Street,New York,"Dominick Street, New York, NY 10005, United States of America",-74.00549625,40.72532055
+New York,10002,88,Allen Street,New York,"88 Allen Street, New York, NY 10002, United States of America",-73.99063775335429,40.718041799999995
+New York,11201,,Furman Street,New York,"Furman Street, New York, NY 11201, United States of America",-73.99552287447698,40.70232695
+New York,10012,220,Bowery,New York,"220 Bowery, New York, NY 10012, United States of America",-73.9937383,40.7219999
+New York,10012,147,Mercer Street,New York,"147 Mercer Street, New York, NY 10012, United States of America",-73.9986434,40.7249122
+New York,10013,525,Greenwich Street,New York,"New York, NY 10013, United States of America",-74.00872532974589,40.726386399999996
+New York,10002,241,Bowery,New York,"New York, NY 10002, United States of America",-73.9928637,40.7224954
+New York,10002,120,Allen Street,New York,"120 Allen Street, New York, NY 10002, United States of America",-73.9899366,40.7194926
+New York,10014,66,Charlton Street,New York,"66 Charlton Street, New York, NY 10014, United States of America",-74.00612155,40.7269401
+New York,10002,215,Chrystie Street,New York,"215 Chrystie Street, New York, NY 10002, United States of America",-73.9920127189456,40.723065250000005
+New York,10014,181,Varick Street,New York,"181 Varick Street, New York, NY 10014, United States of America",-74.00578695284842,40.72754385
+New York,10002,163,Orchard Street,New York,"163 Orchard Street, New York, NY 10002, United States of America",-73.9889471,40.7211823
+New York,10002,136,Ludlow Street,New York,"136 Ludlow Street, New York, NY 10002, United States of America",-73.98802394652544,40.72032085
+New York,10002,150,Delancey Street,New York,"150 Delancey Street, New York, NY 10002, United States of America",-73.98623347518429,40.718269649999996
+New York,10002,135,East Houston Street,New York,"135 East Houston Street, New York, NY 10002, United States of America",-73.9902082,40.7231911
+New York,10002,,Ludlow Street,New York,"Ludlow Street, New York, NY 10002, United States of America",-73.9871922,40.7219358
+New York,10003,335,Bowery,New York,"335 Bowery, New York, NY 10003, United States of America",-73.9914423397135,40.72603735
+New York,10003,25,Cooper Square,New York,"25 Cooper Square, New York, NY 10003, United States of America",-73.9907398,40.727834
+Jersey City,07032,2,Exchange Place,New Jersey,"2 Exchange Place, Jersey City, NJ 07032, United States of America",-74.03197235680304,40.71709905
+New York,10011,103,Waverly Place,New York,"103 Waverly Place, New York, NY 10011, United States of America",-73.99873618677898,40.73249705
+New York,10003,2,Saint Mark's Place,New York,"2 Saint Mark's Place, New York, NY 10003, United States of America",-73.9896315,40.7292807
+New York,10011,5,West 8th Street,New York,"New York, NY 10011, United States of America",-73.99681319390135,40.73263715
+Jersey City,07302,1,Exchange Place,New Jersey,"1 Exchange Place, Jersey City, NJ 07302, United States of America",-74.03388046384597,40.715943100000004
+New York,10003,147,1st Avenue,New York,"147 1st Avenue, New York, NY 10003, United States of America",-73.9851732,40.7284266
+Jersey City,07302,21,2nd Street,New Jersey,"21 2nd Street, Jersey City, NJ 07302, United States of America",-74.0344473660109,40.720978099999996
+New York,11201,85,Flatbush Avenue Extension,New York,"85 Flatbush Avenue Extension, New York, NY 11201, United States of America",-73.98435197508277,40.6964684
+New York,11201,,Adams Street,New York,"Adams Street, New York, NY 11201, United States of America",-73.98798893679572,40.693848349999996
+New York,10003,134,4th Avenue,New York,"134 4th Avenue, New York, NY 10003, United States of America",-73.99021175777796,40.7334345
+New York,11201,,Flatbush Avenue Extension,New York,"Flatbush Avenue Extension, New York, NY 11201, United States of America",-73.98395851444192,40.6956988
+New York,10011,52,West 13th Street,New York,"52 West 13th Street, New York, NY 10011, United States of America",-73.9966243,40.7362114
+New York,10003,209,East 14th Street,New York,"209 East 14th Street, New York, NY 10003, United States of America",-73.9863256,40.7331057
+New York,10014,113,Jane Street,New York,"113 Jane Street, New York, NY 10014, United States of America",-74.00932194699469,40.7383282
+Jersey City,07311,,Washington Boulevard,New Jersey,"Washington Boulevard, Jersey City, NJ 07311, United States of America",-74.03675217067448,40.72359285
+Jersey City,07310,540,Washington Boulevard,New Jersey,"540 Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.03392403052172,40.7275611
+Jersey City,07310,479,Washington Boulevard,New Jersey,"479 Washington Boulevard, Jersey City, NJ 07310, United States of America",-74.03620518567884,40.7250652
+New York,11201,216,Duffield Street,New York,"216 Duffield Street, New York, NY 11201, United States of America",-73.98467070234746,40.69172555
+New York,11201,228,Duffield Street,New York,"228 Duffield Street, New York, NY 11201, United States of America",-73.98466117825825,40.69148255
+New York,10014,18,9th Avenue,New York,"18 9th Avenue, New York, NY 10014, United States of America",-74.00571114407973,40.73987685
+Jersey City,07302,,Morgan Street,New Jersey,"Morgan Street, Jersey City, NJ 07302, United States of America",-74.04062585078032,40.71985375
+New York,11201,140,Schermerhorn Street,New York,"140 Schermerhorn Street, New York, NY 11201, United States of America",-73.9879612,40.6895445
+Jersey City,07302,80,Christopher Columbus Drive,New Jersey,"80 Christopher Columbus Drive, Jersey City, NJ 07302, United States of America",-74.0408230775281,40.7190579
+New York,10003,201,Park Avenue South,New York,"201 Park Avenue South, New York, NY 10003, United States of America",-73.98854288222026,40.73657625
+New York,11201,229,Duffield Street,New York,"229 Duffield Street, New York, NY 11201, United States of America",-73.98409584999999,40.691225700000004
+New York,10011,46,West 17th Street,New York,"46 West 17th Street, New York, NY 10011, United States of America",-73.9945722,40.7386731
+New York,11201,85,Smith Street,New York,"85 Smith Street, New York, NY 11201, United States of America",-73.9888031,40.6888312
+New York,10003,56,Irving Place,New York,"56 Irving Place, New York, NY 10003, United States of America",-73.9870276,40.7360205
+New York,10003,225,East 17th Street,New York,"225 East 17th Street, New York, NY 10003, United States of America",-73.9845433539927,40.73491705
+New York,10011,309,14th Street (PATH) underground passage,New York,"309 14th Street (PATH) underground passage, New York, NY 10011, United States of America",-74.0030915427773,40.74024695
+New York,10011,317,14th Street (PATH) underground passage,New York,"317 14th Street (PATH) underground passage, New York, NY 10011, United States of America",-74.003365,40.74036855
+New York,10014,,West 13th Street,New York,"West 13th Street, New York, NY 10014, United States of America",-74.00603121651491,40.740586050000005
+New York,10014,848,Washington Street,New York,"848 Washington Street, New York, NY 10014, United States of America",-74.00808419428282,40.7408533
+New York,10014,51,10th Avenue,New York,"51 10th Avenue, New York, NY 10014, United States of America",-74.00856738119066,40.741990099999995
+New York,10011,355,West 16th Street,New York,"355 West 16th Street, New York, NY 10011, United States of America",-74.00330255133005,40.7422931
+New York,11205,143,Park Avenue,New York,"143 Park Avenue, New York, NY 11205, United States of America",-73.97384075047981,40.69637745
+New York,10011,363,West 16th Street,New York,"363 West 16th Street, New York, NY 10011, United States of America",-74.0039856,40.7422561
+New York,10010,2,Lexington Avenue,New York,"2 Lexington Avenue, New York, NY 10010, United States of America",-73.98577239206193,40.738566649999996
+New York,11217,252,Schermerhorn Street,New York,"252 Schermerhorn Street, New York, NY 11217, United States of America",-73.98377974968889,40.687847149999996
+Hoboken,07030,,Hudson Street,New Jersey,"Hudson Street, Hoboken, NJ 07030, United States of America",-74.0303251,40.7362878
+New York,11217,300,Schermerhorn Street,New York,"300 Schermerhorn Street, New York, NY 11217, United States of America",-73.98269192207924,40.68747105
+New York,11231,140,Hamilton Avenue,New York,"140 Hamilton Avenue, New York, NY 11231, United States of America",-74.00657669312824,40.6817865
+Jersey City,07310,175,12th Street,New Jersey,"175 12th Street, Jersey City, NJ 07310, United States of America",-74.0401902111784,40.7297102
+Hoboken,07030,,River Street,New Jersey,"River Street, Hoboken, NJ 07030, United States of America",-74.02764967720897,40.73919655
+New York,10011,251,West 20th Street,New York,"251 West 20th Street, New York, NY 10011, United States of America",-73.9990189,40.7432235
+New York,11217,46,Nevins Street,New York,"46 Nevins Street, New York, NY 11217, United States of America",-73.98178251046758,40.68763715
+Jersey City,07302,,3rd Street,New Jersey,"Jersey City, NJ 07302, United States of America",-74.0446294,40.7229459
+New York,10010,1,Madison Avenue,New York,"1 Madison Avenue, New York, NY 10010, United States of America",-73.9873848,40.7412798
+New York,10010,168,East 24th Street,New York,"168 East 24th Street, New York, NY 10010, United States of America",-73.9831267,40.7395776
+New York,10010,111,East 24th Street,New York,"111 East 24th Street, New York, NY 10010, United States of America",-73.98506351515377,40.7406992
+New York,10011,131,West 23rd Street,New York,"131 West 23rd Street, New York, NY 10011, United States of America",-73.993848,40.7435189
+New York,10011,204,West 23rd Street,New York,"204 West 23rd Street, New York, NY 10011, United States of America",-73.9960078,40.7440882
+New York,10010,201,East 24th Street,New York,"201 East 24th Street, New York, NY 10010, United States of America",-73.9822461,40.7394627
+New York,10011,300,West 22nd Street,New York,"300 West 22nd Street, New York, NY 10011, United States of America",-73.9993815,40.7446533
+Jersey City,07310,,15th Street,New Jersey,"15th Street, Jersey City, NJ 07310, United States of America",-74.04039474982024,40.731976149999994
+New York,10011,108,West 24th Street,New York,"108 West 24th Street, New York, NY 10011, United States of America",-73.99309406215008,40.74363625
+New York,10011,222,West 23rd Street,New York,"222 West 23rd Street, New York, NY 10011, United States of America",-73.9968175,40.7443742
+New York,10011,318,West 22nd Street,New York,"318 West 22nd Street, New York, NY 10011, United States of America",-73.9999695,40.7448844
+New York,10010,37,West 24th Street,New York,"37 West 24th Street, New York, NY 10010, United States of America",-73.9908672,40.7432132
+New York,11231,17,Seabring Street,New York,"17 Seabring Street, New York, NY 11231, United States of America",-74.00596317981604,40.6799991
+New York,10010,160,East 25th Street,New York,"160 East 25th Street, New York, NY 10010, United States of America",-73.9826682,40.7401959
+New York,10001,112,West 25th Street,New York,"112 West 25th Street, New York, NY 10001, United States of America",-73.99292024295008,40.7440878
+New York,10001,18,West 25th Street,New York,"18 West 25th Street, New York, NY 10001, United States of America",-73.9900361,40.7432835
+New York,10010,67,Lexington Avenue,New York,"67 Lexington Avenue, New York, NY 10010, United States of America",-73.98340685,40.740958449999994
+New York,10011,332,West 23rd Street,New York,"332 West 23rd Street, New York, NY 10011, United States of America",-73.99990638496621,40.7456073
+New York,10001,112,West 25th Street,New York,"112 West 25th Street, New York, NY 10001, United States of America",-73.99273754210674,40.744308849999996
+New York,10001,,West 25th Street,New York,"West 25th Street, New York, NY 10001, United States of America",-73.9942187,40.7449756
+New York,10016,365,Park Avenue South,New York,"365 Park Avenue South, New York, NY 10016, United States of America",-73.984716,40.742143
+New York,10010,9,West 26th Street,New York,"9 West 26th Street, New York, NY 10010, United States of America",-73.98920116417248,40.74400165
+New York,11217,489,Baltic Street,New York,"489 Baltic Street, New York, NY 11217, United States of America",-73.98554976168478,40.68257855
+Hoboken,07030,689,Marin Boulevard,New Jersey,"689 Marin Boulevard, Hoboken, NJ 07030, United States of America",-74.0390544,40.73601255
+New York,10001,150,West 26th Street,New York,"150 West 26th Street, New York, NY 10001, United States of America",-73.9936036,40.745587
+New York,10001,1155,Broadway,New York,"1155 Broadway, New York, NY 10001, United States of America",-73.9891087,40.744469
+New York,10016,7,East 27th Street,New York,"7 East 27th Street, New York, NY 10016, United States of America",-73.98694509996935,40.7440135
+New York,10001,39,West 27th,New York,"39 West 27th, New York, NY 10001, United States of America",-73.9900206,40.7451377
+New York,10001,1170,Broadway,New York,"1170 Broadway, New York, NY 10001, United States of America",-73.98859595269975,40.744924600000004
+New York,10016,124,East 28th Street,New York,"124 East 28th Street, New York, NY 10016, United States of America",-73.9830954,40.7427837
+New York,10016,4,East 28th Street,New York,"4 East 28th Street, New York, NY 10016, United States of America",-73.9867075,40.7443441
+New York,10001,116,West 28th Street,New York,"116 West 28th Street, New York, NY 10001, United States of America",-73.99144783404793,40.74617805
+New York,10001,25,West 28th Street,New York,"25 West 28th Street, New York, NY 10001, United States of America",-73.98896351330706,40.745687399999994
+New York,10016,22,East 29th Street,New York,"22 East 29th Street, New York, NY 10016, United States of America",-73.9855322,40.7445115
+New York,10016,420,Park Avenue South,New York,"420 Park Avenue South, New York, NY 10016, United States of America",-73.9838903,40.7438908
+Jersey City,07302,473,Monmouth Street,New Jersey,"Jersey City, NJ 07302, United States of America",-74.0487349,40.7267007
+New York,10001,815,6th Avenue,New York,"815 6th Avenue, New York, NY 10001, United States of America",-73.99069984971383,40.746287
+New York,10001,121,West 28th Street,New York,"121 West 28th Street, New York, NY 10001, United States of America",-73.99140703431952,40.74665555
+New York,10001,123,West 28th Street,New York,"123 West 28th Street, New York, NY 10001, United States of America",-73.99156771057665,40.746722899999995
+New York,10001,127,West 28th Street,New York,"127 West 28th Street, New York, NY 10001, United States of America",-73.99172002044921,40.74679925
+New York,10001,10001,West 29th Street,New York,"10001 West 29th Street, New York, NY 10001, United States of America",-73.9881558,40.7456886
+New York,10016,29,East 29th Street,New York,"29 East 29th Street, New York, NY 10016, United States of America",-73.98444780712413,40.74467835
+New York,11211,247,Metropolitan Avenue,New York,"247 Metropolitan Avenue, New York, NY 11211, United States of America",-73.95883911260032,40.7152639
+New York,10001,137,West 28th Street,New York,"137 West 28th Street, New York, NY 10001, United States of America",-73.9921509,40.7468751
+New York,10001,32,West 29th Street,New York,"32 West 29th Street, New York, NY 10001, United States of America",-73.9891468,40.7460969
+New York,10016,429,Park Avenue South,New York,"429 Park Avenue South, New York, NY 10016, United States of America",-73.9832129,40.7441337
+New York,10001,128,West 29th Street,New York,"128 West 29th Street, New York, NY 10001, United States of America",-73.99140885,40.7469639
+New York,10016,16,East 30th Street,New York,"16 East 30th Street, New York, NY 10016, United States of America",-73.98551773192341,40.745322349999995
+New York,10001,835,6th Avenue,New York,"835 6th Avenue, New York, NY 10001, United States of America",-73.99015071836203,40.74709475
+New York,10016,161,Lexington Avenue,New York,"161 Lexington Avenue, New York, NY 10016, United States of America",-73.98120088302939,40.74388115
+New York,11217,,Butler Street,New York,"Butler Street, New York, NY 11217, United States of America",-73.9835798505814,40.6805959
+New York,11211,,South 2nd Street,New York,"New York, NY 11211, United States of America",-73.9582611,40.7120557
+New York,10016,444,Park Avenue South,New York,"444 Park Avenue South, New York, NY 10016, United States of America",-73.9832361,40.7447966
+New York,10001,232,West 29th Street,New York,"232 West 29th Street, New York, NY 10001, United States of America",-73.99461662313252,40.74833995
+New York,10016,12,East 31st Street,New York,"12 East 31st Street, New York, NY 10016, United States of America",-73.9851631207605,40.74599405
+New York,10037,131,Madison Avenue,New York,"131 Madison Avenue, New York, NY 10037, United States of America",-73.98420264004262,40.745583800000006
+New York,10037,161,Lexington Avenue,New York,"New York, NY 10037, United States of America",-73.9813734,40.7443588
+New York,10001,4,West 31st Street,New York,"4 West 31st Street, New York, NY 10001, United States of America",-73.98670141364724,40.746626649999996
+New York,10001,30,West 31st Street,New York,"30 West 31st Street, New York, NY 10001, United States of America",-73.98767833613178,40.74698765
+New York,11211,,Wythe Avenue,New York,"Wythe Avenue, New York, NY 11211, United States of America",-73.9587821,40.7208284
+New York,10016,120,East 31st Street,New York,"120 East 31st Street, New York, NY 10016, United States of America",-73.9816301,40.744605
+New York,11249,96,Wythe Avenue,New York,"96 Wythe Avenue, New York, NY 11249, United States of America",-73.9587156,40.7215065
+New York,10001,135,West 30th Street,New York,"135 West 30th Street, New York, NY 10001, United States of America",-73.99119085704764,40.74822385
+New York,10016,11,East 31st Street,New York,"11 East 31st Street, New York, NY 10016, United States of America",-73.98490964756711,40.746331850000004
+New York,10001,116,West 31st Street,New York,"116 West 31st Street, New York, NY 10001, United States of America",-73.99018282907176,40.7480566
+New York,10001,19,West 31st Street,New York,"19 West 31st Street, New York, NY 10001, United States of America",-73.98699656524457,40.747218200000006
+New York,10016,112,East 32nd Street,New York,"112 East 32nd Street, New York, NY 10016, United States of America",-73.98160340172737,40.7452995
+New York,10016,32,East 32nd Street,New York,"32 East 32nd Street, New York, NY 10016, United States of America",-73.98343980807232,40.7460234
+New York,10016,34,East 32nd Street,New York,"34 East 32nd Street, New York, NY 10016, United States of America",-73.98328884422243,40.7460167
+New York,10001,371,7th Avenue,New York,"371 7th Avenue, New York, NY 10001, United States of America",-73.99165851091166,40.74871195
+New York,10001,6,West 32nd Street,New York,"6 West 32nd Street, New York, NY 10001, United States of America",-73.9863372376147,40.7472746
+New York,10016,112,East 32nd Street,New York,"112 East 32nd Street, New York, NY 10016, United States of America",-73.9815115,40.7453075
+New York,10016,16,East 32nd Street,New York,"16 East 32nd Street, New York, NY 10016, United States of America",-73.984595,40.7466304
+New York,10001,518,West 27th Street,New York,"518 West 27th Street, New York, NY 10001, United States of America",-74.00339127449527,40.750451749999996
+New York,11249,80,Wythe Avenue,New York,"80 Wythe Avenue, New York, NY 11249, United States of America",-73.9580608,40.7219036
+New York,11217,611,Degraw Street,New York,"611 Degraw Street, New York, NY 11217, United States of America",-73.98316032473508,40.6792344
+New York,10001,17,West 32nd Street,New York,"17 West 32nd Street, New York, NY 10001, United States of America",-73.98647698679473,40.7478601
+New York,10001,303,West 30th Street,New York,"303 West 30th Street, New York, NY 10001, United States of America",-73.99564750547405,40.749954
+New York,10001,43,West 32nd Street,New York,"43 West 32nd Street, New York, NY 10001, United States of America",-73.98746428335087,40.74823335000001
+New York,10001,49,West 32nd Street,New York,"49 West 32nd Street, New York, NY 10001, United States of America",-73.98777665021234,40.748471550000005
+New York,10016,49,East 33rd Street,New York,"49 East 33rd Street, New York, NY 10016, United States of America",-73.982336,40.7468137
+New York,11249,111,North 12th Street,New York,"111 North 12th Street, New York, NY 11249, United States of America",-73.9569215,40.7224118
+New York,10016,150,East 34th Street,New York,"150 East 34th Street, New York, NY 10016, United States of America",-73.97931381083616,40.745917250000005
+New York,11215,561,President Street,New York,"561 President Street, New York, NY 11215, United States of America",-73.98440182274061,40.67736025
+New York,11249,160,North 12th Street,New York,"160 North 12th Street, New York, NY 11249, United States of America",-73.955531,40.7209065
+New York,10001,42,West 35th Street,New York,"42 West 35th Street, New York, NY 10001, United States of America",-73.98609003143156,40.7497095
+New York,10035,373,5th Avenue,New York,"373 5th Avenue, New York, NY 10035, United States of America",-73.9838247,40.7491347
+New York,11211,500,Metropolitan Avenue,New York,"500 Metropolitan Avenue, New York, NY 11211, United States of America",-73.95285947249235,40.71350815
+New York,10001,45,West 35th Street,New York,"45 West 35th Street, New York, NY 10001, United States of America",-73.98596784784722,40.750136850000004
+New York,10001,325,West 33rd Street,New York,"325 West 33rd Street, New York, NY 10001, United States of America",-73.99511620071857,40.752259949999996
+New York,10001,59,West 35th Street,New York,"59 West 35th Street, New York, NY 10001, United States of America",-73.98635146455203,40.75034225
+New York,10001,63,West 35th Street,New York,"63 West 35th Street, New York, NY 10001, United States of America",-73.98655257783929,40.750416799999996
+New York,10001,218,West 35th Street,New York,"218 West 35th Street, New York, NY 10001, United States of America",-73.99107026279634,40.7517258
+New York,10018,38,West 36th Street,New York,"38 West 36th Street, New York, NY 10018, United States of America",-73.98545820888317,40.75025735
+New York,10018,50,West 36th Street,New York,"50 West 36th Street, New York, NY 10018, United States of America",-73.98566804337526,40.750340449999996
+New York,10018,52,West 36th Street,New York,"52 West 36th Street, New York, NY 10018, United States of America",-73.9858178,40.7503971
+New York,10018,60,West 36th Street,New York,"60 West 36th Street, New York, NY 10018, United States of America",-73.98605621935371,40.7504861
+New York,10001,438,West 33rd Street,New York,"438 West 33rd Street, New York, NY 10001, United States of America",-73.99849386304956,40.7531577
+New York,10001,481,8th Avenue,New York,"481 8th Avenue, New York, NY 10001, United States of America",-73.99363226655242,40.752795
+New York,10001,235,West 35th Street,New York,"235 West 35th Street, New York, NY 10001, United States of America",-73.99120103069697,40.7523859
+New York,10016,554,3rd Avenue,New York,"554 3rd Avenue, New York, NY 10016, United States of America",-73.9771687,40.7475882
+New York,10018,60,West 37th Street,New York,"60 West 37th Street, New York, NY 10018, United States of America",-73.98591780402987,40.751209599999996
+New York,11238,138,Saint James Place,New York,"138 Saint James Place, New York, NY 11238, United States of America",-73.96449213078887,40.6858153
+New York,10016,303,Lexington Avenue,New York,"303 Lexington Avenue, New York, NY 10016, United States of America",-73.9780254,40.7484239
+New York,10018,21,West 37th Street,New York,"21 West 37th Street, New York, NY 10018, United States of America",-73.98458145000001,40.75113985
+New York,10018,321,West 35th Street,New York,"321 West 35th Street, New York, NY 10018, United States of America",-73.99387580201252,40.7534756
+New York,10018,25,West 37th Street,New York,"25 West 37th Street, New York, NY 10018, United States of America",-73.98467043961139,40.7512066
+Hoboken,07030,,12th Street,New Jersey,"12th Street, Hoboken, NJ 07030, United States of America",-74.0268981,40.7512412
+New York,10001,35,11th Avenue,New York,"35 11th Avenue, New York, NY 10001, United States of America",-74.002222085563,40.754673749999995
+New York,10016,22,East 38th Street,New York,"22 East 38th Street, New York, NY 10016, United States of America",-73.98094590442278,40.74995575
+New York,10018,33,West 37th Street,New York,"33 West 37th Street, New York, NY 10018, United States of America",-73.98482021795536,40.75126905
+New York,10016,66,Park Avenue,New York,"66 Park Avenue, New York, NY 10016, United States of America",-73.98000704402946,40.7496059
+New York,10001,32,Hudson Boulevard West,New York,"32 Hudson Boulevard West, New York, NY 10001, United States of America",-74.0024161,40.7544707
+New York,11222,214,Franklin Street,New York,"214 Franklin Street, New York, NY 11222, United States of America",-73.9578889,40.7330027
+New York,10018,320,West 36th Street,New York,"320 West 36th Street, New York, NY 10018, United States of America",-73.99374876728322,40.75373475
+New York,10018,345,West 35th Street,New York,"345 West 35th Street, New York, NY 10018, United States of America",-73.9945935,40.7537504
+New York,11215,370,4th Avenue,New York,"370 4th Avenue, New York, NY 11215, United States of America",-73.98710149121418,40.673267800000005
+New York,10018,338,West 36th Street,New York,"338 West 36th Street, New York, NY 10018, United States of America",-73.99422831259892,40.753948
+New York,10001,461,West 34th Street,New York,"461 West 34th Street, New York, NY 10001, United States of America",-73.99865064904819,40.7546901
+New York,11211,235,Meeker Avenue,New York,"235 Meeker Avenue, New York, NY 11211, United States of America",-73.95080479633074,40.71659495
+New York,10016,16,East 39th Street,New York,"16 East 39th Street, New York, NY 10016, United States of America",-73.9816801663998,40.7509438
+New York,10016,151,East 38th Street,New York,"151 East 38th Street, New York, NY 10016, United States of America",-73.9767878,40.7485889
+New York,10018,525,8th Avenue,New York,"525 8th Avenue, New York, NY 10018, United States of America",-73.99271123420739,40.753820899999994
+New York,10016,70,Park Avenue,New York,"70 Park Avenue, New York, NY 10016, United States of America",-73.9796281,40.7498595
+New York,10018,25,West 38th Street,New York,"25 West 38th Street, New York, NY 10018, United States of America",-73.98408144317747,40.7517801
+New York,10018,45,West 38th Street,New York,"45 West 38th Street, New York, NY 10018, United States of America",-73.98470550367747,40.7520283
+New York,10016,24,East 39th Street,New York,"24 East 39th Street, New York, NY 10016, United States of America",-73.98025364408964,40.750470050000004
+New York,10018,337,West 36th Street,New York,"337 West 36th Street, New York, NY 10018, United States of America",-73.99394933498944,40.754281649999996
+New York,10018,63,West 38th Street,New York,"63 West 38th Street, New York, NY 10018, United States of America",-73.9853616,40.7521714
+New York,10018,,West 36th Street,New York,"West 36th Street, New York, NY 10018, United States of America",-73.99412285331371,40.754332000000005
+New York,10018,69,West 38th Street,New York,"69 West 38th Street, New York, NY 10018, United States of America",-73.9855082,40.7522336
+New York,10018,312,West 37th Street,New York,"312 West 37th Street, New York, NY 10018, United States of America",-73.99308321253704,40.75426665
+New York,11222,95,Meserole Avenue,New York,"95 Meserole Avenue, New York, NY 11222, United States of America",-73.9533347,40.7269935
+New York,10018,326,West 37th Street,New York,"326 West 37th Street, New York, NY 10018, United States of America",-73.99360229444923,40.754473000000004
+New York,10016,145,East 39th Street,New York,"145 East 39th Street, New York, NY 10016, United States of America",-73.97657308216645,40.749405100000004
+New York,10016,149,East 39th Street,New York,"149 East 39th Street, New York, NY 10016, United States of America",-73.9763150868597,40.749278399999994
+New York,10018,307,West 37th Street,New York,"307 West 37th Street, New York, NY 10018, United States of America",-73.99255575229166,40.7544981
+New York,10019,1033,6th Avenue,New York,"1033 6th Avenue, New York, NY 10019, United States of America",-73.9858447,40.7528306
+New York,10018,442,West 36th Street,New York,"442 West 36th Street, New York, NY 10018, United States of America",-73.9973506383099,40.75528185
+New York,10016,144,East 40th Street,New York,"144 East 40th Street, New York, NY 10016, United States of America",-73.97626135149383,40.7496668
+New York,10016,118,East 40th Street,New York,"118 East 40th Street, New York, NY 10016, United States of America",-73.9776212,40.7501799
+New York,10018,273,West 38th Street,New York,"273 West 38th Street, New York, NY 10018, United States of America",-73.99107562966383,40.75471795
+New York,10018,16,West 40th Street,New York,"16 West 40th Street, New York, NY 10018, United States of America",-73.9829743,40.7524506
+New York,10018,40,West 40th Street,New York,"40 West 40th Street, New York, NY 10018, United States of America",-73.9837787,40.7528779
+New York,10017,3,East 40th Street,New York,"3 East 40th Street, New York, NY 10017, United States of America",-73.98107624826643,40.7520983
+New York,10017,52,East 41st Street,New York,"52 East 41st Street, New York, NY 10017, United States of America",-73.97913750809082,40.75158515
+New York,10018,585,8th Avenue,New York,"585 8th Avenue, New York, NY 10018, United States of America",-73.99180667884616,40.7553012
+New York,10018,333,West 38th Street,New York,"333 West 38th Street, New York, NY 10018, United States of America",-73.99305285426595,40.75551765
+New York,10018,350,West 39th Street,New York,"350 West 39th Street, New York, NY 10018, United States of America",-73.99348876857354,40.756049149999996
+New York,10036,120,West 41st Street,New York,"120 West 41st Street, New York, NY 10036, United States of America",-73.98577398984011,40.7544203
+New York,10017,299,Madison Avenue,New York,"299 Madison Avenue, New York, NY 10017, United States of America",-73.979405,40.7521252
+New York,10018,305,West 39th Street,New York,"305 West 39th Street, New York, NY 10018, United States of America",-73.9915571514388,40.7557309
+New York,10018,311,West 39th Street,New York,"311 West 39th Street, New York, NY 10018, United States of America",-73.99181234584242,40.7558033
+New York,10017,485,5th Avenue,New York,"485 5th Avenue, New York, NY 10017, United States of America",-73.9810928,40.7528315
+New York,10017,212,East 42nd Street,New York,"212 East 42nd Street, New York, NY 10017, United States of America",-73.97398238536464,40.75017085
+New York,10018,337,West 39th Street,New York,"337 West 39th Street, New York, NY 10018, United States of America",-73.99284686352073,40.75625225
+New York,10018,310,West 40th Street,New York,"310 West 40th Street, New York, NY 10018, United States of America",-73.99168645258621,40.75611775
+New York,10018,339,West 39th Street,New York,"339 West 39th Street, New York, NY 10018, United States of America",-73.99297185,40.7563047
+New York,10018,343,West 39th Street,New York,"343 West 39th Street, New York, NY 10018, United States of America",-73.9930888858336,40.7563538
+New York,10018,450,11th Avenue,New York,"450 11th Avenue, New York, NY 10018, United States of America",-74.00041673514659,40.757329299999995
+New York,10018,206,West 41st Street,New York,"206 West 41st Street, New York, NY 10018, United States of America",-73.98807633625273,40.7554095
+New York,10018,515,9th Avenue,New York,"515 9th Avenue, New York, NY 10018, United States of America",-73.9944985,40.7565827
+New York,10018,220,West 41st Street,New York,"220 West 41st Street, New York, NY 10018, United States of America",-73.98860884309764,40.7556116
+New York,10018,326,West 40th Street,New York,"326 West 40th Street, New York, NY 10018, United States of America",-73.99234477892514,40.756409899999994
+New York,10018,340,West 40th Street,New York,"340 West 40th Street, New York, NY 10018, United States of America",-73.99270425,40.75653655
+New York,10036,6,Times Square,New York,"6 Times Square, New York, NY 10036, United States of America",-73.985979706842,40.7552496
+New York,10018,330,West 40th Street,New York,"330 West 40th Street, New York, NY 10018, United States of America",-73.99252248791056,40.756460149999995
+New York,10018,342,West 40th Street,New York,"342 West 40th Street, New York, NY 10018, United States of America",-73.99286211271647,40.75660285
+New York,10018,350,West 40th Street,New York,"350 West 40th Street, New York, NY 10018, United States of America",-73.99308974767494,40.7566677
+New York,10018,522,West 38th Street,New York,"522 West 38th Street, New York, NY 10018, United States of America",-73.9982956,40.7573258
+New York,10017,304,East 42nd Street,New York,"304 East 42nd Street, New York, NY 10017, United States of America",-73.9718919,40.7495001
+New York,10036,136,West 42nd Street,New York,"136 West 42nd Street, New York, NY 10036, United States of America",-73.9856620243946,40.755178799999996
+New York,10017,109,Park Avenue,New York,"109 Park Avenue, New York, NY 10017, United States of America",-73.97632438188816,40.7520431
+New York,11215,531-533,3rd Avenue,New York,"531-533 3rd Avenue, New York, NY 11215, United States of America",-73.99297396094917,40.6687398
+New York,10018,350,West 40th Street,New York,"350 West 40th Street, New York, NY 10018, United States of America",-73.9929518,40.7567361
+New York,10018,340,West 40th Street,New York,"340 West 40th Street, New York, NY 10018, United States of America",-73.9932298,40.756878
+New York,10017,231,East 43rd Street,New York,"231 East 43rd Street, New York, NY 10017, United States of America",-73.97216198945783,40.7509857
+New York,10036,44,West 44th Street,New York,"44 West 44th Street, New York, NY 10036, United States of America",-73.98243189502742,40.75541175
+New York,10036,270,8th Avenue,New York,"270 8th Avenue, New York, NY 10036, United States of America",-73.98904730861301,40.757469099999994
+New York,10036,147,West 43rd Street,New York,"147 West 43rd Street, New York, NY 10036, United States of America",-73.98539700287171,40.756498
+New York,10036,130,West 44th Street,New York,"130 West 44th Street, New York, NY 10036, United States of America",-73.9846260944322,40.7564397
+New York,10017,141,East 44th Street,New York,"141 East 44th Street, New York, NY 10017, United States of America",-73.9744845,40.7526594
+New York,10017,219,East 44th Street,New York,"219 East 44th Street, New York, NY 10017, United States of America",-73.97234060562664,40.75186025
+New York,10036,49,West 44th Street,New York,"49 West 44th Street, New York, NY 10036, United States of America",-73.98193410560786,40.7558514
+New York,10036,45,West 44th Street,New York,"45 West 44th Street, New York, NY 10036, United States of America",-73.98159261006356,40.755927549999996
+New York,10036,55,West 44th Street,New York,"55 West 44th Street, New York, NY 10036, United States of America",-73.98211376046096,40.755933549999995
+New York,10036,400,West 42nd Street,New York,"400 West 42nd Street, New York, NY 10036, United States of America",-73.9930847,40.7584274
+New York,11222,77,Box Street,New York,"77 Box Street, New York, NY 11222, United States of America",-73.95368507222183,40.7378293
+New York,10036,59,West 44th Street,New York,"59 West 44th Street, New York, NY 10036, United States of America",-73.98234726189956,40.7559397
+New York,10036,120,West 44th Street,New York,"120 West 44th Street, New York, NY 10036, United States of America",-73.984341,40.7565163
+New York,10036,123,West 44th Street,New York,"123 West 44th Street, New York, NY 10036, United States of America",-73.98412431321111,40.756795749999995
+New York,10017,1,1st Avenue,New York,"1 1st Avenue, New York, NY 10017, United States of America",-73.9694314,40.7505535
+New York,10017,302,East 45th Street,New York,"302 East 45th Street, New York, NY 10017, United States of America",-73.97054796900932,40.7513607
+New York,10017,128,East 45th Street,New York,"128 East 45th Street, New York, NY 10017, United States of America",-73.9744245,40.753146
+New York,10036,145,West 44th Street,New York,"145 West 44th Street, New York, NY 10036, United States of America",-73.98479235297287,40.7570832
+New York,10036,570,10th Avenue,New York,"570 10th Avenue, New York, NY 10036, United States of America",-73.995439,40.7590853
+New York,10036,70,West 45th Street,New York,"70 West 45th Street, New York, NY 10036, United States of America",-73.982194500076,40.7563313
+New York,10036,40,West 45th Street,New York,"40 West 45th Street, New York, NY 10036, United States of America",-73.9812639,40.7559916
+New York,10036,132,West 45th Street,New York,"132 West 45th Street, New York, NY 10036, United States of America",-73.98419942323217,40.75714965
+New York,10036,300,West 44th Street,New York,"300 West 44th Street, New York, NY 10036, United States of America",-73.98961088609576,40.75860555
+New York,10017,205,East 45th Street,New York,"205 East 45th Street, New York, NY 10017, United States of America",-73.97244713542085,40.7527046
+New York,10036,15,West 45th Street,New York,"15 West 45th Street, New York, NY 10036, United States of America",-73.98019941151574,40.75593685
+New York,10036,,West 44th Street,New York,"West 44th Street, New York, NY 10036, United States of America",-73.99010058707555,40.758831349999994
+New York,10017,16,East 46th Street,New York,"16 East 46th Street, New York, NY 10017, United States of America",-73.97809355491913,40.7554024
+New York,10036,109,West 45th Street,New York,"109 West 45th Street, New York, NY 10036, United States of America",-73.98318532682146,40.75720905
+New York,10036,700,8th Avenue,New York,"700 8th Avenue, New York, NY 10036, United States of America",-73.98829810966258,40.75871345
+Weehawken,07086,500,Harbor Boulevard,New Jersey,"500 Harbor Boulevard, Weehawken, NJ 07086, United States of America",-74.02355798461866,40.7587784
+New York,10036,30,West 46th Street,New York,"30 West 46th Street, New York, NY 10036, United States of America",-73.98063878060343,40.75646535
+New York,10037,,Lexington Avenue,New York,"Lexington Avenue, New York, NY 10037, United States of America",-73.97413,40.7537603
+New York,10036,125,West 45th Street,New York,"125 West 45th Street, New York, NY 10036, United States of America",-73.98378198980811,40.7574744
+New York,10036,135,West 45th Street,New York,"135 West 45th Street, New York, NY 10036, United States of America",-73.98402229211055,40.757571999999996
+New York,10036,130,West 46th Street,New York,"130 West 46th Street, New York, NY 10036, United States of America",-73.98377644146242,40.75778325
+New York,10019,1535,Broadway,New York,"1535 Broadway, New York, NY 10019, United States of America",-73.98619348708037,40.75859705
+New York,10036,343,West 44th Street,New York,"343 West 44th Street, New York, NY 10036, United States of America",-73.99066118731854,40.7595785
+New York,10036,1180,6th Avenue,New York,"1180 6th Avenue, New York, NY 10036, United States of America",-73.9814542,40.7571989
+New York,10017,224,East 47th Street,New York,"224 East 47th Street, New York, NY 10017, United States of America",-73.97090814102486,40.7532316
+New York,10036,129,West 46th Street,New York,"129 West 46th Street, New York, NY 10036, United States of America",-73.98343856829689,40.75812025
+New York,10017,,East 47th Street,New York,"East 47th Street, New York, NY 10017, United States of America",-73.9742339,40.7549383
+New York,10017,145,East 47th Street,New York,"145 East 47th Street, New York, NY 10017, United States of America",-73.97265292511236,40.75442615
+New York,10036,249,West 45th Street,New York,"249 West 45th Street, New York, NY 10036, United States of America",-73.9869234,40.7592445
+New York,10036,228,West 47th Street,New York,"228 West 47th Street, New York, NY 10036, United States of America",-73.98629435893783,40.759647
+New York,10036,235,West 46th Street,New York,"235 West 46th Street, New York, NY 10036, United States of America",-73.98700765640905,40.75964865
+New York,10017,511,Lexington Avenue,New York,"511 Lexington Avenue, New York, NY 10017, United States of America",-73.97303572091195,40.754906250000005
+New York,10036,132,West 47th Street,New York,"132 West 47th Street, New York, NY 10036, United States of America",-73.9832127,40.7584738
+New York,10017,148,East 48th Street,New York,"148 East 48th Street, New York, NY 10017, United States of America",-73.97258084684542,40.7547132
+New York,10036,,West 47th Street,New York,"West 47th Street, New York, NY 10036, United States of America",-73.98564121126444,40.759410700000004
+New York,10036,1568,Broadway,New York,"1568 Broadway, New York, NY 10036, United States of America",-73.9844836,40.7590118
+New York,10036,305,West 46th Street,New York,"305 West 46th Street, New York, NY 10036, United States of America",-73.98818985034285,40.7602347
+New York,10036,145,West 47th Street,New York,"145 West 47th Street, New York, NY 10036, United States of America",-73.98339573637946,40.75892935
+New York,10036,346,West 46th Street,New York,"346 West 46th Street, New York, NY 10036, United States of America",-73.9897411,40.760432
+New York,10017,111,East 48th Street,New York,"111 East 48th Street, New York, NY 10017, United States of America",-73.97351235,40.755752349999995
+New York,10017,517,Lexington Avenue,New York,"517 Lexington Avenue, New York, NY 10017, United States of America",-73.97291142988936,40.75532665
+New York,10036,305,West 46th Street,New York,"305 West 46th Street, New York, NY 10036, United States of America",-73.9881913,40.7602133
+New York,11222,251,North Henry Street,New York,"251 North Henry Street, New York, NY 11222, United States of America",-73.9442507,40.7280283
+New York,10036,302,West 47th Street,New York,"302 West 47th Street, New York, NY 10036, United States of America",-73.9880959639049,40.760476800000006
+New York,11232,150,20th Street,New York,"150 20th Street, New York, NY 11232, United States of America",-73.99610651937499,40.6636455
+New York,10036,,West 48th Street,New York,"West 48th Street, New York, NY 10036, United States of America",-73.9845837,40.7597371
+New York,10019,159,West 48th Street,New York,"159 West 48th Street, New York, NY 10019, United States of America",-73.98330154698687,40.75976355
+New York,10036,234,West 48th Street,New York,"234 West 48th Street, New York, NY 10036, United States of America",-73.98645678936563,40.7605187
+Jersey City,07306,789,Newark Avenue,New Jersey,"789 Newark Avenue, Jersey City, NJ 07306, United States of America",-74.06467918381308,40.735314450000004
+New York,10037,301,Park Avenue,New York,"301 Park Avenue, New York, NY 10037, United States of America",-73.97336164306073,40.756502
+New York,10019,1605,Broadway,New York,"1605 Broadway, New York, NY 10019, United States of America",-73.98512516227065,40.7605958
+New York,10022,541,Lexington Avenue,New York,"541 Lexington Avenue, New York, NY 10022, United States of America",-73.9725033,40.7559859
+New York,10022,150,East 50th Street,New York,"150 East 50th Street, New York, NY 10022, United States of America",-73.97151261348168,40.7559189
+New York,10019,790,8th Avenue,New York,"790 8th Avenue, New York, NY 10019, United States of America",-73.9864466839467,40.761308299999996
+New York,10019,142,West 49th Street,New York,"142 West 49th Street, New York, NY 10019, United States of America",-73.9829482,40.7600158
+New York,10017,,Mitchell Place,New York,"Mitchell Place, New York, NY 10017, United States of America",-73.96608593896552,40.753332900000004
+New York,10019,242,West 49th Street,New York,"242 West 49th Street, New York, NY 10019, United States of America",-73.98598052843334,40.7611635
+New York,10036,319,West 48th Street,New York,"319 West 48th Street, New York, NY 10036, United States of America",-73.98804964454834,40.7617003
+New York,10022,455,Madison Avenue,New York,"455 Madison Avenue, New York, NY 10022, United States of America",-73.97476900451042,40.75798035
+New York,10022,125,East 50th Street,New York,"125 East 50th Street, New York, NY 10022, United States of America",-73.97203865062694,40.7565671
+New York,10022,145,East 50th Street,New York,"145 East 50th Street, New York, NY 10022, United States of America",-73.97138184833344,40.7563456
+Jersey City,07306,65,Tonnelle Avenue,New Jersey,"65 Tonnelle Avenue, Jersey City, NJ 07306, United States of America",-74.06753997193792,40.7329735
+New York,10022,155,East 50th Street,New York,"155 East 50th Street, New York, NY 10022, United States of America",-73.9708905,40.7561485
+New York,10022,569,Lexington Avenue,New York,"569 Lexington Avenue, New York, NY 10022, United States of America",-73.97141021665449,40.75664945
+New York,10022,230,East 51st Street,New York,"230 East 51st Street, New York, NY 10022, United States of America",-73.96909164907899,40.7557125
+New York,10019,218,West 50th Street,New York,"218 West 50th Street, New York, NY 10019, United States of America",-73.9849798,40.7615295
+New York,10019,152,West 51st Street,New York,"152 West 51st Street, New York, NY 10019, United States of America",-73.98277049913735,40.76125745
+New York,10019,25,West 51st Street,New York,"25 West 51st Street, New York, NY 10019, United States of America",-73.9781755394622,40.75996485
+New York,10019,25,West 51st Street,New York,"25 West 51st Street, New York, NY 10019, United States of America",-73.97775392346912,40.7600141
+New York,11206,869,Park Avenue,New York,"869 Park Avenue, New York, NY 11206, United States of America",-73.9405894,40.6987785
+New York,10022,206,East 52nd Street,New York,"206 East 52nd Street, New York, NY 10022, United States of America",-73.96944522802013,40.75664105
+New York,10036,538,West 48th Street,New York,"538 West 48th Street, New York, NY 10036, United States of America",-73.99456410165035,40.7639894
+New York,10036,548,West 48th Street,New York,"548 West 48th Street, New York, NY 10036, United States of America",-73.99495675849717,40.764155599999995
+New York,10036,653,11th Avenue,New York,"653 11th Avenue, New York, NY 10036, United States of America",-73.9958863,40.764515
+New York,10019,318,West 51st Street,New York,"318 West 51st Street, New York, NY 10019, United States of America",-73.98678453011999,40.76316345
+New York,10035,,3rd Avenue,New York,"3rd Avenue, New York, NY 10035, United States of America",-73.9698932,40.7573984
+New York,10019,,West 51st Street,New York,"West 51st Street, New York, NY 10019, United States of America",-73.9829659,40.7621727
+New York,10019,725,10th Avenue,New York,"725 10th Avenue, New York, NY 10019, United States of America",-73.99255366280462,40.764622
+New York,11206,179,Moore Street,New York,"179 Moore Street, New York, NY 11206, United States of America",-73.93759537742173,40.7043155
+New York,11232,764,4th Avenue,New York,"764 4th Avenue, New York, NY 11232, United States of America",-73.99859902273755,40.66034075
+New York,10019,20,West 53rd Street,New York,"20 West 53rd Street, New York, NY 10019, United States of America",-73.97736388857598,40.760807400000004
+New York,10019,851,8th Avenue,New York,"851 8th Avenue, New York, NY 10019, United States of America",-73.98569286402653,40.76336435
+New York,10019,,7th Avenue,New York,"7th Avenue, New York, NY 10019, United States of America",-73.98145115685841,40.7623787
+Jersey City,07047,,Tonnelle Avenue,New Jersey,"Tonnelle Avenue, Jersey City, NJ 07047, United States of America",-74.06223534108368,40.7439423
+New York,10019,1335,6th Avenue,New York,"1335 6th Avenue, New York, NY 10019, United States of America",-73.97971304210724,40.76246105
+New York,11216,1199,Atlantic Avenue,New York,"1199 Atlantic Avenue, New York, NY 11216, United States of America",-73.95118321451463,40.678781400000005
+New York,10019,65,West 54th Street,New York,"65 West 54th Street, New York, NY 10019, United States of America",-73.97809397666808,40.762463600000004
+New York,10022,152,East 55th Street,New York,"152 East 55th Street, New York, NY 10022, United States of America",-73.96935516060762,40.759064949999996
+New York,10035,,5th Avenue,New York,"5th Avenue, New York, NY 10035, United States of America",-73.9752856652103,40.761626050000004
+New York,10019,151,West 54th Street,New York,"151 West 54th Street, New York, NY 10019, United States of America",-73.98050656899403,40.76345465
+New York,10022,16,East 55th Street,New York,"16 East 55th Street, New York, NY 10022, United States of America",-73.9739729,40.7610689
+New York,10022,2,East 55th Street,New York,"2 East 55th Street, New York, NY 10022, United States of America",-73.9743323,40.7612458
+New York,11232,826,4th Avenue,New York,"826 4th Avenue, New York, NY 11232, United States of America",-74.00045724352924,40.65861105
+New York,10019,230,West 54th Street,New York,"230 West 54th Street, New York, NY 10019, United States of America",-73.9828113,40.7640637
+New York,10022,127,East 55th Street,New York,"127 East 55th Street, New York, NY 10022, United States of America",-73.97042513251026,40.75998145
+New York,11216,1229,Atlantic Avenue,New York,"1229 Atlantic Avenue, New York, NY 11216, United States of America",-73.9501309617367,40.6787185
+Jersey City,07307,459,Tonnelle Avenue,New Jersey,"459 Tonnelle Avenue, Jersey City, NJ 07307, United States of America",-74.06221385015817,40.7466677
+New York,10019,237,West 54th Street,New York,"237 West 54th Street, New York, NY 10019, United States of America",-73.98301001135479,40.764509
+New York,10019,,West 54th Street,New York,"West 54th Street, New York, NY 10019, United States of America",-73.9826989,40.7643419
+New York,10019,210,West 55th Street,New York,"210 West 55th Street, New York, NY 10019, United States of America",-73.9817987,40.7643557
+New York,11206,1090,Myrtle Avenue,New York,"1090 Myrtle Avenue, New York, NY 11206, United States of America",-73.93702947642493,40.69658305
+New York,10022,330,East 56th Street,New York,"330 East 56th Street, New York, NY 10022, United States of America",-73.96454730422741,40.75790125
+New York,10019,860,7th Avenue,New York,"860 7th Avenue, New York, NY 10019, United States of America",-73.98118350386852,40.76472575
+New York,10022,111,East 56th Street,New York,"111 East 56th Street, New York, NY 10022, United States of America",-73.97037360101965,40.76082065
+New York,11232,850,4th Avenue,New York,"850 4th Avenue, New York, NY 11232, United States of America",-74.0013430756363,40.65764525
+New York,11101,44-29,9th Street,New York,"44-29 9th Street, New York, NY 11101, United States of America",-73.9517639894174,40.7495506
+New York,10022,130,East 57th Street,New York,"130 East 57th Street, New York, NY 10022, United States of America",-73.9695830804261,40.7608096
+New York,10019,15,West 56th Street,New York,"15 West 56th Street, New York, NY 10019, United States of America",-73.9753651,40.7629278
+New York,10022,687,Lexington Avenue,New York,"687 Lexington Avenue, New York, NY 10022, United States of America",-73.96900776924419,40.76051795
+New York,10019,119,West 56th Street,New York,"119 West 56th Street, New York, NY 10019, United States of America",-73.97857202027754,40.7643285
+New York,11232,135,32nd Street,New York,"135 32nd Street, New York, NY 11232, United States of America",-74.00283284057431,40.657242100000005
+New York,10019,244,West 56th Street,New York,"244 West 56th Street, New York, NY 10019, United States of America",-73.98301340242708,40.7656207
+New York,11216,1324,Atlantic Avenue,New York,"1324 Atlantic Avenue, New York, NY 11216, United States of America",-73.94871029383333,40.678145650000005
+New York,11206,249,Varet Street,New York,"249 Varet Street, New York, NY 11206, United States of America",-73.9338226,40.7042272
+New York,10019,940,8th Avenue,New York,"940 8th Avenue, New York, NY 10019, United States of America",-73.9834058,40.7656693
+New York,10019,102,West 57th Street,New York,"102 West 57th Street, New York, NY 10019, United States of America",-73.97792793784404,40.7643797
+New York,10019,120,West 57th Street,New York,"120 West 57th Street, New York, NY 10019, United States of America",-73.97847020452481,40.76457245
+New York,10022,57,East 57th Street,New York,"57 East 57th Street, New York, NY 10022, United States of America",-73.97125668962013,40.76230085
+New York,10022,400,East 57th Street,New York,"400 East 57th Street, New York, NY 10022, United States of America",-73.9627407,40.7580573
+New York,11232,137,33rd Street,New York,"137 33rd Street, New York, NY 11232, United States of America",-74.003298,40.65660995
+New York,10019,101,West 57th Street,New York,"101 West 57th Street, New York, NY 10019, United States of America",-73.9774764,40.7646529
+New York,10019,42,West 58th Street,New York,"42 West 58th Street, New York, NY 10019, United States of America",-73.97566660614639,40.76432905
+New York,11206,,Bogart Street,New York,"Bogart Street, New York, NY 11206, United States of America",-73.9329298,40.7038739
+New York,10019,153,West 57th Street,New York,"153 West 57th Street, New York, NY 10019, United States of America",-73.9793143,40.7654216
+New York,10019,1414,6th Avenue,New York,"1414 6th Avenue, New York, NY 10019, United States of America",-73.97650717361952,40.7647093
+Jersey City,07307,750,Tonnelle Avenue,New Jersey,"750 Tonnelle Avenue, Jersey City, NJ 07307, United States of America",-74.05470165,40.75582035
+New York,10019,768,5th Avenue,New York,"768 5th Avenue, New York, NY 10019, United States of America",-73.97449410382455,40.764459849999994
+New York,10019,36,Central Park South,New York,"36 Central Park South, New York, NY 10019, United States of America",-73.975344246875,40.7648557
+New York,10019,50,Central Park South,New York,"50 Central Park South, New York, NY 10019, United States of America",-73.97601021254735,40.7651799
+New York,10019,440,West 57th Street,New York,"440 West 57th Street, New York, NY 10019, United States of America",-73.98771450270256,40.7681761
+New York,11216,781,Prospect Place,New York,"781 Prospect Place, New York, NY 11216, United States of America",-73.9506556,40.6745656
+New York,10019,160,Central Park South,New York,"160 Central Park South, New York, NY 10019, United States of America",-73.97850978935445,40.76617385
+New York,10019,308,West 58th Street,New York,"308 West 58th Street, New York, NY 10019, United States of America",-73.98319405085621,40.767482799999996
+New York,10022,,East 59th Street,New York,"East 59th Street, New York, NY 10022, United States of America",-73.97252105799525,40.7643224
+New York,11101,,44th Avenue,New York,"44th Avenue, New York, NY 11101, United States of America",-73.9479154,40.7496206
+New York,11101,52-34,Van Dam Street,New York,"52-34 Van Dam Street, New York, NY 11101, United States of America",-73.93676170161297,40.7361885
+New York,11101,44-02,21st Street,New York,"44-02 21st Street, New York, NY 11101, United States of America",-73.94713685395294,40.74941095
+New York,10044,22,North Loop Road,New York,"22 North Loop Road, New York, NY 10044, United States of America",-73.9555038,40.756205
+New York,10021,,East 61st Street,New York,"East 61st Street, New York, NY 10021, United States of America",-73.97162325892306,40.76506195
+New York,11232,353,38th Street,New York,"353 38th Street, New York, NY 11232, United States of America",-74.00618599749731,40.65382445
+New York,11101,26-32,Skillman Avenue,New York,"26-32 Skillman Avenue, New York, NY 11101, United States of America",-73.9406498,40.7441797
+New York,10037,540,Park Avenue,New York,"540 Park Avenue, New York, NY 10037, United States of America",-73.9691102,40.7645205
+New York,10019,534,West 58th Street,New York,"534 West 58th Street, New York, NY 10019, United States of America",-73.9897271,40.7703488
+New York,10023,80,Columbus Circle,New York,"80 Columbus Circle, New York, NY 10023, United States of America",-73.982912,40.7690103
+New York,11101,11-01,11th Street,New York,"11-01 11th Street, New York, NY 11101, United States of America",-73.94750466607101,40.75198
+New York,10023,1,Central Park West,New York,"1 Central Park West, New York, NY 10023, United States of America",-73.98154034044947,40.7691474
+New York,10062,,East 62nd Street,New York,"East 62nd Street, New York, NY 10062, United States of America",-73.96282592955777,40.76215165
+New York,11101,3317,Greenpoint Avenue,New York,"3317 Greenpoint Avenue, New York, NY 11101, United States of America",-73.93421275,40.73616695
+New York,11101,8-08,Queens Plaza South,New York,"8-08 Queens Plaza South, New York, NY 11101, United States of America",-73.94894055215045,40.753768199999996
+New York,10037,692,Madison Avenue,New York,"New York, NY 10037, United States of America",-73.9701137,40.76568
+New York,10037,692,Madison Avenue,New York,"New York, NY 10037, United States of America",-73.9700902,40.7656726
+Union City,07087,,29th Street,New Jersey,"29th Street, Union City, NJ 07087, United States of America",-74.0284496,40.7698126
+New York,10065,500,East 62nd Street,New York,"500 East 62nd Street, New York, NY 10065, United States of America",-73.9581709,40.7602216
+North Bergen,07087,1631,John F. Kennedy Boulevard,New Jersey,"North Bergen, NJ 07087, United States of America",-74.0429277,40.7658693
+North Bergen,07047,1200,Tonnelle Avenue,New Jersey,"1200 Tonnelle Avenue, North Bergen, NJ 07047, United States of America",-74.04795952621248,40.76406505
+New York,11101,27-03,43rd Avenue,New York,"27-03 43rd Avenue, New York, NY 11101, United States of America",-73.94124592149025,40.7481459
+New York,11232,437,39th Street,New York,"437 39th Street, New York, NY 11232, United States of America",-74.00501997632465,40.6522746
+New York,11232,457,39th Street,New York,"457 39th Street, New York, NY 11232, United States of America",-74.00450229388885,40.651868050000004
+New York,10065,37,East 64th Street,New York,"37 East 64th Street, New York, NY 10065, United States of America",-73.96830380629572,40.766600350000004
+New York,10023,44,West 63rd Street,New York,"44 West 63rd Street, New York, NY 10023, United States of America",-73.98260008236542,40.77133675
+New York,10065,215,East 64th Street,New York,"215 East 64th Street, New York, NY 10065, United States of America",-73.9631097,40.7643867
+New York,10023,,West 63rd Street,New York,"West 63rd Street, New York, NY 10023, United States of America",-73.9804233,40.7707317
+New York,11232,517,39th Street,New York,"517 39th Street, New York, NY 11232, United States of America",-74.00328389419096,40.6510799
+New York,11101,,Jackson Avenue,New York,"Jackson Avenue, New York, NY 11101, United States of America",-73.9397176,40.7482978
+New York,11101,42-24,Crescent Street,New York,"42-24 Crescent Street, New York, NY 11101, United States of America",-73.9413658,40.7500238
+New York,11220,4410,3rd Avenue,New York,"4410 3rd Avenue, New York, NY 11220, United States of America",-74.01174895601935,40.6509849
+New York,11232,,39th Street,New York,"39th Street, New York, NY 11232, United States of America",-74.00315192361242,40.65054785
+New York,11101,41-03,21st Street,New York,"41-03 21st Street, New York, NY 11101, United States of America",-73.94239115,40.7536418
+New York,11101,3136,Queens Boulevard,New York,"3136 Queens Boulevard, New York, NY 11101, United States of America",-73.93386449593085,40.7450373
+New York,11232,646,39th Street,New York,"646 39th Street, New York, NY 11232, United States of America",-74.00071303018731,40.6490212
+New York,11101,40-47,22nd Street,New York,"40-47 22nd Street, New York, NY 11101, United States of America",-73.94105312072139,40.753554
+New York,11101,,Queens Plaza North,New York,"Queens Plaza North, New York, NY 11101, United States of America",-73.9375408,40.7499439
+New York,11101,29-15,Queens Plaza North,New York,"29-15 Queens Plaza North, New York, NY 11101, United States of America",-73.9372918,40.7501206
+Weehawken,07086,550,Avenue at Port Imperial,New Jersey,"550 Avenue at Port Imperial, Weehawken, NJ 07086, United States of America",-74.0113387,40.7769934
+New York,11101,29-21,41st Avenue,New York,"29-21 41st Avenue, New York, NY 11101, United States of America",-73.936904,40.7502286
