@@ -1,4 +1,5 @@
 let url = "http://127.0.0.1:5000/api/v1.0/hotels";
+let hotel_detail_url = "http://127.0.0.1:5000/api/v1.0/hotel/";
 let rank_url = "http://127.0.0.1:5000/api/v1.0/hotels/ranking/";
 
 let myMap = L.map("map", {
@@ -61,8 +62,19 @@ function buildMap(hotel_sel) {
             L.marker(hotel.location, {
                 title: hotel.name
             }).addTo(layerGroup);
-        }
-
+            d3.json(hotel_detail_url + hotel_sel).then((hoteldetail) => {
+                all_entertainment = hoteldetail.all_entertainment;
+                all_entertainment.forEach((entertainment) => {
+                    console.log(entertainment.entertainment_place);
+                    L.circle(entertainment.location, {
+                        fillOpacity: 0.75,
+                        color: "white",
+                        fillColor: "red",
+                        radius: 200
+                    }).bindTooltip(entertainment.entertainment_place).addTo(layerGroup);
+                });
+            });
+        };
     });
 };
 
@@ -71,19 +83,18 @@ function buildMetadata(hotel_sel) {
     if (hotel_sel == '*') {
         d3.select("#sample-metadata").html("");
     } else {
-        d3.json(url).then((hoteldata) => {
+        d3.json(hotel_detail_url + hotel_sel).then((hoteldetail) => {
             console.log(`selected hotel: ${hotel_sel}`);
-            console.log(hoteldata);
-            let hotel = filterHotel(hotel_sel, hoteldata);
-            console.log(hotel.name);
+            console.log(hoteldetail);
+            console.log(hoteldetail.name);
             d3.select("#sample-metadata").html("");
-            d3.select("#sample-metadata").append("h5").text("Name: " + hotel.name);
-            d3.select("#sample-metadata").append("h5").text("Address: " + hotel.address);
-            d3.select("#sample-metadata").append("h5").text("Rating: " + hotel.rating);
-            d3.select("#sample-metadata").append("h5").text("Reviews: " + hotel.reviews);
-            d3.select("#sample-metadata").append("h5").text("Wheelchair: " + hotel.wheelchair);
-            d3.select("#sample-metadata").append("h5").text("Subway: " + hotel.subway);
-            d3.select("#sample-metadata").append("h5").text("Entertainment: " + hotel.entertainment);
+            d3.select("#sample-metadata").append("h5").text("Name: " + hoteldetail.name);
+            d3.select("#sample-metadata").append("h5").text("Address: " + hoteldetail.address);
+            d3.select("#sample-metadata").append("h5").text("Reviews: " + hoteldetail.reviews);
+            d3.select("#sample-metadata").append("h5").text("Wheelchair: " + hoteldetail.wheelchair);
+            d3.select("#sample-metadata").append("h5").text("Nearest Subway: " + hoteldetail.subway);
+            d3.select("#sample-metadata").append("h5").text("Nearest Subway Operator: " + hoteldetail.subway_operator);
+            d3.select("#sample-metadata").append("h5").text("Average Price: " + hoteldetail.price);
         });
     }
 };
