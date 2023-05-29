@@ -1,5 +1,0 @@
-amadeus
-Flask
-numpy
-pandas
-sqlalchemy

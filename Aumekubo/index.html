@@ -6,7 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>NYC Travel Planner</title>
-<<<<<<< HEAD
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="static/css/main.css">
 </head>
@@ -57,92 +56,6 @@
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="script.js"></script>
-=======
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
-
-<style>
-  th {
-    color: #14097e;
-  }
-</style>
-
-<body>
-  <table class="table table-striped">
-    <thead class="bg-info">
-      <tr>
-        <th>Hotel Name</th>
-        <th>Address</th>
-        <th>Check-in Date</th>
-        <th>Check-Out Date</th>
-        <th>Total Price</th>
-      </tr>
-    </thead>
-    <tbody id="myTable">
-    </tbody>
-  </table>
-  
-  <div id="consoleLog"></div>
-
-  <script>
-    // Function to fetch data from a file and return a promise
-    function fetchData(dataUrl) {
-      return new Promise(function(resolve, reject) {
-        $.getJSON(dataUrl, function(data) {
-          resolve(data);
-        }).fail(function(jqXHR, textStatus, error) {
-          reject(error);
-        });
-      });
-    }
-  
-    // Function to build the table with fetched data
-    function buildTable(data) {
-      var tableBody = $("#myTable");
-      tableBody.empty(); // Clear existing table data
-  
-      $.each(data, function(index, item) {
-        var row = $("<tr>");
-        row.append($("<td>").text(item.name));
-        row.append($("<td>").text(item.address));
-        row.append($("<td>").text(item["Check-In Date"]));
-        row.append($("<td>").text(item["Check-Out Date"]));
-        tableBody.append(row);
-      });
-    }
-  
-    // Array of file paths
-   files = [
-      "./hotel.json",
-      "./ent.json",
-      "./transport.json",
-      "./hotelbooking.json"
-     ];
-  
-    // Array to store all promises
-    var promises = [];
-  
-    // Iterate through the file paths and push each fetchData promise into the promises array
-    for (var i = 0; i < files.length; i++) {
-      promises.push(fetchData(files[i]));
-    }
-  
-    // Use Promise.all() to handle all promises and execute the buildTable function once all data is fetched
-    Promise.all(promises)
-      .then(function(dataArray) {
-        for (var i = 0; i < dataArray.length; i++) {
-          buildTable(dataArray[i]);
-        }
-      })
-      .catch(function(error) {
-        var consoleLog = $("#consoleLog");
-        consoleLog.append($("<p>").text("Error fetching data: " + error));
-      });
-  </script>
->>>>>>> origin/Aumekubo
 </body>
 
 </html>
