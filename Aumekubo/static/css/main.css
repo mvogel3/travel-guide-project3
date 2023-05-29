@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Custom styling for the jumbotron */
 .custom-jumbotron {
     background-color: #f8f8f8;
@@ -14,3 +15,21 @@
     height: 50px;
   }
   
+=======
+body {
+    margin: center;
+    font-family: sans-serif;
+}
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
+>>>>>>> origin/Aumekubo

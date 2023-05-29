@@ -5,7 +5,11 @@ __pycache__/
 config.py
 # C extensions
 *.so
+<<<<<<< HEAD
 .SQL_Tables/merged_h_avg_rat_dist_transp_ent_price_df.csv   
+=======
+
+>>>>>>> origin/Aumekubo
 # Distribution / packaging
 .Python
 build/
@@ -158,3 +162,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+<<<<<<< HEAD
+=======
+
+
+**/.DS_Store
+
+config.py
+>>>>>>> origin/Aumekubo
