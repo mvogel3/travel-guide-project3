@@ -6,7 +6,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func, desc
 from sqlalchemy.orm import scoped_session, sessionmaker
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 
  
 engine = create_engine('postgresql+psycopg2://postgres:postgress@127.0.0.1:5432/hotel_db')
@@ -21,6 +21,11 @@ app = Flask(__name__)
 #################################################
 # Flask Routes
 #################################################
+
+@app.route("/dashboard")
+def dashboard():
+    return render_template('index.html')
+
 
 @app.route("/api/v1.0/hotels")
 def names():
