@@ -164,3 +164,4 @@ cython_debug/
 
 config.py
 HotelData/master_hotel_data.csv
+HotelData/all_hotels_data.csv
