@@ -1,6 +1,7 @@
 let url = "http://127.0.0.1:5000/api/v1.0/hotels";
 let hotel_detail_url = "http://127.0.0.1:5000/api/v1.0/hotel/";
 let rank_url = "http://127.0.0.1:5000/api/v1.0/hotels/ranking/";
+let price_change_url = "http://127.0.0.1:5000/api/v1.0/hotels/price-change";
 
 let myMap = L.map("map", {
     center: [40.7350, -74.0059],
@@ -39,6 +40,7 @@ function initialize() {
     rankMenu.append("option").text("Average Price").property("value", "price");
     let rank_sel = "reviews";
     showRanking(rank_sel);
+    showPriceChange();
 };
 
 function buildMap(hotel_sel) {
@@ -66,11 +68,10 @@ function buildMap(hotel_sel) {
                 all_entertainment = hoteldetail.all_entertainment;
                 all_entertainment.forEach((entertainment) => {
                     console.log(entertainment.entertainment_place);
-                    L.circle(entertainment.location, {
+                    L.circleMarker(entertainment.location, {
                         fillOpacity: 0.75,
                         color: "white",
-                        fillColor: "red",
-                        radius: 200
+                        fillColor: "red"
                     }).bindTooltip(entertainment.entertainment_place).addTo(layerGroup);
                 });
             });
@@ -91,10 +92,10 @@ function buildMetadata(hotel_sel) {
             d3.select("#sample-metadata").append("h5").text("Name: " + hoteldetail.name);
             d3.select("#sample-metadata").append("h5").text("Address: " + hoteldetail.address);
             d3.select("#sample-metadata").append("h5").text("Reviews: " + hoteldetail.reviews);
-            d3.select("#sample-metadata").append("h5").text("Wheelchair: " + hoteldetail.wheelchair);
+            d3.select("#sample-metadata").append("h5").text("Average Price: " + hoteldetail.price);
             d3.select("#sample-metadata").append("h5").text("Nearest Subway: " + hoteldetail.subway);
             d3.select("#sample-metadata").append("h5").text("Nearest Subway Operator: " + hoteldetail.subway_operator);
-            d3.select("#sample-metadata").append("h5").text("Average Price: " + hoteldetail.price);
+            d3.select("#sample-metadata").append("h5").text("Wheelchair Accessible: " + hoteldetail.wheelchair);
         });
     }
 };
@@ -112,7 +113,7 @@ function showRanking(rank_sel) {
         };
 
         let layout = {
-            title: `Top 10 hotels by ${hotelNumber.x_label}`,
+            title: `Top 5 hotels by ${hotelNumber.x_label}`,
             margin: {
                 l: 300,
                 r: 50,
@@ -123,6 +124,27 @@ function showRanking(rank_sel) {
         };
 
         Plotly.newPlot("hotel-ranking", [trace], layout)
+    });
+};
+
+function showPriceChange() {
+    d3.json(price_change_url).then((price_changes) => {
+        let trace = {
+            x: price_changes.months,
+            y: price_changes.prices,
+            text: price_changes.prices,
+            type: "line",
+        };
+
+        let layout = {
+            title: "Price change over the Year",
+            yaxis: {
+                title: {
+                    text: "Price($)"
+                }
+            }
+        };
+        Plotly.newPlot("price-change", [trace], layout)
     });
 };
 

@@ -17,7 +17,6 @@ Base.prepare(autoload_with=engine)
 # Flask Setup
 #################################################
 app = Flask(__name__)
-app.config['DEBUG'] = True
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 #################################################
@@ -63,21 +62,21 @@ def hotel_details(hotel_name):
 
     """Return a list of all hotel names and address"""
     # Query all passengers
-    results = session.query(HOTEL.hotel_number, HOTEL.hotel_street, HOTEL.city, HOTEL.postcode, HOTEL.total_price, HOTEL.hotel_rating, HOTEL.hotel_latitude, HOTEL.hotel_longitude, HOTEL.subway_station, HOTEL.subway_operator, HOTEL.entertainment_place, HOTEL.ent_full_address, HOTEL.ent_latitude, HOTEL.ent_longitude).filter(HOTEL.hotel_name == hotel_name).all()
+    results = session.query(HOTEL.hotel_number, HOTEL.hotel_street, HOTEL.city, HOTEL.postcode, HOTEL.total_price, HOTEL.hotel_rating, HOTEL.hotel_latitude, HOTEL.hotel_longitude, HOTEL.subway_station, HOTEL.subway_operator, HOTEL.fully_wheelchair_accessible, HOTEL.entertainment_place, HOTEL.ent_full_address, HOTEL.ent_latitude, HOTEL.ent_longitude).filter(HOTEL.hotel_name == hotel_name).all()
 
     session.close()
 
     hotel_info = {}
     all_entertainment = []
     first=False
-    for hotel_number, hotel_street, city, postcode, total_price, hotel_rating, hotel_latitude, hotel_longitude, subway_station, subway_operator, entertainment_place, ent_full_address, ent_latitude, ent_longitude in results:
+    for hotel_number, hotel_street, city, postcode, total_price, hotel_rating, hotel_latitude, hotel_longitude, subway_station, subway_operator, wheelchair, entertainment_place, ent_full_address, ent_latitude, ent_longitude in results:
         entertainment_info = {}
         if(not first):
             hotel_info["name"] = hotel_name
             hotel_info["address"] = f"{hotel_number}, {hotel_street}, {city}, {postcode}"
             hotel_info["price"] = total_price
             hotel_info["reviews"] = hotel_rating
-            hotel_info["wheelchair"] = "yes"
+            hotel_info["wheelchair"] = wheelchair
             hotel_info["subway"] = subway_station
             hotel_info["subway_operator"] = subway_operator
             hotel_info["location"] = [float(hotel_latitude), float(hotel_longitude)]
@@ -101,28 +100,25 @@ def hotel_details(hotel_name):
 
 @app.route("/api/v1.0/hotels/ranking/<rank_by>")
 def rankings(rank_by):
-    HOTEL_NUMBERS = Base.classes.hotel_numbers
+    HOTEL = Base.classes.hotels
     results=[]
     x_label=""
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
     if (rank_by == 'ratings') :
-        """Return a list of all hotel names and address"""
         # Query all passengers
-        results = session.query(HOTEL_NUMBERS.hotel_name, HOTEL_NUMBERS.rating).order_by(desc(HOTEL_NUMBERS.rating)).limit(10).all()
+        results = session.query(HOTEL.hotel_name, func.max(HOTEL.rating_out_of_10)).filter(HOTEL.no_of_reviews > 1000).group_by(HOTEL.hotel_name).order_by(desc(func.max(HOTEL.rating_out_of_10))).limit(5).all()
         x_label = "Ratings"
 
     elif (rank_by == 'reviews') :
-        """Return a list of all hotel names and address"""
         # Query all passengers
-        results = session.query(HOTEL_NUMBERS.hotel_name, HOTEL_NUMBERS.reviews).order_by(desc(HOTEL_NUMBERS.reviews)).limit(10).all()
+        results = session.query(HOTEL.hotel_name, func.max(HOTEL.no_of_reviews)).group_by(HOTEL.hotel_name).order_by(desc(func.max(HOTEL.no_of_reviews))).limit(5).all()
         x_label = "Reviews"
     
     elif (rank_by == 'price') :
-        """Return a list of all hotel names and address"""
         # Query all passengers
-        results = session.query(HOTEL_NUMBERS.hotel_name, HOTEL_NUMBERS.avg_price).order_by(desc(HOTEL_NUMBERS.avg_price)).limit(10).all()
+        results = session.query(HOTEL.hotel_name, func.max(HOTEL.total_price)).group_by(HOTEL.hotel_name).order_by(desc(func.max(HOTEL.total_price))).limit(5).all()
         x_label = "Average Price"
 
 
@@ -142,6 +138,31 @@ def rankings(rank_by):
     ranking_info["x_label"] = x_label
     
     response = jsonify(ranking_info)
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    return response
+
+@app.route("/api/v1.0/hotels/price-change")
+def price_change():
+    HOTEL = Base.classes.hotels
+    HOTEL_BOOKING = Base.classes.hotel_booking
+    months = ["June", "July", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "March", "April", "May"]
+    prices=[]
+    data={}
+
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+    month = func.date_trunc('month', HOTEL_BOOKING.check_in)
+    result = session.query(func.avg(HOTEL_BOOKING.total_price), month).group_by(month).order_by(month).all()
+    session.close()
+
+
+    for price, mon in result:
+        prices.append(round(price, 2))
+
+    data["months"] = [months[i%12] for i in range(7,19)]
+    data["prices"] = [prices[i%12] for i in range(7,19)]
+    
+    response = jsonify(data)
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
