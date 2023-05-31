@@ -1,7 +1,7 @@
 let url = "http://127.0.0.1:5000/api/v1.0/hotels";
 let hotel_detail_url = "http://127.0.0.1:5000/api/v1.0/hotel/";
 let rank_url = "http://127.0.0.1:5000/api/v1.0/hotels/ranking/";
-let price_change_url = "http://127.0.0.1:5000/api/v1.0/hotels/price-change";
+let price_change_url = "http://127.0.0.1:5000/api/v1.0/hotels/price-change/";
 
 let myMap = L.map("map", {
     center: [40.7350, -74.0059],
@@ -18,10 +18,15 @@ let layerGroup = L.layerGroup().addTo(myMap);
 function initialize() {
 
     let dropdownMenu = d3.select("#selDataset");
+    let dropdownMenu1 = d3.select("#selDataset1");
     dropdownMenu.append("option").text("All Hotels").property("value", "*");
+    dropdownMenu1.append("option").text("All Hotels").property("value", "*");
     d3.json(url).then((hoteldata) => {
         hoteldata.forEach((hotel) => {
             dropdownMenu.append("option")
+                .text(hotel.name)
+                .property("value", hotel.name);
+            dropdownMenu1.append("option")
                 .text(hotel.name)
                 .property("value", hotel.name);
             L.marker(hotel.location, {
@@ -32,6 +37,7 @@ function initialize() {
 
         buildMetadata(hotel_sel);
         buildMap(hotel_sel);
+        showPriceChange(hotel_sel);
     });
 
     let rankMenu = d3.select("#rankHotels");
@@ -40,7 +46,6 @@ function initialize() {
     rankMenu.append("option").text("Average Price").property("value", "price");
     let rank_sel = "reviews";
     showRanking(rank_sel);
-    showPriceChange();
 };
 
 function buildMap(hotel_sel) {
@@ -127,8 +132,10 @@ function showRanking(rank_sel) {
     });
 };
 
-function showPriceChange() {
-    d3.json(price_change_url).then((price_changes) => {
+function showPriceChange(hotel_sel) {
+    console.log(`selected hotel: ${hotel_sel}`);
+    d3.select("#price-change").html("");
+    d3.json(price_change_url + hotel_sel).then((price_changes) => {
         let trace = {
             x: price_changes.months,
             y: price_changes.prices,

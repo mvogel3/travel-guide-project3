@@ -17,6 +17,7 @@ Base.prepare(autoload_with=engine)
 # Flask Setup
 #################################################
 app = Flask(__name__)
+app.config['DEBUG'] = True
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 #################################################
@@ -108,7 +109,7 @@ def rankings(rank_by):
 
     if (rank_by == 'ratings') :
         # Query all passengers
-        results = session.query(HOTEL.hotel_name, func.max(HOTEL.rating_out_of_10)).filter(HOTEL.no_of_reviews > 1000).group_by(HOTEL.hotel_name).order_by(desc(func.max(HOTEL.rating_out_of_10))).limit(5).all()
+        results = session.query(HOTEL.hotel_name, func.max(HOTEL.rating_out_of_10)).filter(HOTEL.no_of_reviews >= 1000).group_by(HOTEL.hotel_name).order_by(desc(func.max(HOTEL.rating_out_of_10))).limit(5).all()
         x_label = "Ratings"
 
     elif (rank_by == 'reviews') :
@@ -141,18 +142,22 @@ def rankings(rank_by):
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
-@app.route("/api/v1.0/hotels/price-change")
-def price_change():
+@app.route("/api/v1.0/hotels/price-change/<hotel_name>")
+def price_change(hotel_name):
     HOTEL = Base.classes.hotels
     HOTEL_BOOKING = Base.classes.hotel_booking
     months = ["June", "July", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "March", "April", "May"]
     prices=[]
     data={}
+    result=[]
 
     # Create our session (link) from Python to the DB
     session = Session(engine)
     month = func.date_trunc('month', HOTEL_BOOKING.check_in)
-    result = session.query(func.avg(HOTEL_BOOKING.total_price), month).group_by(month).order_by(month).all()
+    if(hotel_name == "*"):
+        result = session.query(func.avg(HOTEL_BOOKING.total_price), month).filter(HOTEL_BOOKING.hotel_name == HOTEL.hotel_name).group_by(month).order_by(month).all()
+    else: 
+        result = session.query(func.avg(HOTEL_BOOKING.total_price), month).filter(HOTEL_BOOKING.hotel_name == hotel_name).group_by(month).order_by(month).all()
     session.close()
 
 
