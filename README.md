@@ -1,8 +1,8 @@
 # travel-guide-project3
 Instruction to Run in local:
-- Start local Postgress Server:
+- Start local PostgreSQL Server:
 - Run the create statements to create tables
-- import the Data from CSV
+- Import the Data from CSV
 - Run Flask server: 
     - Go to repo folder
     - Run the command: python hotel_server.py
