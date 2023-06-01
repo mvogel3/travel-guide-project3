@@ -165,7 +165,8 @@ def price_change(hotel_name):
         prices.append(round(price, 2))
 
     data["months"] = [months[i%12] for i in range(7,19)]
-    data["prices"] = [prices[i%12] for i in range(7,19)]
+    if(len(prices) == 12):
+        data["prices"] = [prices[i%12] for i in range(7,19)]
     
     response = jsonify(data)
     response.headers.add('Access-Control-Allow-Origin', '*')
